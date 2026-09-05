@@ -2,355 +2,267 @@
 <tv generator_info_name="EPG Aggregator - epg_total">
   <channel id="sportv BR">
     <display-name>sportv BR</display-name>
-    <icon src="https://images.open-epg.com/14269.png" />
   </channel>
   <channel id="sportv 2 BR">
     <display-name>sportv 2 BR</display-name>
-    <icon src="https://images.open-epg.com/14271.png" />
   </channel>
   <channel id="sportv 3 BR">
     <display-name>sportv 3 BR</display-name>
-    <icon src="https://images.open-epg.com/14273.png" />
   </channel>
   <channel id="ESPN 2 CL">
     <display-name>ESPN 2 CL</display-name>
-    <icon src="https://images.open-epg.com/25683.png" />
   </channel>
   <channel id="ESPN 3 CL">
     <display-name>ESPN 3 CL</display-name>
-    <icon src="https://images.open-epg.com/25684.png" />
   </channel>
   <channel id="ESPN 4 CL">
     <display-name>ESPN 4 CL</display-name>
-    <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
   <channel id="ESPN 5 CL">
     <display-name>ESPN 5 CL</display-name>
-    <icon src="https://images.open-epg.com/25686.png" />
   </channel>
   <channel id="ESPN 6 CL">
     <display-name>ESPN 6 CL</display-name>
-    <icon src="https://images.open-epg.com/25687.png" />
   </channel>
   <channel id="ESPN 7 CL">
     <display-name>ESPN 7 CL</display-name>
-    <icon src="https://images.open-epg.com/25688.png" />
   </channel>
   <channel id="ESPN CL">
     <display-name>ESPN CL</display-name>
-    <icon src="https://images.open-epg.com/25689.png" />
   </channel>
   <channel id="ESPN Premium CL">
     <display-name>ESPN Premium CL</display-name>
-    <icon src="https://images.open-epg.com/34218.png" />
   </channel>
   <channel id="ESPN 2 CO">
     <display-name>ESPN 2 CO</display-name>
-    <icon src="https://images.open-epg.com/25683.png" />
   </channel>
   <channel id="ESPN 3 CO">
     <display-name>ESPN 3 CO</display-name>
-    <icon src="https://images.open-epg.com/25684.png" />
   </channel>
   <channel id="ESPN 4 CO">
     <display-name>ESPN 4 CO</display-name>
-    <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
   <channel id="ESPN 5 CO">
     <display-name>ESPN 5 CO</display-name>
-    <icon src="https://images.open-epg.com/25686.png" />
   </channel>
   <channel id="ESPN 6 CO">
     <display-name>ESPN 6 CO</display-name>
-    <icon src="https://images.open-epg.com/25687.png" />
   </channel>
   <channel id="ESPN 7 CO">
     <display-name>ESPN 7 CO</display-name>
-    <icon src="https://images.open-epg.com/25688.png" />
   </channel>
   <channel id="ESPN CO">
     <display-name>ESPN CO</display-name>
-    <icon src="https://images.open-epg.com/25689.png" />
   </channel>
   <channel id="Nova Sport 1 CZ">
     <display-name>Nova Sport 1 CZ</display-name>
-    <icon src="https://images.open-epg.com/16224855.png" />
   </channel>
   <channel id="Nova Sport 2 CZ">
     <display-name>Nova Sport 2 CZ</display-name>
-    <icon src="https://images.open-epg.com/16224856.png" />
   </channel>
   <channel id="Setanta Sports EE">
     <display-name>Setanta Sports EE</display-name>
-    <icon src="https://images.open-epg.com/12665128.png" />
   </channel>
   <channel id="Go3 Sport Open LV">
     <display-name>Go3 Sport Open LV</display-name>
-    <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
   <channel id="Setanta Sports 2 LV">
     <display-name>Setanta Sports 2 LV</display-name>
-    <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
   <channel id="Setanta Sports LV">
     <display-name>Setanta Sports LV</display-name>
-    <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
   <channel id="Fox Sports 2 MX">
     <display-name>Fox Sports 2 MX</display-name>
-    <icon src="https://images.open-epg.com/19710625.png" />
   </channel>
   <channel id="Fox Sports 3 MX">
     <display-name>Fox Sports 3 MX</display-name>
-    <icon src="https://images.open-epg.com/12665670.png" />
   </channel>
   <channel id="Fox Sports Premium MX">
     <display-name>Fox Sports Premium MX</display-name>
-    <icon src="https://images.open-epg.com/19710627.png" />
   </channel>
   <channel id="Fox Sports MX">
     <display-name>Fox Sports MX</display-name>
-    <icon src="https://images.open-epg.com/19710628.png" />
   </channel>
   <channel id="FOX MX">
     <display-name>FOX MX</display-name>
-    <icon src="https://images.open-epg.com/19710657.png" />
   </channel>
   <channel id="Polsat Sport 1">
     <display-name>Polsat Sport 1</display-name>
-    <icon src="https://images.open-epg.com/21298540.png" />
   </channel>
   <channel id="Eurosport 1 SK">
     <display-name>Eurosport 1 SK</display-name>
-    <icon src="https://images.open-epg.com/23776704.png" />
   </channel>
   <channel id="Eurosport 2 SK">
     <display-name>Eurosport 2 SK</display-name>
-    <icon src="https://images.open-epg.com/23776705.png" />
   </channel>
   <channel id="Sport1 SK">
     <display-name>Sport1 SK</display-name>
-    <icon src="https://images.open-epg.com/23776832.png" />
   </channel>
   <channel id="Sport2 SK">
     <display-name>Sport2 SK</display-name>
-    <icon src="https://images.open-epg.com/23776833.png" />
   </channel>
   <channel id="CBS Sports">
     <display-name>CBS Sports</display-name>
-    <icon src="https://images.open-epg.com/42570.png" />
   </channel>
   <channel id="FOX Deportes">
     <display-name>FOX Deportes</display-name>
-    <icon src="https://images.open-epg.com/42646.png" />
   </channel>
   <channel id="FS1">
     <display-name>FS1</display-name>
-    <icon src="https://images.open-epg.com/42650.png" />
   </channel>
   <channel id="FS2">
     <display-name>FS2</display-name>
-    <icon src="https://images.open-epg.com/42652.png" />
   </channel>
   <channel id="beIN Sports 1 AU">
     <display-name>beIN Sports 1 AU</display-name>
-    <icon src="https://images.open-epg.com/x1590.png" />
   </channel>
   <channel id="beIN Sports 2 AU">
     <display-name>beIN Sports 2 AU</display-name>
-    <icon src="https://images.open-epg.com/x1591.png" />
   </channel>
   <channel id="beIN Sports 3 AU">
     <display-name>beIN Sports 3 AU</display-name>
-    <icon src="https://images.open-epg.com/x1592.png" />
   </channel>
   <channel id="DSPORTS UY">
     <display-name>DSPORTS UY</display-name>
-    <icon src="https://images.open-epg.com/21113037.png" />
   </channel>
   <channel id="DSPORTS 2 UY">
     <display-name>DSPORTS 2 UY</display-name>
-    <icon src="https://images.open-epg.com/1700.png" />
   </channel>
   <channel id="DSPORTS AR">
     <display-name>DSPORTS AR</display-name>
-    <icon src="https://images.open-epg.com/21113037.png" />
   </channel>
   <channel id="DSPORTS Plus UY">
     <display-name>DSPORTS Plus UY</display-name>
-    <icon src="https://images.open-epg.com/21113038.png" />
   </channel>
   <channel id="Arena Sport 1 HR OpB">
     <display-name>Arena Sport 1 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341855.png" />
   </channel>
   <channel id="Arena Sport 10 HR OpB">
     <display-name>Arena Sport 10 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341856.png" />
   </channel>
   <channel id="Arena Sport 2 HR OpB">
     <display-name>Arena Sport 2 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341857.png" />
   </channel>
   <channel id="Arena Sport 3 HR OpB">
     <display-name>Arena Sport 3 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341858.png" />
   </channel>
   <channel id="Arena Sport 4 HR OpB">
     <display-name>Arena Sport 4 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341859.png" />
   </channel>
   <channel id="Arena Sport 5 HR OpB">
     <display-name>Arena Sport 5 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/10766644.png" />
   </channel>
   <channel id="Arena Sport 6 HR OpB">
     <display-name>Arena Sport 6 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341861.png" />
   </channel>
   <channel id="Arena Sport 7 HR OpB">
     <display-name>Arena Sport 7 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/7341862.png" />
   </channel>
   <channel id="Arena Sport 8 HR OpB">
     <display-name>Arena Sport 8 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/10766648.png" />
   </channel>
   <channel id="Arena Sport 9 HR OpB">
     <display-name>Arena Sport 9 HR OpB</display-name>
-    <icon src="https://images.open-epg.com/10766649.png" />
   </channel>
   <channel id="Go3 Sport Open LT">
     <display-name>Go3 Sport Open LT</display-name>
-    <icon src="https://images.open-epg.com/x1658.png" />
   </channel>
   <channel id="Setanta Sports LT">
     <display-name>Setanta Sports LT</display-name>
-    <icon src="https://images.open-epg.com/19562944.png" />
   </channel>
   <channel id="Setanta Sports 2 LT">
     <display-name>Setanta Sports 2 LT</display-name>
-    <icon src="https://images.open-epg.com/19562945.png" />
   </channel>
   <channel id="Premier Sports UK">
     <display-name>Premier Sports UK</display-name>
-    <icon src="https://images.open-epg.com/x920.png" />
   </channel>
   <channel id="Premier Sports 2 UK">
     <display-name>Premier Sports 2 UK</display-name>
-    <icon src="https://images.open-epg.com/x921.png" />
   </channel>
   <channel id="RTBF Tipik">
     <display-name>RTBF Tipik</display-name>
-    <icon src="https://images.open-epg.com/222.png" />
   </channel>
   <channel id="ESPN AR">
     <display-name>ESPN AR</display-name>
-    <icon src="https://images.open-epg.com/25689.png" />
   </channel>
   <channel id="ESPN 2 AR">
     <display-name>ESPN 2 AR</display-name>
-    <icon src="https://images.open-epg.com/25683.png" />
   </channel>
   <channel id="ESPN 3 AR">
     <display-name>ESPN 3 AR</display-name>
-    <icon src="https://images.open-epg.com/25684.png" />
   </channel>
   <channel id="ESPN 4 AR">
     <display-name>ESPN 4 AR</display-name>
-    <icon src="https://images.open-epg.com/x960.png" />
   </channel>
   <channel id="ESPN 6 AR">
     <display-name>ESPN 6 AR</display-name>
-    <icon src="https://images.open-epg.com/x962.png" />
   </channel>
   <channel id="ESPN Premium AR">
     <display-name>ESPN Premium AR</display-name>
-    <icon src="https://images.open-epg.com/x964.png" />
   </channel>
   <channel id="beIN Sports 1 FR">
     <display-name>beIN Sports 1 FR</display-name>
-    <icon src="https://images.open-epg.com/19984460.png" />
   </channel>
   <channel id="beIN Sports 2 FR">
     <display-name>beIN Sports 2 FR</display-name>
-    <icon src="https://images.open-epg.com/19984461.png" />
   </channel>
   <channel id="beIN Sports 3 FR">
     <display-name>beIN Sports 3 FR</display-name>
-    <icon src="https://images.open-epg.com/19984462.png" />
   </channel>
   <channel id="beIN Sports 10 FR">
     <display-name>beIN Sports 10 FR</display-name>
-    <icon src="https://images.open-epg.com/19984463.png" />
   </channel>
   <channel id="beIN Sports 4 FR">
     <display-name>beIN Sports 4 FR</display-name>
-    <icon src="https://images.open-epg.com/19984464.png" />
   </channel>
   <channel id="beIN Sports 5 FR">
     <display-name>beIN Sports 5 FR</display-name>
-    <icon src="https://images.open-epg.com/19984465.png" />
   </channel>
   <channel id="beIN Sports 6 FR">
     <display-name>beIN Sports 6 FR</display-name>
-    <icon src="https://images.open-epg.com/19984466.png" />
   </channel>
   <channel id="beIN Sports 7 FR">
     <display-name>beIN Sports 7 FR</display-name>
-    <icon src="https://images.open-epg.com/19984467.png" />
   </channel>
   <channel id="beIN Sports 8 FR">
     <display-name>beIN Sports 8 FR</display-name>
-    <icon src="https://images.open-epg.com/19984468.png" />
   </channel>
   <channel id="beIN Sports 9 FR">
     <display-name>beIN Sports 9 FR</display-name>
-    <icon src="https://images.open-epg.com/19984469.png" />
   </channel>
   <channel id="Eurosport 1 ES OpB">
     <display-name>Eurosport 1 ES OpB</display-name>
-    <icon src="https://images.open-epg.com/18051999.png" />
   </channel>
   <channel id="Eurosport 2 ES OpB">
     <display-name>Eurosport 2 ES OpB</display-name>
-    <icon src="https://images.open-epg.com/18052000.png" />
   </channel>
   <channel id="Hypermotion OpB">
     <display-name>Hypermotion OpB</display-name>
-    <icon src="https://images.open-epg.com/12901085.png" />
   </channel>
   <channel id="Hypermotion 2 OpB">
     <display-name>Hypermotion 2 OpB</display-name>
-    <icon src="https://images.open-epg.com/23444228.png" />
   </channel>
   <channel id="Hypermotion 3 OpB">
     <display-name>Hypermotion 3 OpB</display-name>
-    <icon src="https://images.open-epg.com/23444229.png" />
   </channel>
   <channel id="TSN 1">
     <display-name>TSN 1</display-name>
-    <icon src="https://images.open-epg.com/x1360.png" />
   </channel>
   <channel id="TSN 2">
     <display-name>TSN 2</display-name>
-    <icon src="https://images.open-epg.com/x1361.png" />
   </channel>
   <channel id="TSN 3">
     <display-name>TSN 3</display-name>
-    <icon src="https://images.open-epg.com/x1362.png" />
   </channel>
   <channel id="TSN 4">
     <display-name>TSN 4</display-name>
-    <icon src="https://images.open-epg.com/x1359.png" />
   </channel>
   <channel id="TSN 5">
     <display-name>TSN 5</display-name>
-    <icon src="https://images.open-epg.com/x1363.png" />
   </channel>
   <channel id="SportDigital Fussball">
     <display-name>SportDigital Fussball</display-name>
-    <icon src="https://images.open-epg.com/8104.png" />
   </channel>
   <channel id="Arena Sport 1 HR">
     <display-name>Arena Sport 1 HR</display-name>
@@ -384,1109 +296,381 @@
   </channel>
   <channel id="Hypermotion">
     <display-name>Hypermotion</display-name>
-    <display-name>LaLiga TV Hypermotion.TV</display-name>
-    <display-name>LaLiga TV Hypermotion SD</display-name>
-    <display-name>LaLiga TV Hypermotion HD</display-name>
-    <display-name>LaLiga TV Hypermotion FHD</display-name>
-    <display-name>LaLiga TV Hypermotion UHD</display-name>
-    <display-name>LaLiga TV Hypermotion 720</display-name>
-    <display-name>LaLiga TV Hypermotion 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
   </channel>
   <channel id="Hypermotion 2">
     <display-name>Hypermotion 2</display-name>
-    <display-name>LaLiga TV Hypermotion 2.TV</display-name>
-    <display-name>LaLiga TV Hypermotion 2 SD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 HD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 UHD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 720</display-name>
-    <display-name>LaLiga TV Hypermotion 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
   </channel>
   <channel id="Eurosport 1 ES">
     <display-name>Eurosport 1 ES</display-name>
-    <display-name>Eurosport 1.TV</display-name>
-    <display-name>Eurosport 1 SD</display-name>
-    <display-name>Eurosport 1 HD</display-name>
-    <display-name>Eurosport 1 FHD</display-name>
-    <display-name>Eurosport 1 UHD</display-name>
-    <display-name>Eurosport 1 720</display-name>
-    <display-name>Eurosport 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
   </channel>
   <channel id="Eurosport 2 ES">
     <display-name>Eurosport 2 ES</display-name>
-    <display-name>Eurosport 2.TV</display-name>
-    <display-name>Eurosport 2 SD</display-name>
-    <display-name>Eurosport 2 HD</display-name>
-    <display-name>Eurosport 2 FHD</display-name>
-    <display-name>Eurosport 2 UHD</display-name>
-    <display-name>Eurosport 2 720</display-name>
-    <display-name>Eurosport 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
   </channel>
   <channel id="Hypermotion 3">
     <display-name>Hypermotion 3</display-name>
-    <display-name>LaLiga TV Hypermotion 3.TV</display-name>
-    <display-name>LaLiga TV Hypermotion 3 SD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 HD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 UHD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 720</display-name>
-    <display-name>LaLiga TV Hypermotion 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
   </channel>
   <channel id="Onetoro">
     <display-name>Onetoro</display-name>
-    <display-name>Onetoro.TV</display-name>
-    <display-name>Onetoro SD</display-name>
-    <display-name>Onetoro HD</display-name>
-    <display-name>Onetoro FHD</display-name>
-    <display-name>Onetoro UHD</display-name>
-    <display-name>Onetoro 720</display-name>
-    <display-name>Onetoro 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
   </channel>
   <channel id="DSPORTS AR DMUMA">
     <display-name>DSPORTS AR DMUMA</display-name>
-    <display-name>DSPORTS.TV</display-name>
-    <display-name>DSPORTS SD</display-name>
-    <display-name>DSPORTS HD</display-name>
-    <display-name>DSPORTS FHD</display-name>
-    <display-name>DSPORTS UHD</display-name>
-    <display-name>DSPORTS 720</display-name>
-    <display-name>DSPORTS 1080</display-name>
-    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" />
   </channel>
   <channel id="DSPORTS 2 AR DMUMA">
     <display-name>DSPORTS 2 AR DMUMA</display-name>
-    <display-name>DSPORTS 2.TV</display-name>
-    <display-name>DSPORTS 2 SD</display-name>
-    <display-name>DSPORTS 2 HD</display-name>
-    <display-name>DSPORTS 2 FHD</display-name>
-    <display-name>DSPORTS 2 UHD</display-name>
-    <display-name>DSPORTS 2 720</display-name>
-    <display-name>DSPORTS 2 1080</display-name>
-    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" />
   </channel>
   <channel id="DSPORTS Plus AR DMUMA">
     <display-name>DSPORTS Plus AR DMUMA</display-name>
-    <display-name>DSPORTS+.TV</display-name>
-    <display-name>DSPORTS+ SD</display-name>
-    <display-name>DSPORTS+ HD</display-name>
-    <display-name>DSPORTS+ FHD</display-name>
-    <display-name>DSPORTS+ UHD</display-name>
-    <display-name>DSPORTS+ 720</display-name>
-    <display-name>DSPORTS+ 1080</display-name>
-    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" />
   </channel>
   <channel id="beIN Sports Xtra en espanol">
     <display-name>beIN Sports Xtra en espanol</display-name>
-    <display-name>beIN SPORTS XTRA ñ.TV</display-name>
-    <display-name>beIN SPORTS XTRA ñ SD</display-name>
-    <display-name>beIN SPORTS XTRA ñ HD</display-name>
-    <display-name>beIN SPORTS XTRA ñ FHD</display-name>
-    <display-name>beIN SPORTS XTRA ñ UHD</display-name>
-    <display-name>beIN SPORTS XTRA ñ 720</display-name>
-    <display-name>beIN SPORTS XTRA ñ 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
   </channel>
   <channel id="AXN OpB">
     <display-name>AXN OpB</display-name>
-    <icon src="https://images.open-epg.com/4938.png" />
   </channel>
   <channel id="AXN Movies OpB">
     <display-name>AXN Movies OpB</display-name>
-    <icon src="https://images.open-epg.com/4936.png" />
   </channel>
   <channel id="Paramount Network de Pluto">
     <display-name>Paramount Network de Pluto</display-name>
-    <icon src="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" />
   </channel>
   <channel id="Pluto Accion">
     <display-name>Pluto Accion</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" />
   </channel>
   <channel id="Pluto Horror">
     <display-name>Pluto Horror</display-name>
-    <icon src="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Western">
     <display-name>Pluto Western</display-name>
-    <icon src="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Cine Estelar">
     <display-name>Pluto Cine Estelar</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Comedia">
     <display-name>Pluto Comedia</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" />
   </channel>
   <channel id="Pluto Thrillers">
     <display-name>Pluto Thrillers</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Gore and slasher">
     <display-name>Pluto Gore and slasher</display-name>
-    <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Psycho">
     <display-name>Pluto Psycho</display-name>
-    <icon src="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Clasico">
     <display-name>Pluto Clasico</display-name>
-    <icon src="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Romantico">
     <display-name>Pluto Romantico</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" />
   </channel>
   <channel id="Pluto Comedias romanticas">
     <display-name>Pluto Comedias romanticas</display-name>
-    <icon src="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" />
   </channel>
   <channel id="Pluto Drama">
     <display-name>Pluto Drama</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Sensacine TV">
     <display-name>Pluto Sensacine TV</display-name>
-    <icon src="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" />
   </channel>
   <channel id="Pluto Cine de autor">
     <display-name>Pluto Cine de autor</display-name>
-    <icon src="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Comedia Made in Spain">
     <display-name>Pluto Comedia Made in Spain</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" />
   </channel>
   <channel id="AXN">
     <display-name>AXN</display-name>
-    <display-name>AXN.TV</display-name>
-    <display-name>AXN SD</display-name>
-    <display-name>AXN HD</display-name>
-    <display-name>AXN FHD</display-name>
-    <display-name>AXN UHD</display-name>
-    <display-name>AXN 720</display-name>
-    <display-name>AXN 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="AXN Movies">
     <display-name>AXN Movies</display-name>
-    <display-name>AXN Movies.TV</display-name>
-    <display-name>AXN Movies SD</display-name>
-    <display-name>AXN Movies HD</display-name>
-    <display-name>AXN Movies FHD</display-name>
-    <display-name>AXN Movies UHD</display-name>
-    <display-name>AXN Movies 720</display-name>
-    <display-name>AXN Movies 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="8madrid TV">
     <display-name>8madrid TV</display-name>
-    <display-name>8madrid TV.TV</display-name>
-    <display-name>8madrid TV SD</display-name>
-    <display-name>8madrid TV HD</display-name>
-    <display-name>8madrid TV FHD</display-name>
-    <display-name>8madrid TV UHD</display-name>
-    <display-name>8madrid TV 720</display-name>
-    <display-name>8madrid TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
   </channel>
   <channel id="Somos Cine">
     <display-name>Somos Cine</display-name>
-    <display-name>Somos Cine.TV</display-name>
-    <display-name>Somos Cine SD</display-name>
-    <display-name>Somos Cine HD</display-name>
-    <display-name>Somos Cine FHD</display-name>
-    <display-name>Somos Cine UHD</display-name>
-    <display-name>Somos Cine 720</display-name>
-    <display-name>Somos Cine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png" />
   </channel>
   <channel id="Atresplayer Multicine">
     <display-name>Atresplayer Multicine</display-name>
-    <display-name>Multicine atresplayer.TV</display-name>
-    <display-name>Multicine atresplayer SD</display-name>
-    <display-name>Multicine atresplayer HD</display-name>
-    <display-name>Multicine atresplayer FHD</display-name>
-    <display-name>Multicine atresplayer UHD</display-name>
-    <display-name>Multicine atresplayer 720</display-name>
-    <display-name>Multicine atresplayer 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" />
   </channel>
   <channel id="Sony One Comedia">
     <display-name>Sony One Comedia</display-name>
-    <display-name>Sony One Hits Comedia.TV</display-name>
-    <display-name>Sony One Hits Comedia SD</display-name>
-    <display-name>Sony One Hits Comedia HD</display-name>
-    <display-name>Sony One Hits Comedia FHD</display-name>
-    <display-name>Sony One Hits Comedia UHD</display-name>
-    <display-name>Sony One Hits Comedia 720</display-name>
-    <display-name>Sony One Hits Comedia 1080</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
   </channel>
   <channel id="Sony One Accion">
     <display-name>Sony One Accion</display-name>
-    <display-name>Sony One Hits Acción.TV</display-name>
-    <display-name>Sony One Hits Acción SD</display-name>
-    <display-name>Sony One Hits Acción HD</display-name>
-    <display-name>Sony One Hits Acción FHD</display-name>
-    <display-name>Sony One Hits Acción UHD</display-name>
-    <display-name>Sony One Hits Acción 720</display-name>
-    <display-name>Sony One Hits Acción 1080</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" />
   </channel>
   <channel id="Rakuten En Familia">
     <display-name>Rakuten En Familia</display-name>
-    <display-name>En Familia (Rakuten TV).TV</display-name>
-    <display-name>En Familia (Rakuten TV) SD</display-name>
-    <display-name>En Familia (Rakuten TV) HD</display-name>
-    <display-name>En Familia (Rakuten TV) FHD</display-name>
-    <display-name>En Familia (Rakuten TV) UHD</display-name>
-    <display-name>En Familia (Rakuten TV) 720</display-name>
-    <display-name>En Familia (Rakuten TV) 1080</display-name>
-    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png" />
   </channel>
   <channel id="Rakuten Thrillers">
     <display-name>Rakuten Thrillers</display-name>
-    <display-name>Thrillers (Rakuten TV).TV</display-name>
-    <display-name>Thrillers (Rakuten TV) SD</display-name>
-    <display-name>Thrillers (Rakuten TV) HD</display-name>
-    <display-name>Thrillers (Rakuten TV) FHD</display-name>
-    <display-name>Thrillers (Rakuten TV) UHD</display-name>
-    <display-name>Thrillers (Rakuten TV) 720</display-name>
-    <display-name>Thrillers (Rakuten TV) 1080</display-name>
-    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png" />
   </channel>
   <channel id="Rakuten Cine Espanol">
     <display-name>Rakuten Cine Espanol</display-name>
-    <display-name>Cine Español (Rakuten TV).TV</display-name>
-    <display-name>Cine Español (Rakuten TV) SD</display-name>
-    <display-name>Cine Español (Rakuten TV) HD</display-name>
-    <display-name>Cine Español (Rakuten TV) FHD</display-name>
-    <display-name>Cine Español (Rakuten TV) UHD</display-name>
-    <display-name>Cine Español (Rakuten TV) 720</display-name>
-    <display-name>Cine Español (Rakuten TV) 1080</display-name>
-    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png" />
   </channel>
   <channel id="Rakuten Romantico">
     <display-name>Rakuten Romantico</display-name>
-    <display-name>Películas Románticas (Rakuten TV).TV</display-name>
-    <display-name>Películas Románticas (Rakuten TV) SD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) HD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) FHD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) UHD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) 720</display-name>
-    <display-name>Películas Románticas (Rakuten TV) 1080</display-name>
-    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png" />
   </channel>
   <channel id="Rakuten Drama">
     <display-name>Rakuten Drama</display-name>
-    <display-name>Películas de Drama (Rakuten TV).TV</display-name>
-    <display-name>Películas de Drama (Rakuten TV) SD</display-name>
-    <display-name>Películas de Drama (Rakuten TV) HD</display-name>
-    <display-name>Películas de Drama (Rakuten TV) FHD</display-name>
-    <display-name>Películas de Drama (Rakuten TV) UHD</display-name>
-    <display-name>Películas de Drama (Rakuten TV) 720</display-name>
-    <display-name>Películas de Drama (Rakuten TV) 1080</display-name>
-    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png" />
   </channel>
   <channel id="Rakuten Comedia">
     <display-name>Rakuten Comedia</display-name>
-    <display-name>Comedia (Rakuten TV).TV</display-name>
-    <display-name>Comedia (Rakuten TV) SD</display-name>
-    <display-name>Comedia (Rakuten TV) HD</display-name>
-    <display-name>Comedia (Rakuten TV) FHD</display-name>
-    <display-name>Comedia (Rakuten TV) UHD</display-name>
-    <display-name>Comedia (Rakuten TV) 720</display-name>
-    <display-name>Comedia (Rakuten TV) 1080</display-name>
-    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png" />
   </channel>
   <channel id="Rakuten Accion">
     <display-name>Rakuten Accion</display-name>
-    <display-name>Películas de Acción (Rakuten TV).TV</display-name>
-    <display-name>Películas de Acción (Rakuten TV) SD</display-name>
-    <display-name>Películas de Acción (Rakuten TV) HD</display-name>
-    <display-name>Películas de Acción (Rakuten TV) FHD</display-name>
-    <display-name>Películas de Acción (Rakuten TV) UHD</display-name>
-    <display-name>Películas de Acción (Rakuten TV) 720</display-name>
-    <display-name>Películas de Acción (Rakuten TV) 1080</display-name>
-    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png" />
   </channel>
   <channel id="Rakuten Pelis Top">
     <display-name>Rakuten Pelis Top</display-name>
-    <display-name>Pelis Top (Rakuten TV).TV</display-name>
-    <display-name>Pelis Top (Rakuten TV) SD</display-name>
-    <display-name>Pelis Top (Rakuten TV) HD</display-name>
-    <display-name>Pelis Top (Rakuten TV) FHD</display-name>
-    <display-name>Pelis Top (Rakuten TV) UHD</display-name>
-    <display-name>Pelis Top (Rakuten TV) 720</display-name>
-    <display-name>Pelis Top (Rakuten TV) 1080</display-name>
-    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
   </channel>
   <channel id="Nesting TV">
     <display-name>Nesting TV</display-name>
-    <icon src="https://images.open-epg.com/5063.png" />
   </channel>
   <channel id="Wipeout">
     <display-name>Wipeout</display-name>
-    <icon src="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" />
   </channel>
   <channel id="En el punto de mira">
     <display-name>En el punto de mira</display-name>
-    <icon src="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Cocina">
     <display-name>Pluto Cocina</display-name>
-    <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" />
   </channel>
   <channel id="Ciudadanos por el mundo">
     <display-name>Ciudadanos por el mundo</display-name>
-    <icon src="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" />
   </channel>
   <channel id="El Mueble">
     <display-name>El Mueble</display-name>
-    <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png" />
   </channel>
   <channel id="Pluto Diseno">
     <display-name>Pluto Diseno</display-name>
-    <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Homeful">
     <display-name>Pluto Homeful</display-name>
-    <icon src="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" />
   </channel>
   <channel id="Hola Play">
     <display-name>Hola Play</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png" />
   </channel>
   <channel id="Tastemade en espanol">
     <display-name>Tastemade en espanol</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png" />
   </channel>
   <channel id="The Design Network">
     <display-name>The Design Network</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png" />
   </channel>
   <channel id="DViaje">
     <display-name>DViaje</display-name>
-    <display-name>Dviaje.TV</display-name>
-    <display-name>Dviaje SD</display-name>
-    <display-name>Dviaje HD</display-name>
-    <display-name>Dviaje FHD</display-name>
-    <display-name>Dviaje UHD</display-name>
-    <display-name>Dviaje 720</display-name>
-    <display-name>Dviaje 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" />
   </channel>
   <channel id="Equipo de investigacion">
     <display-name>Equipo de investigacion</display-name>
-    <display-name>Equipo de investigación.TV</display-name>
-    <display-name>Equipo de investigación SD</display-name>
-    <display-name>Equipo de investigación HD</display-name>
-    <display-name>Equipo de investigación FHD</display-name>
-    <display-name>Equipo de investigación UHD</display-name>
-    <display-name>Equipo de investigación 720</display-name>
-    <display-name>Equipo de investigación 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" />
   </channel>
   <channel id="CNN en espanol OpB">
     <display-name>CNN en espanol OpB</display-name>
-    <icon src="https://images.open-epg.com/x942.png" />
   </channel>
   <channel id="RT en espanol">
     <display-name>RT en espanol</display-name>
-    <icon src="https://images.open-epg.com/16782373.png" />
   </channel>
   <channel id="Canal Parlamento">
     <display-name>Canal Parlamento</display-name>
-    <icon src="https://images.open-epg.com/17504.png" />
   </channel>
   <channel id="CGTN Espanol OpB">
     <display-name>CGTN Espanol OpB</display-name>
-    <icon src="https://images.open-epg.com/18051973.png" />
   </channel>
   <channel id="DW en espanol">
     <display-name>DW en espanol</display-name>
-    <icon src="https://images.open-epg.com/4994.png" />
   </channel>
   <channel id="France24 en espanol">
     <display-name>France24 en espanol</display-name>
-    <icon src="https://images.open-epg.com/17556.png" />
   </channel>
   <channel id="La 1 OpB">
     <display-name>La 1 OpB</display-name>
-    <icon src="https://images.open-epg.com/18052013.png" />
   </channel>
   <channel id="La 2 OpB">
     <display-name>La 2 OpB</display-name>
-    <icon src="https://images.open-epg.com/5038.png" />
   </channel>
   <channel id="Actualidad 360">
     <display-name>Actualidad 360</display-name>
-    <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" />
   </channel>
   <channel id="El Pais TV">
     <display-name>El Pais TV</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png" />
   </channel>
   <channel id="El Confidencial">
     <display-name>El Confidencial</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" />
   </channel>
   <channel id="La 1">
     <display-name>La 1</display-name>
-    <display-name>La 1.TV</display-name>
-    <display-name>La 1 SD</display-name>
-    <display-name>La 1 HD</display-name>
-    <display-name>La 1 FHD</display-name>
-    <display-name>La 1 UHD</display-name>
-    <display-name>La 1 720</display-name>
-    <display-name>La 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
   <channel id="La 2">
     <display-name>La 2</display-name>
-    <display-name>La 2.TV</display-name>
-    <display-name>La 2 SD</display-name>
-    <display-name>La 2 HD</display-name>
-    <display-name>La 2 FHD</display-name>
-    <display-name>La 2 UHD</display-name>
-    <display-name>La 2 720</display-name>
-    <display-name>La 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
   </channel>
   <channel id="Clan">
     <display-name>Clan</display-name>
-    <display-name>Clan.TV</display-name>
-    <display-name>Clan SD</display-name>
-    <display-name>Clan HD</display-name>
-    <display-name>Clan FHD</display-name>
-    <display-name>Clan UHD</display-name>
-    <display-name>Clan 720</display-name>
-    <display-name>Clan 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" />
   </channel>
   <channel id="Canal 24 Horas">
     <display-name>Canal 24 Horas</display-name>
-    <display-name>24 Horas.TV</display-name>
-    <display-name>24 Horas SD</display-name>
-    <display-name>24 Horas HD</display-name>
-    <display-name>24 Horas FHD</display-name>
-    <display-name>24 Horas UHD</display-name>
-    <display-name>24 Horas 720</display-name>
-    <display-name>24 Horas 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" />
   </channel>
   <channel id="TRECE">
     <display-name>TRECE</display-name>
-    <display-name>TRECE.TV</display-name>
-    <display-name>TRECE SD</display-name>
-    <display-name>TRECE HD</display-name>
-    <display-name>TRECE FHD</display-name>
-    <display-name>TRECE UHD</display-name>
-    <display-name>TRECE 720</display-name>
-    <display-name>TRECE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" />
   </channel>
   <channel id="Euronews en espanol">
     <display-name>Euronews en espanol</display-name>
-    <display-name>EuroNews.TV</display-name>
-    <display-name>EuroNews SD</display-name>
-    <display-name>EuroNews HD</display-name>
-    <display-name>EuroNews FHD</display-name>
-    <display-name>EuroNews UHD</display-name>
-    <display-name>EuroNews 720</display-name>
-    <display-name>EuroNews 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" />
   </channel>
   <channel id="El Toro TV">
     <display-name>El Toro TV</display-name>
-    <display-name>El Toro TV.TV</display-name>
-    <display-name>El Toro TV SD</display-name>
-    <display-name>El Toro TV HD</display-name>
-    <display-name>El Toro TV FHD</display-name>
-    <display-name>El Toro TV UHD</display-name>
-    <display-name>El Toro TV 720</display-name>
-    <display-name>El Toro TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" />
   </channel>
   <channel id="Negocios TV">
     <display-name>Negocios TV</display-name>
-    <display-name>Negocios TV.TV</display-name>
-    <display-name>Negocios TV SD</display-name>
-    <display-name>Negocios TV HD</display-name>
-    <display-name>Negocios TV FHD</display-name>
-    <display-name>Negocios TV UHD</display-name>
-    <display-name>Negocios TV 720</display-name>
-    <display-name>Negocios TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Negocios%20TV.png" />
   </channel>
   <channel id="CGTN Espanol">
     <display-name>CGTN Espanol</display-name>
-    <display-name>CGTN Español.TV</display-name>
-    <display-name>CGTN Español SD</display-name>
-    <display-name>CGTN Español HD</display-name>
-    <display-name>CGTN Español FHD</display-name>
-    <display-name>CGTN Español UHD</display-name>
-    <display-name>CGTN Español 720</display-name>
-    <display-name>CGTN Español 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="Teledeporte">
     <display-name>Teledeporte</display-name>
-    <display-name>Teledeporte.TV</display-name>
-    <display-name>Teledeporte SD</display-name>
-    <display-name>Teledeporte HD</display-name>
-    <display-name>Teledeporte FHD</display-name>
-    <display-name>Teledeporte UHD</display-name>
-    <display-name>Teledeporte 720</display-name>
-    <display-name>Teledeporte 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" />
   </channel>
   <channel id="NHK World Espanol">
     <display-name>NHK World Espanol</display-name>
-    <display-name>NHK WORLD.TV</display-name>
-    <display-name>NHK WORLD SD</display-name>
-    <display-name>NHK WORLD HD</display-name>
-    <display-name>NHK WORLD FHD</display-name>
-    <display-name>NHK WORLD UHD</display-name>
-    <display-name>NHK WORLD 720</display-name>
-    <display-name>NHK WORLD 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NHK%20WORLD.png" />
   </channel>
   <channel id="Distrito TV">
     <display-name>Distrito TV</display-name>
-    <display-name>Distrito TV.TV</display-name>
-    <display-name>Distrito TV SD</display-name>
-    <display-name>Distrito TV HD</display-name>
-    <display-name>Distrito TV FHD</display-name>
-    <display-name>Distrito TV UHD</display-name>
-    <display-name>Distrito TV 720</display-name>
-    <display-name>Distrito TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Distrito%20TV.png" />
   </channel>
   <channel id="La 1 Catalunya">
     <display-name>La 1 Catalunya</display-name>
-    <display-name>La 1 Cataluña.TV</display-name>
-    <display-name>La 1 Cataluña SD</display-name>
-    <display-name>La 1 Cataluña HD</display-name>
-    <display-name>La 1 Cataluña FHD</display-name>
-    <display-name>La 1 Cataluña UHD</display-name>
-    <display-name>La 1 Cataluña 720</display-name>
-    <display-name>La 1 Cataluña 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Catalu%C3%B1a.png" />
   </channel>
   <channel id="La 2 Cat">
     <display-name>La 2 Cat</display-name>
-    <display-name>La 2 Cataluña.TV</display-name>
-    <display-name>La 2 Cataluña SD</display-name>
-    <display-name>La 2 Cataluña HD</display-name>
-    <display-name>La 2 Cataluña FHD</display-name>
-    <display-name>La 2 Cataluña UHD</display-name>
-    <display-name>La 2 Cataluña 720</display-name>
-    <display-name>La 2 Cataluña 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Catalu%C3%B1a.png" />
   </channel>
   <channel id="Canal 24 Horas Catalunya">
     <display-name>Canal 24 Horas Catalunya</display-name>
-    <display-name>24 horas Cataluña.TV</display-name>
-    <display-name>24 horas Cataluña SD</display-name>
-    <display-name>24 horas Cataluña HD</display-name>
-    <display-name>24 horas Cataluña FHD</display-name>
-    <display-name>24 horas Cataluña UHD</display-name>
-    <display-name>24 horas Cataluña 720</display-name>
-    <display-name>24 horas Cataluña 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Catalu%C3%B1a.png" />
   </channel>
   <channel id="La 1 Canarias">
     <display-name>La 1 Canarias</display-name>
-    <display-name>La 1 Canarias.TV</display-name>
-    <display-name>La 1 Canarias SD</display-name>
-    <display-name>La 1 Canarias HD</display-name>
-    <display-name>La 1 Canarias FHD</display-name>
-    <display-name>La 1 Canarias UHD</display-name>
-    <display-name>La 1 Canarias 720</display-name>
-    <display-name>La 1 Canarias 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Canarias.png" />
   </channel>
   <channel id="La 2 Canarias">
     <display-name>La 2 Canarias</display-name>
-    <display-name>La 2 Canarias.TV</display-name>
-    <display-name>La 2 Canarias SD</display-name>
-    <display-name>La 2 Canarias HD</display-name>
-    <display-name>La 2 Canarias FHD</display-name>
-    <display-name>La 2 Canarias UHD</display-name>
-    <display-name>La 2 Canarias 720</display-name>
-    <display-name>La 2 Canarias 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png" />
   </channel>
   <channel id="Canal 24 Horas Canarias">
     <display-name>Canal 24 Horas Canarias</display-name>
-    <display-name>24 horas Canarias.TV</display-name>
-    <display-name>24 horas Canarias SD</display-name>
-    <display-name>24 horas Canarias HD</display-name>
-    <display-name>24 horas Canarias FHD</display-name>
-    <display-name>24 horas Canarias UHD</display-name>
-    <display-name>24 horas Canarias 720</display-name>
-    <display-name>24 horas Canarias 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png" />
   </channel>
   <channel id="CNN en espanol">
     <display-name>CNN en espanol</display-name>
-    <display-name>CNN en Español.TV</display-name>
-    <display-name>CNN en Español SD</display-name>
-    <display-name>CNN en Español HD</display-name>
-    <display-name>CNN en Español FHD</display-name>
-    <display-name>CNN en Español UHD</display-name>
-    <display-name>CNN en Español 720</display-name>
-    <display-name>CNN en Español 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="Canal Sur Andalucia">
     <display-name>Canal Sur Andalucia</display-name>
-    <display-name>Canal Sur Andalucía.TV</display-name>
-    <display-name>Canal Sur Andalucía SD</display-name>
-    <display-name>Canal Sur Andalucía HD</display-name>
-    <display-name>Canal Sur Andalucía FHD</display-name>
-    <display-name>Canal Sur Andalucía UHD</display-name>
-    <display-name>Canal Sur Andalucía 720</display-name>
-    <display-name>Canal Sur Andalucía 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" />
   </channel>
   <channel id="TVG Europa">
     <display-name>TVG Europa</display-name>
-    <display-name>TVG Europa.TV</display-name>
-    <display-name>TVG Europa SD</display-name>
-    <display-name>TVG Europa HD</display-name>
-    <display-name>TVG Europa FHD</display-name>
-    <display-name>TVG Europa UHD</display-name>
-    <display-name>TVG Europa 720</display-name>
-    <display-name>TVG Europa 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png" />
   </channel>
   <channel id="Canal Extremadura Sat">
     <display-name>Canal Extremadura Sat</display-name>
-    <display-name>Canal Extremadura SAT.TV</display-name>
-    <display-name>Canal Extremadura SAT SD</display-name>
-    <display-name>Canal Extremadura SAT HD</display-name>
-    <display-name>Canal Extremadura SAT FHD</display-name>
-    <display-name>Canal Extremadura SAT UHD</display-name>
-    <display-name>Canal Extremadura SAT 720</display-name>
-    <display-name>Canal Extremadura SAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png" />
   </channel>
   <channel id="Aragon TV Int">
     <display-name>Aragon TV Int</display-name>
-    <display-name>Aragón TV Internacional.TV</display-name>
-    <display-name>Aragón TV Internacional SD</display-name>
-    <display-name>Aragón TV Internacional HD</display-name>
-    <display-name>Aragón TV Internacional FHD</display-name>
-    <display-name>Aragón TV Internacional UHD</display-name>
-    <display-name>Aragón TV Internacional 720</display-name>
-    <display-name>Aragón TV Internacional 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" />
   </channel>
   <channel id="A Punt">
     <display-name>A Punt</display-name>
-    <display-name>À Punt.TV</display-name>
-    <display-name>À Punt SD</display-name>
-    <display-name>À Punt HD</display-name>
-    <display-name>À Punt FHD</display-name>
-    <display-name>À Punt UHD</display-name>
-    <display-name>À Punt 720</display-name>
-    <display-name>À Punt 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png" />
   </channel>
   <channel id="Aragon TV">
     <display-name>Aragon TV</display-name>
-    <display-name>Aragón TV.TV</display-name>
-    <display-name>Aragón TV SD</display-name>
-    <display-name>Aragón TV HD</display-name>
-    <display-name>Aragón TV FHD</display-name>
-    <display-name>Aragón TV UHD</display-name>
-    <display-name>Aragón TV 720</display-name>
-    <display-name>Aragón TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png" />
   </channel>
   <channel id="Navarra Television">
     <display-name>Navarra Television</display-name>
-    <display-name>Navarra TV.TV</display-name>
-    <display-name>Navarra TV SD</display-name>
-    <display-name>Navarra TV HD</display-name>
-    <display-name>Navarra TV FHD</display-name>
-    <display-name>Navarra TV UHD</display-name>
-    <display-name>Navarra TV 720</display-name>
-    <display-name>Navarra TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png" />
   </channel>
   <channel id="Navarra Television 2">
     <display-name>Navarra Television 2</display-name>
-    <display-name>Navarra TV 2.TV</display-name>
-    <display-name>Navarra TV 2 SD</display-name>
-    <display-name>Navarra TV 2 HD</display-name>
-    <display-name>Navarra TV 2 FHD</display-name>
-    <display-name>Navarra TV 2 UHD</display-name>
-    <display-name>Navarra TV 2 720</display-name>
-    <display-name>Navarra TV 2 1080</display-name>
-    <icon src="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a" />
   </channel>
   <channel id="CMM TV">
     <display-name>CMM TV</display-name>
-    <display-name>CMM TV.TV</display-name>
-    <display-name>CMM TV SD</display-name>
-    <display-name>CMM TV HD</display-name>
-    <display-name>CMM TV FHD</display-name>
-    <display-name>CMM TV UHD</display-name>
-    <display-name>CMM TV 720</display-name>
-    <display-name>CMM TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" />
   </channel>
   <channel id="CyL 7">
     <display-name>CyL 7</display-name>
-    <display-name>La 7 CyL.TV</display-name>
-    <display-name>La 7 CyL SD</display-name>
-    <display-name>La 7 CyL HD</display-name>
-    <display-name>La 7 CyL FHD</display-name>
-    <display-name>La 7 CyL UHD</display-name>
-    <display-name>La 7 CyL 720</display-name>
-    <display-name>La 7 CyL 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20CyL.png" />
   </channel>
   <channel id="ETB 1">
     <display-name>ETB 1</display-name>
-    <display-name>etb1.TV</display-name>
-    <display-name>etb1 SD</display-name>
-    <display-name>etb1 HD</display-name>
-    <display-name>etb1 FHD</display-name>
-    <display-name>etb1 UHD</display-name>
-    <display-name>etb1 720</display-name>
-    <display-name>etb1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png" />
   </channel>
   <channel id="ETB 2">
     <display-name>ETB 2</display-name>
-    <display-name>etb2.TV</display-name>
-    <display-name>etb2 SD</display-name>
-    <display-name>etb2 HD</display-name>
-    <display-name>etb2 FHD</display-name>
-    <display-name>etb2 UHD</display-name>
-    <display-name>etb2 720</display-name>
-    <display-name>etb2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png" />
   </channel>
   <channel id="TVG">
     <display-name>TVG</display-name>
-    <display-name>TVG.TV</display-name>
-    <display-name>TVG SD</display-name>
-    <display-name>TVG HD</display-name>
-    <display-name>TVG FHD</display-name>
-    <display-name>TVG UHD</display-name>
-    <display-name>TVG 720</display-name>
-    <display-name>TVG 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" />
   </channel>
   <channel id="TVG 2">
     <display-name>TVG 2</display-name>
-    <display-name>TVG2.TV</display-name>
-    <display-name>TVG2 SD</display-name>
-    <display-name>TVG2 HD</display-name>
-    <display-name>TVG2 FHD</display-name>
-    <display-name>TVG2 UHD</display-name>
-    <display-name>TVG2 720</display-name>
-    <display-name>TVG2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png" />
   </channel>
   <channel id="Canal Extremadura">
     <display-name>Canal Extremadura</display-name>
-    <display-name>Canal Extremadura.TV</display-name>
-    <display-name>Canal Extremadura SD</display-name>
-    <display-name>Canal Extremadura HD</display-name>
-    <display-name>Canal Extremadura FHD</display-name>
-    <display-name>Canal Extremadura UHD</display-name>
-    <display-name>Canal Extremadura 720</display-name>
-    <display-name>Canal Extremadura 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" />
   </channel>
   <channel id="Telemadrid">
     <display-name>Telemadrid</display-name>
-    <display-name>Telemadrid.TV</display-name>
-    <display-name>Telemadrid SD</display-name>
-    <display-name>Telemadrid HD</display-name>
-    <display-name>Telemadrid FHD</display-name>
-    <display-name>Telemadrid UHD</display-name>
-    <display-name>Telemadrid 720</display-name>
-    <display-name>Telemadrid 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" />
   </channel>
   <channel id="LaOtra">
     <display-name>LaOtra</display-name>
-    <display-name>La Otra.TV</display-name>
-    <display-name>La Otra SD</display-name>
-    <display-name>La Otra HD</display-name>
-    <display-name>La Otra FHD</display-name>
-    <display-name>La Otra UHD</display-name>
-    <display-name>La Otra 720</display-name>
-    <display-name>La Otra 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png" />
   </channel>
   <channel id="TV3">
     <display-name>TV3</display-name>
-    <display-name>TV3.TV</display-name>
-    <display-name>TV3 SD</display-name>
-    <display-name>TV3 HD</display-name>
-    <display-name>TV3 FHD</display-name>
-    <display-name>TV3 UHD</display-name>
-    <display-name>TV3 720</display-name>
-    <display-name>TV3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png" />
   </channel>
   <channel id="7RM">
     <display-name>7RM</display-name>
-    <display-name>La 7 Murcia.TV</display-name>
-    <display-name>La 7 Murcia SD</display-name>
-    <display-name>La 7 Murcia HD</display-name>
-    <display-name>La 7 Murcia FHD</display-name>
-    <display-name>La 7 Murcia UHD</display-name>
-    <display-name>La 7 Murcia 720</display-name>
-    <display-name>La 7 Murcia 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" />
   </channel>
   <channel id="Canal Sur">
     <display-name>Canal Sur</display-name>
-    <display-name>Canal Sur.TV</display-name>
-    <display-name>Canal Sur SD</display-name>
-    <display-name>Canal Sur HD</display-name>
-    <display-name>Canal Sur FHD</display-name>
-    <display-name>Canal Sur UHD</display-name>
-    <display-name>Canal Sur 720</display-name>
-    <display-name>Canal Sur 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" />
   </channel>
   <channel id="Andalucia TV">
     <display-name>Andalucia TV</display-name>
-    <display-name>Andalucía TV.TV</display-name>
-    <display-name>Andalucía TV SD</display-name>
-    <display-name>Andalucía TV HD</display-name>
-    <display-name>Andalucía TV FHD</display-name>
-    <display-name>Andalucía TV UHD</display-name>
-    <display-name>Andalucía TV 720</display-name>
-    <display-name>Andalucía TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" />
   </channel>
   <channel id="La 8 Mediterraneo">
     <display-name>La 8 Mediterraneo</display-name>
-    <display-name>La Ocho Mediterráneo.TV</display-name>
-    <display-name>La Ocho Mediterráneo SD</display-name>
-    <display-name>La Ocho Mediterráneo HD</display-name>
-    <display-name>La Ocho Mediterráneo FHD</display-name>
-    <display-name>La Ocho Mediterráneo UHD</display-name>
-    <display-name>La Ocho Mediterráneo 720</display-name>
-    <display-name>La Ocho Mediterráneo 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Ocho%20Mediterr%C3%A1neo.png" />
   </channel>
   <channel id="IB3 Global">
     <display-name>IB3 Global</display-name>
-    <display-name>IB3 TV Illes Balears.TV</display-name>
-    <display-name>IB3 TV Illes Balears SD</display-name>
-    <display-name>IB3 TV Illes Balears HD</display-name>
-    <display-name>IB3 TV Illes Balears FHD</display-name>
-    <display-name>IB3 TV Illes Balears UHD</display-name>
-    <display-name>IB3 TV Illes Balears 720</display-name>
-    <display-name>IB3 TV Illes Balears 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/IB3%20TV%20Illes%20Balears.png" />
   </channel>
   <channel id="TV Canaria">
     <display-name>TV Canaria</display-name>
-    <display-name>TV Canaria.TV</display-name>
-    <display-name>TV Canaria SD</display-name>
-    <display-name>TV Canaria HD</display-name>
-    <display-name>TV Canaria FHD</display-name>
-    <display-name>TV Canaria UHD</display-name>
-    <display-name>TV Canaria 720</display-name>
-    <display-name>TV Canaria 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png" />
   </channel>
   <channel id="ETB 1 On">
     <display-name>ETB 1 On</display-name>
-    <display-name>etb1ON.TV</display-name>
-    <display-name>etb1ON SD</display-name>
-    <display-name>etb1ON HD</display-name>
-    <display-name>etb1ON FHD</display-name>
-    <display-name>etb1ON UHD</display-name>
-    <display-name>etb1ON 720</display-name>
-    <display-name>etb1ON 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1ON.png" />
   </channel>
   <channel id="ETB 2 On">
     <display-name>ETB 2 On</display-name>
-    <display-name>etb2ON.TV</display-name>
-    <display-name>etb2ON SD</display-name>
-    <display-name>etb2ON HD</display-name>
-    <display-name>etb2ON FHD</display-name>
-    <display-name>etb2ON UHD</display-name>
-    <display-name>etb2ON 720</display-name>
-    <display-name>etb2ON 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2ON.png" />
   </channel>
   <channel id="Super3">
     <display-name>Super3</display-name>
-    <display-name>SX3.TV</display-name>
-    <display-name>SX3 SD</display-name>
-    <display-name>SX3 HD</display-name>
-    <display-name>SX3 FHD</display-name>
-    <display-name>SX3 UHD</display-name>
-    <display-name>SX3 720</display-name>
-    <display-name>SX3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3.png" />
   </channel>
   <channel id="Esport3">
     <display-name>Esport3</display-name>
-    <display-name>Esport 3.TV</display-name>
-    <display-name>Esport 3 SD</display-name>
-    <display-name>Esport 3 HD</display-name>
-    <display-name>Esport 3 FHD</display-name>
-    <display-name>Esport 3 UHD</display-name>
-    <display-name>Esport 3 720</display-name>
-    <display-name>Esport 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
   <channel id="3cat Info">
     <display-name>3cat Info</display-name>
-    <display-name>3CatInfo.TV</display-name>
-    <display-name>3CatInfo SD</display-name>
-    <display-name>3CatInfo HD</display-name>
-    <display-name>3CatInfo FHD</display-name>
-    <display-name>3CatInfo UHD</display-name>
-    <display-name>3CatInfo 720</display-name>
-    <display-name>3CatInfo 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo.png" />
   </channel>
   <channel id="Popular TV Murcia">
     <display-name>Popular TV Murcia</display-name>
-    <display-name>Popular TV Región de Murcia.TV</display-name>
-    <display-name>Popular TV Región de Murcia SD</display-name>
-    <display-name>Popular TV Región de Murcia HD</display-name>
-    <display-name>Popular TV Región de Murcia FHD</display-name>
-    <display-name>Popular TV Región de Murcia UHD</display-name>
-    <display-name>Popular TV Región de Murcia 720</display-name>
-    <display-name>Popular TV Región de Murcia 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Popular%20TV%20Regi%C3%B3n%20de%20Murcia.png" />
   </channel>
   <channel id="TPA 7">
     <display-name>TPA 7</display-name>
-    <display-name>TPA7 Asturias.TV</display-name>
-    <display-name>TPA7 Asturias SD</display-name>
-    <display-name>TPA7 Asturias HD</display-name>
-    <display-name>TPA7 Asturias FHD</display-name>
-    <display-name>TPA7 Asturias UHD</display-name>
-    <display-name>TPA7 Asturias 720</display-name>
-    <display-name>TPA7 Asturias 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" />
   </channel>
   <channel id="TPA 8">
     <display-name>TPA 8</display-name>
-    <display-name>TPA8 Asturias.TV</display-name>
-    <display-name>TPA8 Asturias SD</display-name>
-    <display-name>TPA8 Asturias HD</display-name>
-    <display-name>TPA8 Asturias FHD</display-name>
-    <display-name>TPA8 Asturias UHD</display-name>
-    <display-name>TPA8 Asturias 720</display-name>
-    <display-name>TPA8 Asturias 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png" />
   </channel>
   <channel id="Andorra Televisio">
     <display-name>Andorra Televisio</display-name>
-    <display-name>ATV Andorra Televisión.TV</display-name>
-    <display-name>ATV Andorra Televisión SD</display-name>
-    <display-name>ATV Andorra Televisión HD</display-name>
-    <display-name>ATV Andorra Televisión FHD</display-name>
-    <display-name>ATV Andorra Televisión UHD</display-name>
-    <display-name>ATV Andorra Televisión 720</display-name>
-    <display-name>ATV Andorra Televisión 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATV%20Andorra%20Televisi%C3%B3n.png" />
   </channel>
   <channel id="El 33">
     <display-name>El 33</display-name>
-    <display-name>El 33 Catalunya.TV</display-name>
-    <display-name>El 33 Catalunya SD</display-name>
-    <display-name>El 33 Catalunya HD</display-name>
-    <display-name>El 33 Catalunya FHD</display-name>
-    <display-name>El 33 Catalunya UHD</display-name>
-    <display-name>El 33 Catalunya 720</display-name>
-    <display-name>El 33 Catalunya 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%2033%20Catalunya.png" />
   </channel>
   <channel id="TV3 CAT">
     <display-name>TV3 CAT</display-name>
-    <display-name>TV3CAT Catalunya.TV</display-name>
-    <display-name>TV3CAT Catalunya SD</display-name>
-    <display-name>TV3CAT Catalunya HD</display-name>
-    <display-name>TV3CAT Catalunya FHD</display-name>
-    <display-name>TV3CAT Catalunya UHD</display-name>
-    <display-name>TV3CAT Catalunya 720</display-name>
-    <display-name>TV3CAT Catalunya 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png" />
   </channel>
   <channel id="Bon Dia TV">
     <display-name>Bon Dia TV</display-name>
-    <display-name>Bon Dia TV.TV</display-name>
-    <display-name>Bon Dia TV SD</display-name>
-    <display-name>Bon Dia TV HD</display-name>
-    <display-name>Bon Dia TV FHD</display-name>
-    <display-name>Bon Dia TV UHD</display-name>
-    <display-name>Bon Dia TV 720</display-name>
-    <display-name>Bon Dia TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bon%20Dia%20TV.png" />
   </channel>
   <channel id="TVR Rioja">
     <display-name>TVR Rioja</display-name>
-    <display-name>TVR Rioja.TV</display-name>
-    <display-name>TVR Rioja SD</display-name>
-    <display-name>TVR Rioja HD</display-name>
-    <display-name>TVR Rioja FHD</display-name>
-    <display-name>TVR Rioja UHD</display-name>
-    <display-name>TVR Rioja 720</display-name>
-    <display-name>TVR Rioja 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
   </channel>
   <channel id="Popular TV Cantabria">
     <display-name>Popular TV Cantabria</display-name>
-    <display-name>Popular TV Cantabria.TV</display-name>
-    <display-name>Popular TV Cantabria SD</display-name>
-    <display-name>Popular TV Cantabria HD</display-name>
-    <display-name>Popular TV Cantabria FHD</display-name>
-    <display-name>Popular TV Cantabria UHD</display-name>
-    <display-name>Popular TV Cantabria 720</display-name>
-    <display-name>Popular TV Cantabria 1080</display-name>
-    <icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
   </channel>
   <channel id="TV Melilla">
     <display-name>TV Melilla</display-name>
-    <display-name>TV Melilla.TV</display-name>
-    <display-name>TV Melilla SD</display-name>
-    <display-name>TV Melilla HD</display-name>
-    <display-name>TV Melilla FHD</display-name>
-    <display-name>TV Melilla UHD</display-name>
-    <display-name>TV Melilla 720</display-name>
-    <display-name>TV Melilla 1080</display-name>
-    <icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
   </channel>
   <channel id="La 8 Valladolid">
     <display-name>La 8 Valladolid</display-name>
-    <display-name>La 8 Valladolid.TV</display-name>
-    <display-name>La 8 Valladolid SD</display-name>
-    <display-name>La 8 Valladolid HD</display-name>
-    <display-name>La 8 Valladolid FHD</display-name>
-    <display-name>La 8 Valladolid UHD</display-name>
-    <display-name>La 8 Valladolid 720</display-name>
-    <display-name>La 8 Valladolid 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%208%20Valladolid.png" />
   </channel>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="ESPN AR">
     <title>SportsCenter</title>
@@ -1496,9 +680,6 @@
   </programme>
   <programme start="20260905095000 +0000" stop="20260905105000 +0000" channel="ESPN AR">
     <title>SportsCenter</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="ESPN 2 AR">
-    <title>Premier League Preview Show</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN 2 AR">
     <title>FIA Fórmula 2 : Monza: Clasificación</title>
@@ -1518,8 +699,8 @@
   <programme start="20260905085700 +0000" stop="20260905100000 +0000" channel="ESPN 2 AR">
     <title>ESPN Tenis : US Open: Día 6</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="ESPN 3 AR">
-    <title>Fútbol LaLiga : Real Betis vs. Real Madrid</title>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="ESPN 2 AR">
+    <title>Automovilismo FIA Fórmula 3 : Monza: Carrera esprint</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="ESPN 3 AR">
     <title>Fútbol Bundesliga : VfB Stuttgart vs. Köln</title>
@@ -1545,9 +726,6 @@
   <programme start="20260905093000 +0000" stop="20260905103000 +0000" channel="ESPN 3 AR">
     <title>Fútbol LaLiga : Real Betis vs. Real Madrid</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="ESPN 4 AR">
-    <title>Vuelta a España : La Vuelta a España 2026</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="ESPN 4 AR">
     <title>F Táctico</title>
   </programme>
@@ -1562,9 +740,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="ESPN 4 AR">
     <title>Fútbol Ligue 1 : Olympique Lyonnais vs. AJ Auxerre</title>
-  </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="ESPN 6 AR">
-    <title>Goles de la Eredivisie</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN 6 AR">
     <title>PGA Tour Highlights PGA Tour Championshi...</title>
@@ -1613,9 +788,6 @@
   </programme>
   <programme start="20260905093000 +0000" stop="20260905103000 +0000" channel="beIN Sports 1 AU">
     <title>ATP Review</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="beIN Sports 2 AU">
-    <title>LaLiga Classics</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="beIN Sports 2 AU">
     <title>LaLiga Classics</title>
@@ -1689,6 +861,9 @@
   <programme start="20260905090500 +0000" stop="20260905100000 +0000" channel="RTBF Tipik">
     <title>La vie secrète des autoroutes</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905105500 +0000" channel="RTBF Tipik">
+    <title>La vie secrète des autoroutes</title>
+  </programme>
   <programme start="20260905023000 +0000" stop="20260906023000 +0000" channel="sportv BR">
     <title>Troca de Passes</title>
   </programme>
@@ -1697,9 +872,6 @@
   </programme>
   <programme start="20260905020000 +0000" stop="20260906020000 +0000" channel="sportv 3 BR">
     <title>Lausanne, Suíça</title>
-  </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="TSN 1">
-    <title>SportsCentre</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="TSN 1">
     <title>The Amazing Race Canada</title>
@@ -1717,6 +889,9 @@
     <title>SportsCentre</title>
   </programme>
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="TSN 1">
+    <title>SportsCentre</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="TSN 1">
     <title>SportsCentre</title>
   </programme>
   <programme start="20260905010000 +0000" stop="20260905043000 +0000" channel="TSN 2">
@@ -1740,9 +915,6 @@
   <programme start="20260905093000 +0000" stop="20260905123000 +0000" channel="TSN 2">
     <title>AFL AFL Premiership Football</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="TSN 3">
-    <title>SportsCentre</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="TSN 3">
     <title>The Amazing Race Canada</title>
   </programme>
@@ -1761,7 +933,7 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="TSN 3">
     <title>SportsCentre</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="TSN 4">
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="TSN 3">
     <title>SportsCentre</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="TSN 4">
@@ -1782,11 +954,14 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="TSN 4">
     <title>SportsCentre</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="TSN 4">
+    <title>SportsCentre</title>
+  </programme>
   <programme start="20260905040000 +0000" stop="20260905100000 +0000" channel="TSN 5">
     <title>QUB en rafale</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="ESPN 2 CL">
-    <title>Premier League Preview Show</title>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="TSN 5">
+    <title>QUB en rafale</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN 2 CL">
     <title>Fútbol LaLiga : Real Betis vs. Real Madrid</title>
@@ -1812,6 +987,9 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="ESPN 2 CL">
     <title>ESPN Tenis : US Open: Día 6</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="ESPN 2 CL">
+    <title>Premier League Preview Show</title>
+  </programme>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="ESPN 3 CL">
     <title>Fútbol Ligue 1 : Paris Saint-Germain vs. Monaco FC</title>
   </programme>
@@ -1829,9 +1007,6 @@
   </programme>
   <programme start="20260905090200 +0000" stop="20260905110400 +0000" channel="ESPN 3 CL">
     <title>Fútbol LaLiga : Real Betis vs. Real Madrid</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="ESPN 4 CL">
-    <title>Vuelta a España : La Vuelta a España 2026</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="ESPN 4 CL">
     <title>F Táctico</title>
@@ -1869,9 +1044,6 @@
   <programme start="20260905095500 +0000" stop="20260905105000 +0000" channel="ESPN 5 CL">
     <title>ESPN KnockOut</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="ESPN 6 CL">
-    <title>Fútbol Eredivisie : Goles de la Eredivisie 2026-27</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN 6 CL">
     <title>PGA Tour Highlights : TOUR Championship</title>
   </programme>
@@ -1883,9 +1055,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="ESPN 6 CL">
     <title>Fútbol Eredivisie : Feyenoord vs. ADO Den Haag</title>
-  </programme>
-  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="ESPN 7 CL">
-    <title>Fútbol Americano Universitario : Miami vs. Stanford</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="ESPN 7 CL">
     <title>UEFA Champions League Highlights</title>
@@ -1902,8 +1071,8 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="ESPN 7 CL">
     <title>ESPN KnockOut</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="ESPN CL">
-    <title>SportsCenter</title>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="ESPN 7 CL">
+    <title>PGA Tour Highlights</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN CL">
     <title>SportsCenter</title>
@@ -1944,8 +1113,8 @@
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="ESPN Premium CL">
     <title>Bundesliga Preview Show</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="ESPN 2 CO">
-    <title>Premier League Preview Show</title>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="ESPN Premium CL">
+    <title>Fútbol Bundesliga : VfB Stuttgart vs. Köln</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN 2 CO">
     <title>Fútbol LaLiga : Real Betis vs. Real Madrid</title>
@@ -1964,6 +1133,9 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="ESPN 2 CO">
     <title>ESPN Tenis : US Open: Día 6</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="ESPN 2 CO">
+    <title>ESPN KnockOut</title>
   </programme>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="ESPN 3 CO">
     <title>Fútbol Ligue 1 : Paris Saint-Germain vs. Monaco FC</title>
@@ -1985,9 +1157,6 @@
   </programme>
   <programme start="20260905090200 +0000" stop="20260905110400 +0000" channel="ESPN 3 CO">
     <title>Fútbol LaLiga : Real Betis vs. Real Madrid</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="ESPN 4 CO">
-    <title>Vuelta a España : La Vuelta a España 2026</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="ESPN 4 CO">
     <title>F Táctico</title>
@@ -2016,9 +1185,6 @@
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="ESPN 5 CO">
     <title>Fútbol Bundesliga : VfB Stuttgart vs. Köln</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="ESPN 6 CO">
-    <title>Fútbol Eredivisie : Goles de la Eredivisie 2026-27</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN 6 CO">
     <title>PGA Tour Highlights : TOUR Championship</title>
   </programme>
@@ -2030,9 +1196,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="ESPN 6 CO">
     <title>Fútbol Eredivisie : Feyenoord vs. ADO Den Haag</title>
-  </programme>
-  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="ESPN 7 CO">
-    <title>Fútbol Americano Universitario : Miami vs. Stanford</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="ESPN 7 CO">
     <title>UEFA Champions League Highlights</title>
@@ -2049,8 +1212,8 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="ESPN 7 CO">
     <title>ESPN KnockOut</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="ESPN CO">
-    <title>ESPN F90</title>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="ESPN 7 CO">
+    <title>PGA Tour Highlights</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="ESPN CO">
     <title>SportsCenter</title>
@@ -2088,9 +1251,6 @@
   <programme start="20260905090000 +0000" stop="20260905101500 +0000" channel="Arena Sport 1 HR OpB">
     <title>Ride: United</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 10 HR OpB">
-    <title>Najava programa</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Arena Sport 10 HR OpB">
     <title>Najava programa</title>
   </programme>
@@ -2100,8 +1260,8 @@
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Arena Sport 10 HR OpB">
     <title>Najava programa</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 2 HR OpB">
-    <title>SVJETSKO PRVENSTVO: ŠVICARSKA - ŠVEDSKA, hokej na ledu</title>
+  <programme start="20260905100000 +0000" stop="20260905113000 +0000" channel="Arena Sport 10 HR OpB">
+    <title>Najava programa</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="Arena Sport 2 HR OpB">
     <title>TALIJANSKA LIGA: PREGLED KOLA, nogomet</title>
@@ -2130,8 +1290,8 @@
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Arena Sport 3 HR OpB">
     <title>PREMIER LEAGUE: IPSWICH - LIVERPOOL, nogomet</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 4 HR OpB">
-    <title>RUMUNJSKA LIGA: FCSB - ARAD, nogomet</title>
+  <programme start="20260905100000 +0000" stop="20260905113000 +0000" channel="Arena Sport 3 HR OpB">
+    <title>MLB: NY YANKEES - BOSTON, baseball</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Arena Sport 4 HR OpB">
     <title>POLJSKA LIGA: PIAST - KATOWICE, nogomet</title>
@@ -2145,9 +1305,6 @@
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="Arena Sport 4 HR OpB">
     <title>LIGA PRVAKA: FENERBAHCE - LYON, nogomet</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 5 HR OpB">
-    <title>CAGLIARI - VERONA</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Arena Sport 5 HR OpB">
     <title>FCSB - ARAD</title>
   </programme>
@@ -2160,9 +1317,6 @@
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="Arena Sport 5 HR OpB">
     <title>TURSKA - POLJSKA</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 6 HR OpB">
-    <title>Najava programa</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Arena Sport 6 HR OpB">
     <title>Najava programa</title>
   </programme>
@@ -2170,6 +1324,9 @@
     <title>Najava programa</title>
   </programme>
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Arena Sport 6 HR OpB">
+    <title>Najava programa</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Arena Sport 6 HR OpB">
     <title>Najava programa</title>
   </programme>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="Arena Sport 7 HR OpB">
@@ -2190,6 +1347,9 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="Arena Sport 7 HR OpB">
     <title>EUROPA LIGA: SAŽETAK, nogomet</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Arena Sport 7 HR OpB">
+    <title>EUROPA LIGA: DINAMO - CELTA VIGO, nogomet</title>
+  </programme>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="Arena Sport 8 HR OpB">
     <title>LIVERPOOL - GALATASARAY</title>
   </programme>
@@ -2202,14 +1362,17 @@
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Arena Sport 8 HR OpB">
     <title>FINALE</title>
   </programme>
-  <programme start="20260905013000 +0000" stop="20260905040000 +0000" channel="Arena Sport 9 HR OpB">
-    <title>WORLD SERIES G6</title>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="Arena Sport 8 HR OpB">
+    <title>MAGAZIN LIGE PRVAKA</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Arena Sport 9 HR OpB">
     <title>ZURICH</title>
   </programme>
   <programme start="20260905060000 +0000" stop="20260905100000 +0000" channel="Arena Sport 9 HR OpB">
     <title>SUPER BOWL</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Arena Sport 9 HR OpB">
+    <title>LANUS - CIENCIANO</title>
   </programme>
   <programme start="20260905031500 +0000" stop="20260905050000 +0000" channel="Nova Sport 1 CZ">
     <title>Závěr vysílání</title>
@@ -2234,6 +1397,9 @@
   </programme>
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="Nova Sport 1 CZ">
     <title>Brunato Talks</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="Nova Sport 1 CZ">
+    <title>King's Resort Events</title>
   </programme>
   <programme start="20260905014500 +0000" stop="20260905050000 +0000" channel="Nova Sport 2 CZ">
     <title>KSW 118: Kuberski vs. Michalski</title>
@@ -2265,9 +1431,6 @@
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="Setanta Sports EE">
     <title>Jalgpall: Ligue 1: Lyon - Auxerre</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="beIN Sports 1 FR">
-    <title>Football : Coupe de la Ligue anglaise</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="beIN Sports 1 FR">
     <title>Le Coach</title>
   </programme>
@@ -2282,9 +1445,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905104500 +0000" channel="beIN Sports 1 FR">
     <title>Basket-ball : Coupe du monde féminine</title>
-  </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="beIN Sports 2 FR">
-    <title>Baseball : MLB</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="beIN Sports 2 FR">
     <title>Football : Coupe d'Allemagne</title>
@@ -2475,8 +1635,8 @@
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="Fox Sports Premium MX">
     <title>The Outdoor Sports Show</title>
   </programme>
-  <programme start="20260905023000 +0000" stop="20260905040000 +0000" channel="Fox Sports MX">
-    <title>Monster Jam</title>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Fox Sports Premium MX">
+    <title>AEW Collision</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="Fox Sports MX">
     <title>Central Fox</title>
@@ -2492,6 +1652,9 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="Fox Sports MX">
     <title>La última palabra</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="Fox Sports MX">
+    <title>Central Fox</title>
   </programme>
   <programme start="20260905024500 +0000" stop="20260905050000 +0000" channel="FOX MX">
     <title>Liga MX</title>
@@ -2511,6 +1674,9 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="FOX MX">
     <title>Referentes</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="FOX MX">
+    <title>MLB</title>
+  </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Polsat Sport 1">
     <title>Siatkówka kobiet: Mistrzostwa Europy 2026 - mecz ćwierćfinałowy: Polska - Holandia</title>
   </programme>
@@ -2526,9 +1692,6 @@
   <programme start="20260905093000 +0000" stop="20260905120000 +0000" channel="Polsat Sport 1">
     <title>Siatkówka kobiet: Mistrzostwa Europy 2026 - mecz ćwierćfinałowy: Polska - Holandia</title>
   </programme>
-  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="Eurosport 1 SK">
-    <title>Tenis: US Open</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="Eurosport 1 SK">
     <title>Cyklistika: Tour de l’Avenir - review</title>
   </programme>
@@ -2536,9 +1699,6 @@
     <title>Cyklistika: Vuelta - 13. etapa</title>
   </programme>
   <programme start="20260905063000 +0000" stop="20260905103000 +0000" channel="Eurosport 1 SK">
-    <title>Tenis: US Open</title>
-  </programme>
-  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="Eurosport 2 SK">
     <title>Tenis: US Open</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905063000 +0000" channel="Eurosport 2 SK">
@@ -2550,8 +1710,8 @@
   <programme start="20260905073000 +0000" stop="20260905100000 +0000" channel="Eurosport 2 SK">
     <title>Cyklistika: Vuelta - 13. etapa</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="Sport1 SK">
-    <title>Fotbal</title>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="Eurosport 2 SK">
+    <title>Cyklistika: Tour de l’Avenir - review</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905073000 +0000" channel="Sport1 SK">
     <title>Šipky</title>
@@ -2562,9 +1722,6 @@
   <programme start="20260905083000 +0000" stop="20260905110000 +0000" channel="Sport1 SK">
     <title>Lední hokej: HK Nitra - Skellefteå</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="Sport2 SK">
-    <title>Fotbal: Serie A, 2. kolo</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Sport2 SK">
     <title>Tenis: WTA 250, Athens Open, semifinále</title>
   </programme>
@@ -2574,8 +1731,8 @@
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Sport2 SK">
     <title>Tenis: WTA 250, Athens Open, finále</title>
   </programme>
-  <programme start="20260905023000 +0000" stop="20260905040000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
+  <programme start="20260905100000 +0000" stop="20260905101500 +0000" channel="Sport2 SK">
+    <title>Fotbal: Made in Italy, Santiago Castro</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905063000 +0000" channel="Eurosport 1 ES OpB">
     <title>La Vuelta (T2026)</title>
@@ -2589,8 +1746,8 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="Eurosport 1 ES OpB">
     <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
   </programme>
-  <programme start="20260905023000 +0000" stop="20260905040000 +0000" channel="Eurosport 2 ES OpB">
-    <title>La Vuelta (T2026)</title>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Endurance Uncovered Racing for Excellence (T2026)</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905063000 +0000" channel="Eurosport 2 ES OpB">
     <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
@@ -2604,8 +1761,8 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="Eurosport 2 ES OpB">
     <title>La Vuelta (T2026)</title>
   </programme>
-  <programme start="20260905000000 +0000" stop="20260905040000 +0000" channel="Hypermotion 2 OpB">
-    <title>LaLiga TV Hypermotion 2</title>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905080000 +0000" channel="Hypermotion 2 OpB">
     <title>LaLiga TV Hypermotion 2</title>
@@ -2613,17 +1770,11 @@
   <programme start="20260905080000 +0000" stop="20260905120000 +0000" channel="Hypermotion 2 OpB">
     <title>LaLiga TV Hypermotion 2</title>
   </programme>
-  <programme start="20260905000000 +0000" stop="20260905040000 +0000" channel="Hypermotion 3 OpB">
-    <title>LaLiga TV Hypermotion 3</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905080000 +0000" channel="Hypermotion 3 OpB">
     <title>LaLiga TV Hypermotion 3</title>
   </programme>
   <programme start="20260905080000 +0000" stop="20260905120000 +0000" channel="Hypermotion 3 OpB">
     <title>LaLiga TV Hypermotion 3</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="Premier Sports UK">
-    <title>World of Freesports</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="Premier Sports UK">
     <title>Motorsport: Drew Gibson in Focus</title>
@@ -2649,6 +1800,9 @@
   <programme start="20260905095000 +0000" stop="20260905100000 +0000" channel="Premier Sports UK">
     <title>LALIGA Match Highlights:...</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Premier Sports UK">
+    <title>LALIGA: Real Betis v Real Madrid</title>
+  </programme>
   <programme start="20260905023000 +0000" stop="20260905043000 +0000" channel="Premier Sports 2 UK">
     <title>Coppa Italia: Cagliari v Hellas Verona</title>
   </programme>
@@ -2663,9 +1817,6 @@
   </programme>
   <programme start="20260905073000 +0000" stop="20260905103000 +0000" channel="Premier Sports 2 UK">
     <title>3Ice Hockey</title>
-  </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="CBS Sports">
-    <title>APP Tour Pickleball</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="CBS Sports">
     <title>APP Tour Pickleball</title>
@@ -2684,6 +1835,9 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="CBS Sports">
     <title>World Poker Tour</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="CBS Sports">
+    <title>Watercross</title>
   </programme>
   <programme start="20260905030000 +0000" stop="20260905050000 +0000" channel="FOX Deportes">
     <title>Fútbol Mexicano Primera División</title>
@@ -2709,6 +1863,9 @@
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="FOX Deportes">
     <title>Programa pagado</title>
   </programme>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="FOX Deportes">
+    <title>Programa pagado</title>
+  </programme>
   <programme start="20260905033000 +0000" stop="20260905045900 +0000" channel="FS1">
     <title>IndyCar Racing</title>
   </programme>
@@ -2723,9 +1880,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905120000 +0000" channel="FS1">
     <title>College Football</title>
-  </programme>
-  <programme start="20260905024300 +0000" stop="20260905040000 +0000" channel="FS2">
-    <title>NRL Women's Premiership</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905051300 +0000" channel="FS2">
     <title>Wild World of Western Sports</title>
@@ -2748,9 +1902,6 @@
   <programme start="20260905093300 +0000" stop="20260905123000 +0000" channel="FS2">
     <title>AFL Premiership Football</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="DSPORTS UY">
-    <title>DSports Total</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="DSPORTS UY">
     <title>DSports Noticias Nite</title>
   </programme>
@@ -2765,9 +1916,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="DSPORTS UY">
     <title>DSports Noticias Nite</title>
-  </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="DSPORTS 2 UY">
-    <title>Santos vs. Palmeiras, Cuartos de final - Vuelta, Estádio Vila Belmiro. Copa de Brasil</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="DSPORTS 2 UY">
     <title>Todo en 30. Copa de Brasil - Santos vs. Palmeiras</title>
@@ -2790,9 +1938,6 @@
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="DSPORTS 2 UY">
     <title>Torino vs. Monza, Tercera ronda, Stadio Olimpico di Torino. Coppa Italia</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="DSPORTS AR">
-    <title>Dsports Total</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="DSPORTS AR">
     <title>DSPORTS Noticias Nite</title>
   </programme>
@@ -2807,9 +1952,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="DSPORTS AR">
     <title>DSPORTS Noticias Nite</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="DSPORTS Plus UY">
-    <title>De ciclismo se habla así</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="DSPORTS Plus UY">
     <title>GP Bretagne Classic-Ouest-France</title>
@@ -2838,9 +1980,6 @@
   <programme start="20260905090000 +0000" stop="20260905101500 +0000" channel="Arena Sport 1 HR">
     <title lang="hr">RED BULL: RIDE UNITED</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 2 HR">
-    <title lang="hr">SVJETSKO PRVENSTVO: ŠVICARSKA - ŠVEDSKA</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="Arena Sport 2 HR">
     <title lang="hr">TALIJANSKA LIGA: PREGLED KOLA</title>
   </programme>
@@ -2868,8 +2007,8 @@
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Arena Sport 3 HR">
     <title lang="hr">PREMIER LEAGUE: IPSWICH - LIVERPOOL</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 4 HR">
-    <title lang="hr">RUMUNJSKA LIGA: FCSB - ARAD</title>
+  <programme start="20260905100000 +0000" stop="20260905113000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">MLB: NY YANKEES - BOSTON</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="Arena Sport 4 HR">
     <title lang="hr">POLJSKA LIGA: PIAST - KATOWICE</title>
@@ -2901,14 +2040,17 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="Arena Sport 7 HR">
     <title lang="hr">EUROPA LIGA: SAŽETAK</title>
   </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="Arena Sport 8 HR">
-    <title lang="hr">DIJAMANTNA LIGA: ZURICH</title>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EUROPA LIGA: DINAMO - CELTA VIGO</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905080000 +0000" channel="Arena Sport 8 HR">
     <title lang="hr">NFL: SUPER BOWL</title>
   </programme>
   <programme start="20260905080000 +0000" stop="20260905100000 +0000" channel="Arena Sport 8 HR">
     <title lang="hr">COPA SUDAMERICANA: LANUS - CIENCIANO</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">NHL: FINALE G6</title>
   </programme>
   <programme start="20260905010000 +0200" stop="20260905050000 +0200" channel="Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
@@ -2928,6 +2070,9 @@
   <programme start="20260905060000 +0200" stop="20260905100000 +0200" channel="Hypermotion 2">
     <title>Próximo partido: Ceuta-Celta Fortuna</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905140000 +0200" channel="Hypermotion 2">
+    <title>Próximo partido: Ceuta-Celta Fortuna</title>
+  </programme>
   <programme start="20260905030000 +0200" stop="20260905043000 +0200" channel="Eurosport 1 ES">
     <title>La Vuelta T2026 · Etapa 13 - Almuñécar - Loja</title>
   </programme>
@@ -2943,6 +2088,9 @@
   <programme start="20260905083000 +0200" stop="20260905100000 +0200" channel="Eurosport 1 ES">
     <title>Copa del mundo de escalada - Chamonix T2026 · Velocidad - Finales</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905120000 +0200" channel="Eurosport 1 ES">
+    <title>Abierto de Gran Bretaña de snooker T26/27 · Cuartos de final</title>
+  </programme>
   <programme start="20260905030000 +0200" stop="20260905043000 +0200" channel="Eurosport 2 ES">
     <title>Abierto de Gran Bretaña de snooker T26/27 · Cuartos de final</title>
   </programme>
@@ -2957,9 +2105,6 @@
   </programme>
   <programme start="20260905093000 +0200" stop="20260905120000 +0200" channel="Eurosport 2 ES">
     <title>La Vuelta T2026 · Etapa 13 - Almuñécar - Loja</title>
-  </programme>
-  <programme start="20260905000000 +0200" stop="20260905040000 +0200" channel="Hypermotion 3">
-    <title>LALIGA TV HYPERMOTION 3</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905080000 +0200" channel="Hypermotion 3">
     <title>LALIGA TV HYPERMOTION 3</title>
@@ -3000,9 +2145,6 @@
   <programme start="20260905095300 +0200" stop="20260905125300 +0200" channel="Onetoro">
     <title>Redifusión Directo Alfarero de Oro (04/09/2026)</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="DSPORTS AR DMUMA">
-    <title>Dsports Total</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="DSPORTS AR DMUMA">
     <title>DSPORTS Noticias Nite</title>
   </programme>
@@ -3017,9 +2159,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="DSPORTS AR DMUMA">
     <title>DSPORTS Noticias Nite</title>
-  </programme>
-  <programme start="20260905020000 +0000" stop="20260905040000 +0000" channel="DSPORTS 2 AR DMUMA">
-    <title>Santos vs. Palmeiras</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="DSPORTS 2 AR DMUMA">
     <title>Copa De Brasil: Santos vs. Palmeiras</title>
@@ -3042,9 +2181,6 @@
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="DSPORTS 2 AR DMUMA">
     <title>Torino vs. Monza</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="DSPORTS Plus AR DMUMA">
-    <title>De ciclismo se habla así</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905060000 +0000" channel="DSPORTS Plus AR DMUMA">
     <title>Bretagne Classic</title>
   </programme>
@@ -3053,9 +2189,6 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="DSPORTS Plus AR DMUMA">
     <title>Estados Unidos vs. China</title>
-  </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="beIN Sports Xtra en espanol">
-    <title>90 in 30</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="beIN Sports Xtra en espanol">
     <title>The Xtra</title>
@@ -3074,6 +2207,9 @@
   </programme>
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="beIN Sports Xtra en espanol">
     <title>Pro Footvolley Tour</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="beIN Sports Xtra en espanol">
+    <title>The Xtra</title>
   </programme>
   <programme start="20260905033800 +0000" stop="20260905042000 +0000" channel="AXN OpB">
     <title>The Blacklist</title>
@@ -3315,10 +2451,6 @@
     <title>En Compañía de Lobos</title>
     <desc>Lobos y criaturas fantásticas acechan los sueños de la joven Rosaleen, quien sueña que debe atravesar el bosque oscuro para llegar a casa de su abuela.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20260905035018 +0000" stop="20260905035818 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV ES</desc>
-  </programme>
   <programme channel="Pluto Western" start="20260905035818 +0000" stop="20260905061218 +0000">
     <title>El tren de las 3:10 de James Mangold</title>
     <desc>Dan Evans (Christian Bale) es un veterano, que para aliviar sus penurias económicas, decide escoltar al peligroso forajido Ben Wade (Russell Crowe) mientras llega el tren que tiene que enviarlo ante la justicia. Nominada a dos Oscar ® 2008.</desc>
@@ -3367,10 +2499,6 @@
     <title>Alarma en el Expreso</title>
     <desc>Centroeuropa. El tren Transcontinental  sufre un retraso. Los pasajeros pernoctan en un hotel. Iris Henderson habla con una anciana, la Sra. Froy. En el tren, Iris se da cuenta de la desaparición de la anciana, pero los pasajeros afirman que no existe.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20260905035527 +0000" stop="20260905040027 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
   <programme channel="Pluto Gore and slasher" start="20260905040027 +0000" stop="20260905043027 +0000">
     <title>Pluto TV Gore &amp; Slasher</title>
     <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
@@ -3416,6 +2544,10 @@
     <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
   <programme channel="Pluto Gore and slasher" start="20260905093027 +0000" stop="20260905100027 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20260905100027 +0000" stop="20260905103027 +0000">
     <title>Pluto TV Gore &amp; Slasher</title>
     <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
@@ -3951,6 +3083,9 @@
   <programme start="20260905094204 +0000" stop="20260905100346 +0000" channel="Nesting TV">
     <title>Episodio 50</title>
   </programme>
+  <programme start="20260905100346 +0000" stop="20260905102307 +0000" channel="Nesting TV">
+    <title>Episodio 51</title>
+  </programme>
   <programme channel="Pluto Cocina" start="20260905035150 +0000" stop="20260905042550 +0000">
     <title>La pera limonera</title>
   </programme>
@@ -4017,9 +3152,6 @@
   <programme channel="En el punto de mira" start="20260905093300 +0000" stop="20260905105300 +0000">
     <title>En el punto de mira: Dietas extremas</title>
   </programme>
-  <programme channel="Ciudadanos por el mundo" start="20260905031727 +0000" stop="20260905040027 +0000">
-    <title>Aragoneses por el mundo: Suecia</title>
-  </programme>
   <programme channel="Ciudadanos por el mundo" start="20260905040027 +0000" stop="20260905045627 +0000">
     <title>Aragoneses por el mundo: Polonia</title>
   </programme>
@@ -4037,6 +3169,9 @@
   </programme>
   <programme channel="Ciudadanos por el mundo" start="20260905090015 +0000" stop="20260905100215 +0000">
     <title>Aragoneses por el mundo: Costa Rica</title>
+  </programme>
+  <programme channel="Ciudadanos por el mundo" start="20260905100215 +0000" stop="20260905110415 +0000">
+    <title>Aragoneses por el mundo: Washington DC</title>
   </programme>
   <programme channel="Pluto Diseno" start="20260905035621 +0000" stop="20260905045538 +0000">
     <title>Espacio Para Mejorar</title>
@@ -4082,9 +3217,6 @@
   </programme>
   <programme channel="Pluto Homeful" start="20260905091600 +0000" stop="20260905101000 +0000">
     <title>Holmes en tu hogar</title>
-  </programme>
-  <programme channel="El Mueble" start="20260905033700 +0000" stop="20260905040300 +0000">
-    <title>S.O.S. Jardines</title>
   </programme>
   <programme channel="El Mueble" start="20260905040300 +0000" stop="20260905045600 +0000">
     <title>Nuestro propio castillo DIY</title>
@@ -4188,8 +3320,8 @@
   <programme channel="Tastemade en espanol" start="20260905093502 +0000" stop="20260905100000 +0000">
     <title>Make This Tonight en Español</title>
   </programme>
-  <programme channel="The Design Network" start="20260905033000 +0000" stop="20260905040000 +0000">
-    <title>Homeworthy: The Collection</title>
+  <programme channel="Tastemade en espanol" start="20260905100000 +0000" stop="20260905102600 +0000">
+    <title>Make This Tonight en Español</title>
   </programme>
   <programme channel="The Design Network" start="20260905040000 +0000" stop="20260905043000 +0000">
     <title>DIY House Call with Kylie Katich</title>
@@ -4222,6 +3354,9 @@
     <title>Extravagant Spaces</title>
   </programme>
   <programme channel="The Design Network" start="20260905093000 +0000" stop="20260905100000 +0000">
+    <title>DIY House Call with Kylie Katich</title>
+  </programme>
+  <programme channel="The Design Network" start="20260905100000 +0000" stop="20260905103000 +0000">
     <title>DIY House Call with Kylie Katich</title>
   </programme>
   <programme start="20260905034500 +0200" stop="20260905041000 +0200" channel="DViaje">
@@ -4263,9 +3398,6 @@
   <programme start="20260905092900 +0200" stop="20260905101800 +0200" channel="DViaje">
     <title>Bikes of Wrath T1 E6 · California</title>
   </programme>
-  <programme start="20260905030000 +0000" stop="20260905040000 +0000" channel="CNN en espanol OpB">
-    <title>Perspectivas con Mario González</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="CNN en espanol OpB">
     <title>Directo USA</title>
   </programme>
@@ -4284,8 +3416,8 @@
   <programme start="20260905090000 +0000" stop="20260905100000 +0000" channel="CNN en espanol OpB">
     <title>Perspectivas con Mario González</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="RT en espanol">
-    <title>Hawái: un reino ocupado</title>
+  <programme start="20260905100000 +0000" stop="20260905110000 +0000" channel="CNN en espanol OpB">
+    <title>Panorama mundial</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="RT en espanol">
     <title>Hawái: un reino ocupado</title>
@@ -4323,8 +3455,8 @@
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="RT en espanol">
     <title>Hawái: un reino ocupado</title>
   </programme>
-  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="Canal Parlamento">
-    <title>Canal Parlamentario</title>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="RT en espanol">
+    <title>Hawái: un reino ocupado</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905070000 +0000" channel="Canal Parlamento">
     <title>Canal Parlamentario</title>
@@ -4332,8 +3464,8 @@
   <programme start="20260905070000 +0000" stop="20260905100000 +0000" channel="Canal Parlamento">
     <title>Canal Parlamentario</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="CGTN Espanol OpB">
-    <title>Documental</title>
+  <programme start="20260905100000 +0000" stop="20260905130000 +0000" channel="Canal Parlamento">
+    <title>Canal Parlamentario</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905044500 +0000" channel="CGTN Espanol OpB">
     <title>El proyector</title>
@@ -4371,9 +3503,6 @@
   <programme start="20260905093000 +0000" stop="20260905101500 +0000" channel="CGTN Espanol OpB">
     <title>El proyector</title>
   </programme>
-  <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="DW en espanol">
-    <title>Eco Latinoamerica - El magacín del medio ambiente</title>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="DW en espanol">
     <title>Euromaxx - Vida y cultura en Europa</title>
   </programme>
@@ -4410,8 +3539,8 @@
   <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="DW en espanol">
     <title>Enfoque Europa - Países, gentes, destinos</title>
   </programme>
-  <programme start="20260905034500 +0000" stop="20260905040000 +0000" channel="France24 en espanol">
-    <title>Le journal de l'Afrique</title>
+  <programme start="20260905100000 +0000" stop="20260905103000 +0000" channel="DW en espanol">
+    <title>Visión futuro - El magacín científico</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905041500 +0000" channel="France24 en espanol">
     <title>A la une : le journal</title>
@@ -4479,8 +3608,8 @@
   <programme start="20260905095600 +0000" stop="20260905100000 +0000" channel="France24 en espanol">
     <title>Culture prime</title>
   </programme>
-  <programme start="20260905000500 +0000" stop="20260905040000 +0000" channel="La 1 OpB">
-    <title>Noticias 24H</title>
+  <programme start="20260905100000 +0000" stop="20260905101400 +0000" channel="France24 en espanol">
+    <title>Paris direct : le journal</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905055000 +0000" channel="La 1 OpB">
     <title>Telediario Matinal</title>
@@ -4490,12 +3619,6 @@
   </programme>
   <programme start="20260905083500 +0000" stop="20260905125500 +0000" channel="La 1 OpB">
     <title>Mañaneros 360</title>
-  </programme>
-  <programme start="20260905035500 +0000" stop="20260905040000 +0000" channel="La 2 OpB">
-    <title>La 2 express</title>
-  </programme>
-  <programme start="20260905040000 +0000" stop="20260905040500 +0000" channel="La 2 OpB">
-    <title>La 2 express</title>
   </programme>
   <programme start="20260905040500 +0000" stop="20260905050500 +0000" channel="La 2 OpB">
     <title>Senderos del mundo</title>
@@ -4517,9 +3640,6 @@
   </programme>
   <programme start="20260905095500 +0000" stop="20260905102500 +0000" channel="La 2 OpB">
     <title>Jardines con historia</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20260905033000 +0000" stop="20260905040000 +0000">
-    <title>Actualidad 360</title>
   </programme>
   <programme channel="Actualidad 360" start="20260905040000 +0000" stop="20260905043000 +0000">
     <title>Actualidad 360</title>
@@ -4557,8 +3677,8 @@
   <programme channel="Actualidad 360" start="20260905093000 +0000" stop="20260905100000 +0000">
     <title>Actualidad 360</title>
   </programme>
-  <programme channel="El Pais TV" start="20260905032732 +0000" stop="20260905040318 +0000">
-    <title>Gente que importa</title>
+  <programme channel="Actualidad 360" start="20260905100000 +0000" stop="20260905103000 +0000">
+    <title>Actualidad 360</title>
   </programme>
   <programme channel="El Pais TV" start="20260905040318 +0000" stop="20260905044014 +0000">
     <title>El País</title>
@@ -4626,6 +3746,9 @@
   <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="La 1">
     <title>Noticias 24H</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="La 1">
+    <title>Audiencia abierta</title>
+  </programme>
   <programme start="20260905032500 +0200" stop="20260905042000 +0200" channel="La 2">
     <title>Las rutas de... T6 · La Carthaginensis murciana</title>
   </programme>
@@ -4656,8 +3779,8 @@
   <programme start="20260905093500 +0200" stop="20260905100500 +0200" channel="La 2">
     <title>Caravana educativa T1</title>
   </programme>
-  <programme start="20260905024400 +0200" stop="20260905040600 +0200" channel="Clan">
-    <title>Águila Roja T5 E10 · Gonzalo y Margarita asisten a una boda</title>
+  <programme start="20260905100500 +0200" stop="20260905105500 +0200" channel="La 2">
+    <title>Reduce tu huella T3</title>
   </programme>
   <programme start="20260905040600 +0200" stop="20260905052500 +0200" channel="Clan">
     <title>Águila Roja T5 E11 · La identidad de , al descubierto</title>
@@ -4731,9 +3854,6 @@
   <programme start="20260905094500 +0200" stop="20260905100900 +0200" channel="Clan">
     <title>La Casa De Mickey Mouse T3 E32 · La aventura espacial (Parte 1)</title>
   </programme>
-  <programme start="20260905033000 +0200" stop="20260905040000 +0200" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
   <programme start="20260905040000 +0200" stop="20260905043000 +0200" channel="Canal 24 Horas">
     <title>Telediario Internacional</title>
   </programme>
@@ -4770,6 +3890,9 @@
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="Canal 24 Horas">
     <title>Noticias 24H</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="Canal 24 Horas">
+    <title>Noticias 24H</title>
+  </programme>
   <programme start="20260905020000 +0200" stop="20260905044000 +0200" channel="TRECE">
     <title>Paraíso hawaiano</title>
   </programme>
@@ -4784,9 +3907,6 @@
   </programme>
   <programme start="20260905091000 +0200" stop="20260905110000 +0200" channel="TRECE">
     <title>Tierra de héroes</title>
-  </programme>
-  <programme start="20260905034600 +0200" stop="20260905040000 +0200" channel="Euronews en espanol">
-    <title>Made in Europe</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905041500 +0200" channel="Euronews en espanol">
     <title>Euronews Week-End</title>
@@ -4863,6 +3983,12 @@
   <programme start="20260905094800 +0200" stop="20260905100000 +0200" channel="Euronews en espanol">
     <title>News</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905100500 +0200" channel="Euronews en espanol">
+    <title>5 minutes</title>
+  </programme>
+  <programme start="20260905100500 +0200" stop="20260905102900 +0200" channel="Euronews en espanol">
+    <title>The Ring</title>
+  </programme>
   <programme start="20260905030000 +0200" stop="20260905050000 +0200" channel="El Toro TV">
     <title>El gato al agua</title>
   </programme>
@@ -4881,14 +4007,17 @@
   <programme start="20260905065600 +0200" stop="20260905095800 +0200" channel="El Toro TV">
     <title>Mañanas en libertad</title>
   </programme>
+  <programme start="20260905095800 +0200" stop="20260905102100 +0200" channel="El Toro TV">
+    <title>Qntlc En Ewtn T1</title>
+  </programme>
   <programme start="20260905000000 +0200" stop="20260905090000 +0200" channel="Negocios TV">
     <title>Lo mejor de Negocios TV</title>
   </programme>
   <programme start="20260905090000 +0200" stop="20260905100000 +0200" channel="Negocios TV">
     <title>Desayunos Ruta 2030</title>
   </programme>
-  <programme start="20260905034500 +0200" stop="20260905040000 +0200" channel="CGTN Espanol">
-    <title>Nihao china</title>
+  <programme start="20260905100000 +0200" stop="20260905110000 +0200" channel="Negocios TV">
+    <title>Tech Talks Skyller Academy</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905043000 +0200" channel="CGTN Espanol">
     <title>Ronda Artística</title>
@@ -4926,6 +4055,9 @@
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="CGTN Espanol">
     <title>Ronda Artística</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="CGTN Espanol">
+    <title>CGTN noticias</title>
+  </programme>
   <programme start="20260905024500 +0200" stop="20260905042500 +0200" channel="Teledeporte">
     <title>Torneos Clasificación MundoBasket F T2026 · España - Alemania</title>
   </programme>
@@ -4938,8 +4070,8 @@
   <programme start="20260905060000 +0200" stop="20260905100000 +0200" channel="Teledeporte">
     <title>Teledeporte</title>
   </programme>
-  <programme start="20260905035500 +0200" stop="20260905040000 +0200" channel="NHK World Espanol">
-    <title>Ukiyoe Edo-Life</title>
+  <programme start="20260905100000 +0200" stop="20260905140000 +0200" channel="Teledeporte">
+    <title>Teledeporte</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905043000 +0200" channel="NHK World Espanol">
     <title>Medical Frontiers</title>
@@ -4983,6 +4115,9 @@
   <programme start="20260905091000 +0200" stop="20260905100000 +0200" channel="NHK World Espanol">
     <title>The truth behind the "bear crisis"</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905101000 +0200" channel="NHK World Espanol">
+    <title>NHK Newsline</title>
+  </programme>
   <programme start="20260905030200 +0200" stop="20260905051000 +0200" channel="Distrito TV">
     <title>El mundo al Rojo</title>
   </programme>
@@ -5009,6 +4144,9 @@
   </programme>
   <programme start="20260905091000 +0200" stop="20260905100000 +0200" channel="La 1 Catalunya">
     <title>Gran Tonino</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="La 1 Catalunya">
+    <title>Audiencia abierta</title>
   </programme>
   <programme start="20260905032500 +0200" stop="20260905042000 +0200" channel="La 2 Cat">
     <title>Las Rutas D’Ambrosio T6 E12 · La Carthaginensis murciana</title>
@@ -5040,8 +4178,8 @@
   <programme start="20260905093500 +0200" stop="20260905100000 +0200" channel="La 2 Cat">
     <title>Caravana educativa</title>
   </programme>
-  <programme start="20260905033000 +0200" stop="20260905040000 +0200" channel="Canal 24 Horas Catalunya">
-    <title>Telediario Internacional</title>
+  <programme start="20260905100000 +0200" stop="20260905105000 +0200" channel="La 2 Cat">
+    <title>Wild Hunters · Cazadores salvajes</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905043000 +0200" channel="Canal 24 Horas Catalunya">
     <title>Telediario Internacional</title>
@@ -5073,6 +4211,9 @@
   <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="La 1 Canarias">
     <title>Noticias 24H</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="La 1 Canarias">
+    <title>Audiencia abierta</title>
+  </programme>
   <programme start="20260905032500 +0200" stop="20260905042000 +0200" channel="La 2 Canarias">
     <title>Las Rutas D’Ambrosio T6 E12 · La Carthaginensis murciana</title>
   </programme>
@@ -5103,8 +4244,8 @@
   <programme start="20260905093500 +0200" stop="20260905100500 +0200" channel="La 2 Canarias">
     <title>Caravana educativa</title>
   </programme>
-  <programme start="20260905033000 +0200" stop="20260905040000 +0200" channel="Canal 24 Horas Canarias">
-    <title>Td Internacional 24 Horas E247</title>
+  <programme start="20260905100500 +0200" stop="20260905105500 +0200" channel="La 2 Canarias">
+    <title>Reduce tu huella</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905043000 +0200" channel="Canal 24 Horas Canarias">
     <title>Td Internacional 24 Horas E247</title>
@@ -5136,8 +4277,8 @@
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="Canal 24 Horas Canarias">
     <title>Noticias 24 H E613</title>
   </programme>
-  <programme start="20260905030000 +0200" stop="20260905040000 +0200" channel="CNN en espanol">
-    <title>Conclusiones</title>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="Canal 24 Horas Canarias">
+    <title>Noticias 24 H E613</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905050000 +0200" channel="CNN en espanol">
     <title>Deportes CNN</title>
@@ -5156,6 +4297,9 @@
   </programme>
   <programme start="20260905090000 +0200" stop="20260905100000 +0200" channel="CNN en espanol">
     <title>Aristegui</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905110000 +0200" channel="CNN en espanol">
+    <title>Conclusiones</title>
   </programme>
   <programme start="20260905030000 +0200" stop="20260905081000 +0200" channel="Canal Sur Andalucia">
     <title>Los Repobladores</title>
@@ -5183,9 +4327,6 @@
   </programme>
   <programme start="20260905093000 +0200" stop="20260905101500 +0200" channel="TVG Europa">
     <title>Bos Días</title>
-  </programme>
-  <programme start="20260905032100 +0200" stop="20260905040100 +0200" channel="Canal Extremadura Sat">
-    <title>Conexión Extremadura</title>
   </programme>
   <programme start="20260905040100 +0200" stop="20260905045700 +0200" channel="Canal Extremadura Sat">
     <title>Puerta con puerta</title>
@@ -5225,9 +4366,6 @@
   </programme>
   <programme start="20260905095500 +0200" stop="20260905103500 +0200" channel="Aragon TV Int">
     <title>El campo es nuestro</title>
-  </programme>
-  <programme start="20260905033000 +0200" stop="20260905040000 +0200" channel="A Punt">
-    <title>Vigilants de la platja</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905060000 +0200" channel="A Punt">
     <title>La via verda</title>
@@ -5286,9 +4424,6 @@
   <programme start="20260905095500 +0200" stop="20260905103500 +0200" channel="Aragon TV">
     <title>El campo es nuestro</title>
   </programme>
-  <programme start="20260905010000 +0200" stop="20260905040000 +0200" channel="Navarra Television">
-    <title>Redifusión</title>
-  </programme>
   <programme start="20260905040000 +0200" stop="20260905080000 +0200" channel="Navarra Television">
     <title>Redifusión</title>
   </programme>
@@ -5298,11 +4433,11 @@
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="Navarra Television">
     <title>Club Txikipanda</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="Navarra Television">
+    <title>Los fogones del Reyno</title>
+  </programme>
   <programme start="20260905093000 +0200" stop="20260905103000 +0200" channel="Navarra Television 2">
     <title>Ponte Las Pilas</title>
-  </programme>
-  <programme start="20260905014500 +0200" stop="20260905040000 +0200" channel="CMM TV">
-    <title>En compañía</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905044500 +0200" channel="CMM TV">
     <title>Castilla-La Mancha a las 8</title>
@@ -5336,6 +4471,9 @@
   </programme>
   <programme start="20260905094500 +0200" stop="20260905100000 +0200" channel="CMM TV">
     <title>En acción en casa</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905110000 +0200" channel="CMM TV">
+    <title>Las chicas del mercadillo</title>
   </programme>
   <programme start="20260905012500 +0200" stop="20260905041000 +0200" channel="CyL 7">
     <title>El tiempo</title>
@@ -5387,6 +4525,9 @@
   </programme>
   <programme start="20260905090500 +0200" stop="20260905100000 +0200" channel="ETB 1">
     <title>Tribuaren Berbak</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905110000 +0200" channel="ETB 1">
+    <title>Gure Amaren Etxea</title>
   </programme>
   <programme start="20260905034000 +0200" stop="20260905044000 +0200" channel="ETB 2">
     <title>Vaya Par</title>
@@ -5529,9 +4670,6 @@
   <programme start="20260905095200 +0200" stop="20260905101700 +0200" channel="TVG 2">
     <title>Monster's Allergy</title>
   </programme>
-  <programme start="20260905032000 +0200" stop="20260905040000 +0200" channel="Canal Extremadura">
-    <title>Conexión Extremadura</title>
-  </programme>
   <programme start="20260905040000 +0200" stop="20260905050000 +0200" channel="Canal Extremadura">
     <title>Puerta con puerta</title>
   </programme>
@@ -5564,6 +4702,9 @@
   </programme>
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="Canal Extremadura">
     <title>D'Artacan y los tres mosqueperros</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905102000 +0200" channel="Canal Extremadura">
+    <title>Ranger Rob</title>
   </programme>
   <programme start="20260905031400 +0200" stop="20260905040800 +0200" channel="Telemadrid">
     <title>Enamorados de Madrid T1 · Comestible</title>
@@ -5649,6 +4790,9 @@
   <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="TV3">
     <title>Notícies 3CatInfo</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905115500 +0200" channel="TV3">
+    <title>Notícies 3CatInfo</title>
+  </programme>
   <programme start="20260905033000 +0200" stop="20260905043000 +0200" channel="7RM">
     <title>En el corazón de la fiesta</title>
   </programme>
@@ -5690,9 +4834,6 @@
   </programme>
   <programme start="20260905090000 +0200" stop="20260905111500 +0200" channel="Canal Sur">
     <title>El show de Bertín</title>
-  </programme>
-  <programme start="20260905033000 +0200" stop="20260905040000 +0200" channel="Andalucia TV">
-    <title>Experiencia TV</title>
   </programme>
   <programme start="20260905040000 +0200" stop="20260905050000 +0200" channel="Andalucia TV">
     <title>El Faro</title>
@@ -5798,9 +4939,6 @@
   </programme>
   <programme start="20260905090500 +0200" stop="20260905102000 +0200" channel="ETB 1 On">
     <title>Bideoklipak</title>
-  </programme>
-  <programme start="20260905030500 +0200" stop="20260905040500 +0200" channel="ETB 2 On">
-    <title>Vaya Par</title>
   </programme>
   <programme start="20260905040500 +0200" stop="20260905050500 +0200" channel="ETB 2 On">
     <title>Aupa Hi: Destino: Conexión animal</title>
@@ -5949,6 +5087,9 @@
   <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="3cat Info">
     <title>Notícies 3CatInfo</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905120000 +0200" channel="3cat Info">
+    <title>Notícies 3CatInfo</title>
+  </programme>
   <programme start="20260905034500 +0200" stop="20260905050000 +0200" channel="Popular TV Murcia">
     <title>Infocomerciales</title>
   </programme>
@@ -5967,6 +5108,9 @@
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="Popular TV Murcia">
     <title>Cocina familiar · Cocina familiar con Javier Romero</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="Popular TV Murcia">
+    <title>Parada y fonda</title>
+  </programme>
   <programme start="20260905004000 +0200" stop="20260905044000 +0200" channel="TPA 7">
     <title>Aquí si hay playa</title>
   </programme>
@@ -5982,6 +5126,9 @@
   <programme start="20260905094500 +0200" stop="20260905100000 +0200" channel="TPA 7">
     <title>Animalada xabaz</title>
   </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="TPA 7">
+    <title>La abeja Maya</title>
+  </programme>
   <programme start="20260905014000 +0200" stop="20260905054000 +0200" channel="TPA 8">
     <title>Aquí si hay playa</title>
   </programme>
@@ -5990,6 +5137,9 @@
   </programme>
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="TPA 8">
     <title>Llévote al güertu</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905104500 +0200" channel="TPA 8">
+    <title>Fálame</title>
   </programme>
   <programme start="20260905030000 +0200" stop="20260905080000 +0200" channel="Andorra Televisio">
     <title>Àrea Andorra Difusió</title>
@@ -6002,9 +5152,6 @@
   </programme>
   <programme start="20260905090000 +0200" stop="20260905113000 +0200" channel="Andorra Televisio">
     <title>El trànsit</title>
-  </programme>
-  <programme start="20260905030705 +0200" stop="20260905035926 +0200" channel="El 33">
-    <title>Cites Barcelona - Laura-Jan / Tiago-Mimi</title>
   </programme>
   <programme start="20260905035926 +0200" stop="20260905044751 +0200" channel="El 33">
     <title>Cites Barcelona - Nico-Diana / Juanqui-Barbs</title>
@@ -6042,6 +5189,9 @@
   <programme start="20260905091940 +0200" stop="20260905095924 +0200" channel="El 33">
     <title>La Mar de Bé - Helsa</title>
   </programme>
+  <programme start="20260905095924 +0200" stop="20260905103827 +0200" channel="El 33">
+    <title>La Mar de Bé - Palandriu</title>
+  </programme>
   <programme start="20260905020000 +0200" stop="20260905043000 +0200" channel="TV3 CAT">
     <title>Pel·lícula - Sica</title>
   </programme>
@@ -6055,6 +5205,9 @@
     <title>Notícies 3CatInfo</title>
   </programme>
   <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="TV3 CAT">
+    <title>Notícies 3CatInfo</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905114923 +0200" channel="TV3 CAT">
     <title>Notícies 3CatInfo</title>
   </programme>
   <programme start="20260905023822 +0200" stop="20260905055550 +0200" channel="Bon Dia TV">
@@ -6086,6 +5239,9 @@
   </programme>
   <programme start="20260905093000 +0200" stop="20260905100000 +0200" channel="TVR Rioja">
     <title>La cocina del Garabato</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905110000 +0200" channel="TVR Rioja">
+    <title>Dibujos animados</title>
   </programme>
   <programme start="20260905010000 +0200" stop="20260905085500 +0200" channel="Popular TV Cantabria">
     <title>Ajuste de programación</title>
@@ -6137,5 +5293,8 @@
   </programme>
   <programme start="20260905090500 +0200" stop="20260905100000 +0200" channel="La 8 Valladolid">
     <title>Día de Mercado</title>
+  </programme>
+  <programme start="20260905100000 +0200" stop="20260905103000 +0200" channel="La 8 Valladolid">
+    <title>Agro en acción</title>
   </programme>
 </tv>
