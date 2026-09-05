@@ -112,11 +112,17 @@ def construir_guia(nombre_grupo, lista_archivos, ahora, limite_futuro):
 
         es_cine = (archivo_xml == "epg_cine.xml")
 
-        # 1. Registrar canales únicos
+        # 1. Registrar canales únicos (limpios y ultra ligeros)
         for channel in root_fuente.findall("channel"):
             c_id = channel.get("id")
             if c_id and c_id not in canales_registrados:
-                root_out.append(copy.deepcopy(channel))
+                ch_limpio = ET.Element("channel", id=c_id)
+                
+                # Conservamos solo un display-name básico con el propio id (estándar XMLTV seguro)
+                dn = ET.SubElement(ch_limpio, "display-name")
+                dn.text = c_id
+                
+                root_out.append(ch_limpio)
                 canales_registrados.add(c_id)
 
         # 2. Procesar programas y filtrar ventana horaria
