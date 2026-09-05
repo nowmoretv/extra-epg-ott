@@ -1,0 +1,33 @@
+name: Actualizador EPG Conjunto
+
+on:
+  schedule:
+    # Se ejecuta cada 3 horas (a las 00:00, 03:00, 06:00, 09:00, etc. UTC)
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  build-and-merge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Generar EPGs combinadas y comprimidas
+      run: python epg_aggregator.py
+
+    - name: Guardar cambios en GitHub
+      run: |
+        git config --global user.name "EPG Aggregator Bot"
+        git config --global user.email "aggregator-bot@github.com"
+        git add *.xml *.xml.gz
+        git commit -m "Auto-actualización EPGs conjuntas (3h) [skip ci]" || exit 0
+        git push
