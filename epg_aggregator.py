@@ -15,12 +15,12 @@ URL_BASE_REPO = "https://raw.githubusercontent.com/nowmoretv/extra-epg-pro-categ
 
 GRUPOS = {
     "epg_principal": [
-        "epg_deportes.xml",
-        "epg_cine.xml",
-        "epg_series.xml",
-        "epg_entretenimiento.xml",
-        "epg_nacionales.xml",
-        "epg_regionales.xml",
+        "#OCULTAepg_deportes.xml",
+        "#OCULTAepg_cine.xml",
+        "#OCULTAepg_series.xml",
+        "#OCULTAepg_entretenimiento.xml",
+        "#OCULTAepg_nacionales.xml",
+        "#OCULTAepg_regionales.xml",
         "epg_locales.xml"
     ],
     "epg_exterior": [
