@@ -39,37 +39,73 @@
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="GuadaTV Generica">
     <title>Guadalajara</title>
   </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="GuadaTV Generica">
+    <title>Guadalajara</title>
+  </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Alcarria TV Generica">
+    <title>Guadalajara</title>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Alcarria TV Generica">
     <title>Guadalajara</title>
   </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Imas TV Generica">
     <title>Ciudad Real</title>
   </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Imas TV Generica">
+    <title>Ciudad Real</title>
+  </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Miguelturra TV Generica">
+    <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Miguelturra TV Generica">
     <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
   </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal 2000 Generica">
     <title>La Solana (Ciudad Real)</title>
   </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 2000 Generica">
+    <title>La Solana (Ciudad Real)</title>
+  </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Teletoledo Generica">
+    <title>Toledo</title>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Teletoledo Generica">
     <title>Toledo</title>
   </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Vision 6 Generica">
     <title>Albacete</title>
   </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Vision 6 Generica">
+    <title>Albacete</title>
+  </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal 4 Mancha Centro Generica">
+    <title>Villarrobledo (Albacete)</title>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 4 Mancha Centro Generica">
     <title>Villarrobledo (Albacete)</title>
   </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="TV Hellin Generica">
     <title>Hellín (Albacete)</title>
   </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TV Hellin Generica">
+    <title>Hellín (Albacete)</title>
+  </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="MiBit Almansa TV Generica">
+    <title>Almansa (Albacete)</title>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="MiBit Almansa TV Generica">
     <title>Almansa (Albacete)</title>
   </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Andalucia Generica">
     <title>Andalucía</title>
   </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Andalucia Generica">
+    <title>Andalucía</title>
+  </programme>
   <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Sevilla Generica">
+    <title>Sevilla</title>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Sevilla Generica">
     <title>Sevilla</title>
   </programme>
 </tv>
