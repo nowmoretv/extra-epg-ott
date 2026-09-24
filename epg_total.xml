@@ -192,386 +192,194 @@
   <channel id="Telemotril OpM">
     <display-name>Telemotril OpM</display-name>
   </channel>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="GuadaTV OpM">
-    <title>Guadalajara</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="GuadaTV OpM">
-    <title>Guadalajara</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Alcarria TV OpM">
     <title>Guadalajara</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Alcarria TV OpM">
     <title>Guadalajara</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Imas TV OpM">
-    <title>Ciudad Real</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Imas TV OpM">
     <title>Ciudad Real</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Miguelturra TV OpM">
-    <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Miguelturra TV OpM">
     <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal 2000 OpM">
-    <title>La Solana (Ciudad Real)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal 2000 OpM">
     <title>La Solana (Ciudad Real)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Teletoledo OpM">
-    <title>Toledo</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Teletoledo OpM">
     <title>Toledo</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Vision 6 OpM">
-    <title>Albacete</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Vision 6 OpM">
     <title>Albacete</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal 4 Mancha Centro OpM">
-    <title>Villarrobledo (Albacete)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal 4 Mancha Centro OpM">
     <title>Villarrobledo (Albacete)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TV Hellin OpM">
-    <title>Hellín (Albacete)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="TV Hellin OpM">
     <title>Hellín (Albacete)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="MiBit Almansa TV OpM">
-    <title>Almansa (Albacete)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="MiBit Almansa TV OpM">
     <title>Almansa (Albacete)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Andalucia OpM">
-    <title>Andalucía</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Andalucia OpM">
     <title>Andalucía</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Sevilla OpM">
-    <title>Sevilla</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Sevilla OpM">
-    <title>Sevilla</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Sevilla OpM">
     <title>Sevilla</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="PTV Sevilla OpM">
     <title>Sevilla</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Aljarafe OpM">
-    <title>Aljarafe (Sevilla)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Aljarafe OpM">
     <title>Aljarafe (Sevilla)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Malaga OpM">
-    <title>Málaga capital</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal Malaga OpM">
     <title>Málaga capital</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Malaga OpM">
-    <title>Málaga</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Malaga OpM">
-    <title>Málaga</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Malaga OpM">
     <title>Málaga</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="PTV Malaga OpM">
     <title>Málaga</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Marbella TV OpM">
-    <title>Marbella (Málaga)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Marbella TV OpM">
-    <title>Marbella (Málaga)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="M95 OpM">
     <title>Marbella (Málaga)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="M95 OpM">
     <title>Marbella (Málaga)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Torremolinos TV OpM">
-    <title>Torremolinos (Málaga)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Torremolinos TV OpM">
     <title>Torremolinos (Málaga)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Fuengirola TV OpM">
-    <title>Fuengirola TV (Málaga)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Fuengirola TV OpM">
     <title>Fuengirola TV (Málaga)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Estepona TV OpM">
-    <title>Estepona (Málaga)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Estepona TV OpM">
     <title>Estepona (Málaga)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Mijas TV OpM">
-    <title>Mijas (Málaga)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Mijas TV OpM">
     <title>Mijas (Málaga)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Alhaurin TV OpM">
-    <title>Alhaurín el Grande (Málaga)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Alhaurin TV OpM">
     <title>Alhaurín el Grande (Málaga)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Coin OpM">
-    <title>Coín (Málaga)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal Coin OpM">
     <title>Coín (Málaga)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TVM Cordoba OpM">
-    <title>Córdoba capital</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="TVM Cordoba OpM">
     <title>Córdoba capital</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Cordoba OpM">
-    <title>Córdoba</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Cordoba OpM">
-    <title>Córdoba</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Cordoba OpM">
     <title>Córdoba</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="PTV Cordoba OpM">
     <title>Córdoba</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Jaen OpM">
-    <title>Jaén</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Jaen OpM">
-    <title>Jaén</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal 45 Jaen OpM">
     <title>Jaén</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal 45 Jaen OpM">
     <title>Jaén</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Diez TV Ubeda OpM">
-    <title>Úbeda (Jaén)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Diez TV Ubeda OpM">
     <title>Úbeda (Jaén)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Diez TV Andujar OpM">
-    <title>Andújar (Jaén)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Diez TV Andujar OpM">
     <title>Andújar (Jaén)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Diez TV Las Villas OpM">
-    <title>Las Villas (Jaén)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Diez TV Las Villas OpM">
     <title>Las Villas (Jaén)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Linares OpM">
-    <title>Linares (Jaén)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Linares OpM">
-    <title>Linares (Jaén)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Linares OpM">
     <title>Linares (Jaén)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="PTV Linares OpM">
     <title>Linares (Jaén)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="9 La Loma OpM">
-    <title>La Loma (Jaén)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="9 La Loma OpM">
     <title>La Loma (Jaén)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Interalmeria OpM">
-    <title>Almería capital</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Interalmeria OpM">
     <title>Almería capital</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Almeria OpM">
-    <title>Almería</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Almeria OpM">
-    <title>Almería</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Almeria OpM">
     <title>Almería</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="PTV Almeria OpM">
     <title>Almería</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Almeria 24h TV OpM">
-    <title>Grandes Éxitos Non-Stop</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Almeria 24h TV OpM">
     <title>Grandes Éxitos Non-Stop</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Almeria TV OpM">
-    <title>Almería capital</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Almeria TV OpM">
     <title>Almería capital</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Cadiz OpM">
-    <title>Cádiz</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Cadiz OpM">
     <title>Cádiz</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Jerez OpM">
-    <title>Jerez de la Frontera (Cádiz)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Jerez OpM">
     <title>Jerez de la Frontera (Cádiz)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Arcos OpM">
-    <title>Arcos de la Frontera (Cádiz)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Arcos OpM">
     <title>Arcos de la Frontera (Cádiz)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Onda Algeciras OpM">
-    <title>Algeciras (Cádiz)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Onda Algeciras OpM">
-    <title>Algeciras (Cádiz)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Algeciras OpM">
     <title>Algeciras (Cádiz)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Algeciras OpM">
     <title>Algeciras (Cádiz)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal San Roque OpM">
-    <title>San Roque (Cádiz)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal San Roque OpM">
     <title>San Roque (Cádiz)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Costa Noroeste OpM">
-    <title>Costa Noroeste de Cádiz</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Canal Costa Noroeste OpM">
     <title>Costa Noroeste de Cádiz</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV San Fernando OpM">
-    <title>San Fernando (Cádiz)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV San Fernando OpM">
-    <title>San Fernando (Cádiz)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="SalTV OpM">
     <title>San Fernando (Cádiz)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="SalTV OpM">
     <title>San Fernando (Cádiz)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Rota OpM">
-    <title>Rota (Cádiz)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Rota OpM">
     <title>Rota (Cádiz)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="8 Sierra de Cadiz OpM">
-    <title>Sierra de Cádiz</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="8 Sierra de Cadiz OpM">
     <title>Sierra de Cádiz</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="8 Chiclana OpM">
-    <title>Chiclana de la Frontera (Cádiz)</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="8 Chiclana OpM">
     <title>Chiclana de la Frontera (Cádiz)</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="8 La Janda OpM">
-    <title>La Janda de Cádiz</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="8 La Janda OpM">
     <title>La Janda de Cádiz</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Tuya La Janda TV OpM">
-    <title>San Fernando</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Tuya La Janda TV OpM">
     <title>San Fernando</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Teleonuba OpM">
-    <title>Huelva</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Teleonuba OpM">
-    <title>Huelva</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="CanalCosta OpM">
     <title>Huelva</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="CanalCosta OpM">
     <title>Huelva</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Condavision OpM">
-    <title>Condado de Huelva</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Condavision OpM">
     <title>Condado de Huelva</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Cartaya TV OpM">
-    <title>Cartaya (Huelva)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Cartaya TV OpM">
     <title>Cartaya (Huelva)</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TG7 Granada OpM">
-    <title>Granada capital</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="TG7 Granada OpM">
     <title>Granada capital</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Granada OpM">
-    <title>Granada</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="7TV Granada OpM">
-    <title>Granada</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Granada OpM">
     <title>Granada</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="PTV Granada OpM">
     <title>Granada</title>
   </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TeleGranada OpM">
-    <title>Granada capital</title>
-  </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="TeleGranada OpM">
     <title>Granada capital</title>
-  </programme>
-  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Telemotril OpM">
-    <title>Motril (Granada)</title>
   </programme>
   <programme start="20260924060000 +0200" stop="20260925060000 +0200" channel="Telemotril OpM">
     <title>Motril (Granada)</title>
