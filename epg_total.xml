@@ -402,127 +402,103 @@
   <programme start="20261109060000 +0100" stop="20261110060000 +0100" channel="Telemotril OpM">
     <title>Motril (Granada)</title>
   </programme>
-  <programme start="20261109083000 +0000" stop="20261109110000 +0000" channel="AMC US">
-    <title lang="en">Rudy</title>
+  <programme start="20261109191500 +0000" stop="20261109221500 +0000" channel="AMC US">
+    <title lang="en">John Wick: Chapter 3 -- Parabellum</title>
   </programme>
-  <programme start="20261109110000 +0000" stop="20261109140000 +0000" channel="AMC US">
-    <title lang="en">Paid Programming</title>
+  <programme start="20261109221500 +0000" stop="20261110020000 +0000" channel="AMC US">
+    <title lang="en">John Wick: Chapter 4</title>
   </programme>
-  <programme start="20261109140000 +0000" stop="20261109161500 +0000" channel="AMC US">
-    <title lang="en">What About Bob?</title>
+  <programme start="20261110020000 +0000" stop="20261110050000 +0000" channel="AMC US">
+    <title lang="en">Knives Out</title>
   </programme>
-  <programme start="20261109161500 +0000" stop="20261109191500 +0000" channel="AMC US">
-    <title lang="en">Captain Phillips</title>
+  <programme start="20261109210000 +0000" stop="20261109230000 +0000" channel="QVC US">
+    <title lang="en">LOGO by Lori Goldstein</title>
   </programme>
-  <programme start="20261109090000 +0000" stop="20261109110000 +0000" channel="QVC US">
-    <title lang="en">Belle by Kim Gravel -- Fashion</title>
+  <programme start="20261109230000 +0000" stop="20261110010000 +0000" channel="QVC US">
+    <title lang="en">PM Style With Amy Stran</title>
   </programme>
-  <programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="QVC US">
+  <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="QVC US">
+    <title lang="en">Luxe Gifts</title>
+  </programme>
+  <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="QVC US">
+    <title lang="en">Get unReady with Shawn</title>
+  </programme>
+  <programme start="20261110030000 +0000" stop="20261110050000 +0000" channel="QVC US">
     <title lang="en">Dazzling Diamond Gifts: Dazzling Diamond Gifts</title>
   </programme>
-  <programme start="20261109120000 +0000" stop="20261109140000 +0000" channel="QVC US">
-    <title lang="en">AM Style With Leah Williams</title>
-  </programme>
-  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="QVC US">
-    <title lang="en">Dazzling Diamond Gifts: Dazzling Diamond Gifts</title>
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="QVC US">
-    <title lang="en">Susan Graver Style</title>
-  </programme>
-  <programme start="20261109103000 +0000" stop="20261109113000 +0000" channel="Tastemade US">
-    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
-  </programme>
-  <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="Tastemade US">
+  <programme start="20261109213000 +0000" stop="20261109220000 +0000" channel="Tastemade US">
     <title lang="en">Pati's Mexican Table</title>
   </programme>
-  <programme start="20261109120000 +0000" stop="20261109123000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109123000 +0000" stop="20261109130000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261109223000 +0000" stop="20261109230000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109130000 +0000" stop="20261109133000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261109230000 +0000" stop="20261109233000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109133000 +0000" stop="20261109140000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261109233000 +0000" stop="20261110000000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109140000 +0000" stop="20261109143000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261110000000 +0000" stop="20261110003000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261110003000 +0000" stop="20261110010000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109150000 +0000" stop="20261109153000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261110010000 +0000" stop="20261110013000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109153000 +0000" stop="20261109160000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261110013000 +0000" stop="20261110020000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109160000 +0000" stop="20261109163000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261110020000 +0000" stop="20261110023000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="Tastemade US">
-    <title lang="en">Pati's Mexican Table</title>
+  <programme start="20261110023000 +0000" stop="20261110030000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109100000 +0000" stop="20261109110000 +0000" channel="TNT US">
-    <title lang="en">Charmed</title>
+  <programme start="20261110030000 +0000" stop="20261110033000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="TNT US">
-    <title lang="en">Charmed</title>
+  <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver's One-Pan Wonders</title>
   </programme>
-  <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="TNT US">
-    <title lang="en">Charmed</title>
+  <programme start="20261109200000 +0000" stop="20261109224500 +0000" channel="TNT US">
+    <title lang="en">The Suicide Squad</title>
   </programme>
-  <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="TNT US">
-    <title lang="en">Charmed</title>
+  <programme start="20261109224500 +0000" stop="20261110013000 +0000" channel="TNT US">
+    <title lang="en">Black Adam</title>
   </programme>
-  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="TNT US">
-    <title lang="en">Charmed</title>
+  <programme start="20261110013000 +0000" stop="20261110033000 +0000" channel="TNT US">
+    <title lang="en">Central Intelligence</title>
   </programme>
-  <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="TNT US">
-    <title lang="en">Cold Case</title>
+  <programme start="20261110033000 +0000" stop="20261110060000 +0000" channel="TNT US">
+    <title lang="en">Coming 2 America</title>
   </programme>
-  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="TNT US">
-    <title lang="en">Cold Case</title>
+  <programme channel="Telemundo East US EPGpw" start="20261109210000 +0200" stop="20261109220000 +0200">
+    <title lang="zh">La mesa caliente</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261109100000 +0200" stop="20261109110000 +0200">
-    <title lang="zh">Pica y se extiende</title>
-  </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261109110000 +0200" stop="20261109113000 +0200">
-    <title lang="zh">Caso cerrado</title>
-  </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261109113000 +0200" stop="20261109120000 +0200">
-    <title lang="zh">Programa pagado</title>
-  </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261109120000 +0200" stop="20261109130000 +0200">
+  <programme channel="Telemundo East US EPGpw" start="20261109220000 +0200" stop="20261109230000 +0200">
     <title lang="zh">Al rojo vivo</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261109130000 +0200" stop="20261109140000 +0200">
-    <title lang="zh">Noticias Telemundo AHORA</title>
+  <programme channel="Telemundo East US EPGpw" start="20261109230000 +0200" stop="20261110000000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261109140000 +0200" stop="20261109173000 +0200">
-    <title lang="zh">Hoy día</title>
+  <programme channel="Telemundo East US EPGpw" start="20261110000000 +0200" stop="20261111000000 +0200">
+    <title lang="zh">Noticias Telemundo mediodía</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109103000 +0200" stop="20261109120000 +0200">
-    <title lang="zh">The One</title>
+  <programme channel="Telemundo West US EPGpw" start="20261109213000 +0200" stop="20261109220000 +0200">
+    <title lang="zh">Noticias Telemundo mediodía</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109120000 +0200" stop="20261109130000 +0200">
-    <title lang="zh">Acércate a Rocío</title>
+  <programme channel="Telemundo West US EPGpw" start="20261109220000 +0200" stop="20261109230000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109130000 +0200" stop="20261109140000 +0200">
-    <title lang="zh">Pica y se extiende</title>
+  <programme channel="Telemundo West US EPGpw" start="20261109230000 +0200" stop="20261110000000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109140000 +0200" stop="20261109143000 +0200">
-    <title lang="zh">Caso cerrado</title>
-  </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109143000 +0200" stop="20261109150000 +0200">
-    <title lang="zh">Programa pagado</title>
-  </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109150000 +0200" stop="20261109160000 +0200">
-    <title lang="zh">Al rojo vivo</title>
-  </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261109160000 +0200" stop="20261109170000 +0200">
-    <title lang="zh">Noticias Telemundo AHORA</title>
+  <programme channel="Telemundo West US EPGpw" start="20261110000000 +0200" stop="20261111000000 +0200">
+    <title lang="zh">La mesa caliente</title>
   </programme>
 </tv>
