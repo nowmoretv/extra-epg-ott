@@ -1,2 +1,144 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator_info_name="EPG Aggregator - epg_exterior" />
+<tv generator_info_name="EPG Aggregator - epg_exterior">
+  <channel id="AMC US">
+    <display-name>AMC US</display-name>
+  </channel>
+  <channel id="QVC US">
+    <display-name>QVC US</display-name>
+  </channel>
+  <channel id="Tastemade US">
+    <display-name>Tastemade US</display-name>
+  </channel>
+  <channel id="TNT US">
+    <display-name>TNT US</display-name>
+  </channel>
+  <channel id="Telemundo East US EPGpw">
+    <display-name>Telemundo East US EPGpw</display-name>
+  </channel>
+  <channel id="Telemundo West US EPGpw">
+    <display-name>Telemundo West US EPGpw</display-name>
+  </channel>
+  <programme start="20261109083000 +0000" stop="20261109110000 +0000" channel="AMC US">
+    <title lang="en">Rudy</title>
+  </programme>
+  <programme start="20261109110000 +0000" stop="20261109140000 +0000" channel="AMC US">
+    <title lang="en">Paid Programming</title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109161500 +0000" channel="AMC US">
+    <title lang="en">What About Bob?</title>
+  </programme>
+  <programme start="20261109161500 +0000" stop="20261109191500 +0000" channel="AMC US">
+    <title lang="en">Captain Phillips</title>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109110000 +0000" channel="QVC US">
+    <title lang="en">Belle by Kim Gravel -- Fashion</title>
+  </programme>
+  <programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="QVC US">
+    <title lang="en">Dazzling Diamond Gifts: Dazzling Diamond Gifts</title>
+  </programme>
+  <programme start="20261109120000 +0000" stop="20261109140000 +0000" channel="QVC US">
+    <title lang="en">AM Style With Leah Williams</title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="QVC US">
+    <title lang="en">Dazzling Diamond Gifts: Dazzling Diamond Gifts</title>
+  </programme>
+  <programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="QVC US">
+    <title lang="en">Susan Graver Style</title>
+  </programme>
+  <programme start="20261109103000 +0000" stop="20261109113000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109120000 +0000" stop="20261109123000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109123000 +0000" stop="20261109130000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109130000 +0000" stop="20261109133000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109133000 +0000" stop="20261109140000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109143000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109150000 +0000" stop="20261109153000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109153000 +0000" stop="20261109160000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109160000 +0000" stop="20261109163000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="Tastemade US">
+    <title lang="en">Pati's Mexican Table</title>
+  </programme>
+  <programme start="20261109100000 +0000" stop="20261109110000 +0000" channel="TNT US">
+    <title lang="en">Charmed</title>
+  </programme>
+  <programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="TNT US">
+    <title lang="en">Charmed</title>
+  </programme>
+  <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="TNT US">
+    <title lang="en">Charmed</title>
+  </programme>
+  <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="TNT US">
+    <title lang="en">Charmed</title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="TNT US">
+    <title lang="en">Charmed</title>
+  </programme>
+  <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="TNT US">
+    <title lang="en">Cold Case</title>
+  </programme>
+  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="TNT US">
+    <title lang="en">Cold Case</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261109100000 +0200" stop="20261109110000 +0200">
+    <title lang="zh">Pica y se extiende</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261109110000 +0200" stop="20261109113000 +0200">
+    <title lang="zh">Caso cerrado</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261109113000 +0200" stop="20261109120000 +0200">
+    <title lang="zh">Programa pagado</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261109120000 +0200" stop="20261109130000 +0200">
+    <title lang="zh">Al rojo vivo</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261109130000 +0200" stop="20261109140000 +0200">
+    <title lang="zh">Noticias Telemundo AHORA</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261109140000 +0200" stop="20261109173000 +0200">
+    <title lang="zh">Hoy día</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109103000 +0200" stop="20261109120000 +0200">
+    <title lang="zh">The One</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109120000 +0200" stop="20261109130000 +0200">
+    <title lang="zh">Acércate a Rocío</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109130000 +0200" stop="20261109140000 +0200">
+    <title lang="zh">Pica y se extiende</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109140000 +0200" stop="20261109143000 +0200">
+    <title lang="zh">Caso cerrado</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109143000 +0200" stop="20261109150000 +0200">
+    <title lang="zh">Programa pagado</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109150000 +0200" stop="20261109160000 +0200">
+    <title lang="zh">Al rojo vivo</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261109160000 +0200" stop="20261109170000 +0200">
+    <title lang="zh">Noticias Telemundo AHORA</title>
+  </programme>
+</tv>
