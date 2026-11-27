@@ -87,772 +87,820 @@
   <channel id="Telemundo West US EPGpw">
     <display-name>Telemundo West US EPGpw</display-name>
   </channel>
-  <programme start="20261126210000 +0000" stop="20261126230000 +0000" channel="TVE Internacional America">
-    <title>Debate A 4</title>
+  <programme start="20261127065000 +0000" stop="20261127093500 +0000" channel="TVE Internacional America">
+    <title>La hora de la 1</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="TVE Internacional America">
-    <title>La gran decisión</title>
+  <programme start="20261127093500 +0000" stop="20261127132000 +0000" channel="TVE Internacional America">
+    <title>Mañaneros 360</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="TVE Internacional America">
-    <title>TD Internacional</title>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127030000 +0000" channel="TVE Internacional America">
-    <title>La revuelta</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127042500 +0000" channel="TVE Internacional America">
-    <title>Cosmética del enemigo</title>
-  </programme>
-  <programme start="20261126180000 +0000" stop="20261126220000 +0000" channel="CBC News Network CA">
-    <title>CBC Newsroom with Andrew Nichols - Live from Toronto</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261127000000 +0000" channel="CBC News Network CA">
-    <title>Power and Politics With David Cochrane</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127020000 +0000" channel="CBC News Network CA">
-    <title>Hanomansing Live</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="CBC News Network CA">
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="CBC News Network CA">
     <title>The National</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="CBC News Network CA">
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="CBC News Network CA">
     <title>The National</title>
   </programme>
-  <programme start="20261126150000 +0000" stop="20261126220000 +0000" channel="CityNews Toronto">
-    <title>CityNews 24/7</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="CBC News Network CA">
+    <title>The National</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="CityNews Toronto">
-    <title>CityNews at Five</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="CBC News Network CA">
+    <title>The National</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="CityNews Toronto">
-    <title>CityNews at Six</title>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="CBC News Network CA">
+    <title>The National</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127040000 +0000" channel="CityNews Toronto">
-    <title>CityNews 24/7</title>
+  <programme start="20261127110000 +0000" stop="20261127150000 +0000" channel="CBC News Network CA">
+    <title>CBC Morning Live With David Common</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="Global News CA">
-    <title>BC 1 News</title>
+  <programme start="20261127050000 +0000" stop="20261127110000 +0000" channel="CityNews Toronto">
+    <title>CityNews 24/7 Overnight</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="Global News CA">
-    <title>BC 1 News</title>
+  <programme start="20261127110000 +0000" stop="20261127130000 +0000" channel="CityNews Toronto">
+    <title>Breakfast Television</title>
   </programme>
-  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="Global News CA">
-    <title>Global National</title>
+  <programme start="20261127060000 +0000" stop="20261127070500 +0000" channel="Global News CA">
+    <title>Global News at 11</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Global News CA">
-    <title>BC 1 News</title>
+  <programme start="20261127070500 +0000" stop="20261127080000 +0000" channel="Global News CA">
+    <title>Global News at 11</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="Global News CA">
-    <title>Global News at 5</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="Global News CA">
+    <title>Global News at 11</title>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127005900 +0000" channel="Global News CA">
-    <title>Global National</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="Global News CA">
+    <title>Global News at 11</title>
   </programme>
-  <programme start="20261127005900 +0000" stop="20261127020000 +0000" channel="Global News CA">
-    <title>Global News Hour</title>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="Global News CA">
+    <title>Global News at 11</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Global News CA">
-    <title>Global News Hour</title>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="Global News CA">
+    <title>Global News at 11</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="Global News CA">
-    <title>BC1 News Evening</title>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Global News CA">
+    <title>Global News Morning</title>
   </programme>
-  <programme start="20261126205900 +0000" stop="20261126215700 +0000" channel="Ici RDI">
-    <title>Sur le terrain</title>
-  </programme>
-  <programme start="20261126215700 +0000" stop="20261126225500 +0000" channel="Ici RDI">
-    <title>En direct avec Patrice Roy</title>
-  </programme>
-  <programme start="20261126225500 +0000" stop="20261127000000 +0000" channel="Ici RDI">
-    <title>Zone économie</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="Ici RDI">
-    <title>24/60</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="Ici RDI">
+  <programme start="20261127063000 +0000" stop="20261127073000 +0000" channel="Ici RDI">
     <title>Les grands reportages</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Ici RDI">
+  <programme start="20261127073000 +0000" stop="20261127083000 +0000" channel="Ici RDI">
     <title>Le téléjournal avec Azeb Wolde-Giorghis</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="Ici RDI">
-    <title>Le téléjournal avec Azeb Wolde-Giorghis</title>
+  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="Ici RDI">
+    <title>Le national</title>
   </programme>
-  <programme start="20261126191500 +0000" stop="20261126211500 +0000" channel="AMC US">
-    <title>The Great Outdoors</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="Ici RDI">
+    <title>Zone économie</title>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="AMC US">
-    <title lang="en">National Lampoon's European Vacation</title>
+  <programme start="20261127100000 +0000" stop="20261127103400 +0000" channel="Ici RDI">
+    <title>Le 64'</title>
   </programme>
-  <programme start="20261126211500 +0000" stop="20261126231500 +0000" channel="AMC US">
-    <title>Vegas Vacation</title>
+  <programme start="20261127103400 +0000" stop="20261127110000 +0000" channel="Ici RDI">
+    <title>À la une</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127000000 +0000" channel="AMC US">
-    <title lang="en">National Lampoon's Vacation</title>
+  <programme start="20261127110000 +0000" stop="20261127140000 +0000" channel="Ici RDI">
+    <title>D'abord l'info</title>
   </programme>
-  <programme start="20261126231500 +0000" stop="20261127011500 +0000" channel="AMC US">
-    <title>Scrooged</title>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="AMC US">
+    <title>Paid Programming</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127021500 +0000" channel="AMC US">
+  <programme start="20261127061500 +0000" stop="20261127081500 +0000" channel="AMC US">
+    <title lang="en">Scrooged</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127100000 +0000" channel="AMC US">
+    <title>Captain Phillips</title>
+  </programme>
+  <programme start="20261127081500 +0000" stop="20261127103000 +0000" channel="AMC US">
     <title lang="en">Uncle Buck</title>
   </programme>
-  <programme start="20261127011500 +0000" stop="20261127033000 +0000" channel="AMC US">
-    <title>Uncle Buck</title>
+  <programme start="20261127100000 +0000" stop="20261127140000 +0000" channel="AMC US">
+    <title>The Green Mile</title>
   </programme>
-  <programme start="20261127021500 +0000" stop="20261127041500 +0000" channel="AMC US">
-    <title lang="en">The Great Outdoors</title>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="AMC US">
+    <title lang="en">The Three Stooges</title>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="QVC US">
-    <title>The Real Black Friday Starts Now</title>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="AMC US">
+    <title lang="en">Looking for a Medicare plan? Tune in now!</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126230000 +0000" channel="QVC US">
-    <title lang="en">Rick St. Nick's Gifts</title>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="AMC US">
+    <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="QVC US">
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="AMC US">
+    <title lang="en">Bathroom Makeover</title>
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="AMC US">
+    <title lang="en">Looking for a Medicare plan? Tune in now!</title>
+  </programme>
+  <programme start="20261127050000 +0000" stop="20261127070000 +0000" channel="QVC US">
+    <title>Fri-YAY! Fashion Deals With Leah Williams</title>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127080000 +0000" channel="QVC US">
+    <title lang="en">Black Friday Sale</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127100000 +0000" channel="QVC US">
     <title>Black Friday Sale</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="QVC US">
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="QVC US">
+    <title lang="en">Black Friday Sale</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127110000 +0000" channel="QVC US">
+    <title lang="en">Gifts for the Fashionista</title>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127120000 +0000" channel="QVC US">
     <title>Black Friday Sale</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="QVC US">
-    <title lang="en">Diamonique Jewelry Gifts</title>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="QVC US">
+    <title lang="en">Black Friday Sale</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127030000 +0000" channel="QVC US">
-    <title lang="en">The Real Black Friday Starts Now</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="QVC US">
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="QVC US">
     <title>Black Friday Sale</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127040000 +0000" channel="QVC US">
-    <title>Gifts for the Fashionista</title>
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="QVC US">
+    <title lang="en">Fri-YAY! Fashion Deals With Leah Williams</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127050000 +0000" channel="QVC US">
-    <title lang="en">The Real Black Friday Starts Now</title>
-  </programme>
-  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="QVC 2 US">
-    <title>Susan Graver Style Clearance</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261127060000 +0000" channel="QVC 2 US">
+  <programme start="20261127060000 +0000" stop="20261127090000 +0000" channel="QVC 2 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261126190000 +0000" stop="20261126220000 +0000" channel="QVC 3 US">
-    <title>Holiday Fun with Rick And Jane</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="QVC 2 US">
+    <title>Black Friday Jewelry Drops</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="QVC 3 US">
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="QVC 2 US">
+    <title>Diamonique Italia Collection -- Jewelry</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="QVC 2 US">
+    <title>Silver Style Jewelry</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="QVC 2 US">
+    <title>American West Jewelry</title>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="QVC 3 US">
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="QVC 3 US">
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="QVC 3 US">
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="QVC 3 US">
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="QVC 3 US">
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="TNT US">
-    <title>A Christmas Story</title>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="QVC 3 US">
+    <title>Shopping</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126230000 +0000" channel="TNT US">
-    <title lang="en">National Lampoon's Christmas Vacation</title>
+  <programme start="20261127050000 +0000" stop="20261127070000 +0000" channel="TNT US">
+    <title lang="en">Willy Wonka and the Chocolate Factory</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127000000 +0000" channel="TNT US">
-    <title>Willy Wonka and the Chocolate Factory</title>
+  <programme start="20261127061500 +0000" stop="20261127083000 +0000" channel="TNT US">
+    <title>The Wizard of Oz</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="TNT US">
-    <title lang="en">Elf</title>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="TNT US">
+    <title lang="en">FBI</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="TNT US">
+    <title lang="en">FBI</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261127083000 +0000" stop="20261127103000 +0000" channel="TNT US">
+    <title>Elf</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127030000 +0000" channel="TNT US">
-    <title lang="en">All Elite Wrestling: Collision</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="TNT US">
+    <title lang="en">FBI</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="TNT US">
+    <title lang="en">FBI</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261127103000 +0000" stop="20261127123000 +0000" channel="TNT US">
+    <title>National Lampoon's Christmas Vacation</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127050000 +0000" channel="TNT US">
-    <title lang="en">A Christmas Story</title>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="TNT US">
+    <title lang="en">Foul Play With Anthony Davis</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="ABC LA US">
-    <title>Tamron Hall - Jalen Brunson and Family</title>
+  <programme start="20261127113000 +0000" stop="20261127131500 +0000" channel="TNT US">
+    <title lang="en">Four Christmases</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="ABC LA US">
-    <title>General Hospital</title>
+  <programme start="20261127123000 +0000" stop="20261127150000 +0000" channel="TNT US">
+    <title>Miracle on 34th Street</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="ABC LA US">
-    <title>Eyewitness News 3PM</title>
-  </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="ABC LA US">
-    <title>ABC World News Tonight With David Muir</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="ABC LA US">
-    <title>Eyewitness News 4PM</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="ABC LA US">
-    <title>Eyewitness News 5PM</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="ABC LA US">
-    <title>Eyewitness News 6PM</title>
-  </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="ABC LA US">
-    <title>ABC World News Tonight With David Muir</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="ABC LA US">
-    <title>Jeopardy!</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="ABC6 US">
-    <title>Jeopardy!</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="ABC6 US">
-    <title>Wheel of Fortune - Gathered in Gratitude</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261127010000 +0000" channel="ABC6 US">
+  <programme start="20261127040000 +0000" stop="20261127070000 +0000" channel="ABC LA US">
     <title>Mary Poppins</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013500 +0000" channel="ABC6 US">
-    <title>Action News 11 PM</title>
+  <programme start="20261127070000 +0000" stop="20261127073500 +0000" channel="ABC LA US">
+    <title>Eyewitness News 11PM</title>
   </programme>
-  <programme start="20261127013500 +0000" stop="20261127023700 +0000" channel="ABC6 US">
+  <programme start="20261127073500 +0000" stop="20261127083700 +0000" channel="ABC LA US">
     <title>Jimmy Kimmel Live! - Bill Murray; Andy Richter; Sy Smith</title>
   </programme>
-  <programme start="20261127023700 +0000" stop="20261127030600 +0000" channel="ABC6 US">
+  <programme start="20261127083700 +0000" stop="20261127090600 +0000" channel="ABC LA US">
     <title>Nightline</title>
   </programme>
-  <programme start="20261127030600 +0000" stop="20261127033600 +0000" channel="ABC6 US">
+  <programme start="20261127090600 +0000" stop="20261127093600 +0000" channel="ABC LA US">
     <title>ABC World News Tonight With David Muir</title>
   </programme>
-  <programme start="20261126180000 +0000" stop="20261126220000 +0000" channel="AccuWeather US">
-    <title>AccuWeather Ahead</title>
+  <programme start="20261127093600 +0000" stop="20261127103600 +0000" channel="ABC LA US">
+    <title>Live with Kelly and Mark</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127020000 +0000" channel="AccuWeather US">
-    <title>Ask the Experts</title>
+  <programme start="20261127103600 +0000" stop="20261127113000 +0000" channel="ABC LA US">
+    <title>Tamron Hall - Jalen Brunson and Family</title>
+  </programme>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="ABC LA US">
+    <title>Good Morning America First Look</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="ABC LA US">
+    <title>Eyewitness News 4AM</title>
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="ABC LA US">
+    <title>Eyewitness News 4:30AM</title>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="ABC6 US">
+    <title>Action News 4:30 AM</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="ABC6 US">
+    <title>Action News 5:00 AM</title>
+  </programme>
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="ABC6 US">
+    <title>Action News 5:30 AM</title>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="ABC6 US">
+    <title>Action News 6:00 AM</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127110000 +0000" channel="ABC6 US">
+    <title>Good Morning America</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="ABC6 US">
+    <title>Live with Kelly and Mark</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="ABC6 US">
+    <title>Action News 10AM</title>
   </programme>
   <programme start="20261127020000 +0000" stop="20261127080000 +0000" channel="AccuWeather US">
     <title>AccuWeather All Night</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="AWE US">
-    <title>Behind the Gates - Californian Dream</title>
+  <programme start="20261127080000 +0000" stop="20261127140000 +0000" channel="AccuWeather US">
+    <title>AccuWeather Early</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="AWE US">
-    <title>Behind the Gates International - Cabo</title>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="AWE US">
+    <title>Road Less Traveled - Philippines</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="AWE US">
-    <title>Dream Cruises - Opera</title>
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="AWE US">
+    <title>Selling Yachts - The Fisherman</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="AWE US">
-    <title>Selling Mega Mansions - California Dreaming</title>
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="AWE US">
+    <title>Vicarious Escapes - Central California Coast</title>
   </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="AWE US">
-    <title>Top Million Dollar Agent - Fabulous Resort</title>
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="AWE US">
+    <title>Facing Waves - Sea Kayaking Killarney Provincial Park</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="AWE US">
-    <title>Find Me a Luxury Home - To Bentwood and Back</title>
+  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="AWE US">
+    <title>Life on the Road - A Long Day on the Road</title>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="AWE US">
-    <title>Top Million Dollar Agent - Clever Income: Part 2</title>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="AWE US">
+    <title>Road Less Traveled - Philippines Part II</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="AWE US">
-    <title>Dream Cruises - Pullmantur Zenith 2</title>
+  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="AWE US">
+    <title>A Taste of Travel - Singapore</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="AWE US">
-    <title>Blue World - Zach Gets Certified + Filming Goliaths</title>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="AWE US">
+    <title>Most Amazing Homes - Dana Point Luxury</title>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="AWE US">
-    <title>Boys Toys - Dubai</title>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="AWE US">
+    <title>Boys Toys - High Performance Toys</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="AWE US">
-    <title>A Taste of Travel - Japan</title>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="AWE US">
+    <title>Blue World - Canal Boats of Lake Champlain + Seahorses and Pipefish</title>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126213000 +0000" channel="Bloomberg US">
-    <title>Bloomberg The Asia Trade</title>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="AWE US">
+    <title>Find Me a Vacation Home - City to Ocean</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="Bloomberg US">
-    <title>Bloomberg Tech: Asia</title>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="AWE US">
+    <title>Jet Set - Barbados And the Ice Hotel</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127000000 +0000" channel="Bloomberg US">
-    <title>Bloomberg: The China Show</title>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="Bloomberg US">
+    <title>The Pulse with Francine Lacqua</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="Bloomberg US">
-    <title>The Circuit - Netflix (Part 1)</title>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="Bloomberg US">
+    <title>Bloomberg Brief</title>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="Bloomberg US">
-    <title>The Circuit - Waymo</title>
+  <programme start="20261127080000 +0000" stop="20261127110000 +0000" channel="Bloomberg US">
+    <title>Bloomberg Surveillance</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="Bloomberg US">
-    <title>Insight With Haslinda Amin</title>
+  <programme start="20261127110000 +0000" stop="20261127160000 +0000" channel="Bloomberg US">
+    <title>Bloomberg Markets</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Bloomberg US">
-    <title>Bloomberg Horizons Middle East And Africa</title>
+  <programme start="20261127060100 +0000" stop="20261127070000 +0000" channel="CBS LA US">
+    <title>Elsbeth - A Hard Nut to Crack</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="Bloomberg US">
-    <title>Bloomberg Daybreak: Europe</title>
+  <programme start="20261127070000 +0000" stop="20261127073500 +0000" channel="CBS LA US">
+    <title>CBS LA at 11pm</title>
   </programme>
-  <programme start="20261126180000 +0000" stop="20261126213000 +0000" channel="CBS LA US">
-    <title>NFL Football - Chicago Bears at Detroit Lions</title>
+  <programme start="20261127073500 +0000" stop="20261127080500 +0000" channel="CBS LA US">
+    <title>Comics Unleashed With Byron Allen - Keysha E; Nick Guerra; Zahid Dewji; Joey Callahan</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126233000 +0000" channel="CBS LA US">
-    <title>College Basketball - Arkansas vs. Michigan State</title>
+  <programme start="20261127080500 +0000" stop="20261127083500 +0000" channel="CBS LA US">
+    <title>Comics Unleashed With Byron Allen - Dulcé Sloan; John Hastings; Butch Bradley; Greg Warren</title>
   </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="CBS LA US">
-    <title>CBS LA: We Are Yours</title>
+  <programme start="20261127083500 +0000" stop="20261127090500 +0000" channel="CBS LA US">
+    <title>Funny You Should Ask - Jamie Kennedy; Loni Love; Adam Carolla; Byron Allen; Michelle Collins; Gary Owen</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="CBS LA US">
-    <title>Sports Central Presents: Never Give Up</title>
+  <programme start="20261127090500 +0000" stop="20261127093500 +0000" channel="CBS LA US">
+    <title>Funny You Should Ask</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="CBS LA US">
-    <title>Conversations With Pat Harvey</title>
+  <programme start="20261127093500 +0000" stop="20261127100500 +0000" channel="CBS LA US">
+    <title>Funny You Should Ask - Jamie Kennedy; Sheryl Underwood; Billy Gardell; Byron Allen; Caroline Rhea; Jimmie Walker</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="CBS LA US">
-    <title>CBS LA at 6pm</title>
+  <programme start="20261127100500 +0000" stop="20261127103500 +0000" channel="CBS LA US">
+    <title>Bathroom Makeover</title>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="CBS LA US">
+  <programme start="20261127103500 +0000" stop="20261127110500 +0000" channel="CBS LA US">
     <title>CBS Evening News</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="CBS LA US">
-    <title>Inside Edition</title>
+  <programme start="20261127110500 +0000" stop="20261127120000 +0000" channel="CBS LA US">
+    <title>CBS News Roundup</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="CW LV US">
-    <title>The Steve Wilkos Show - I Was Addicted to My Abuser</title>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="CBS LA US">
+    <title>CBS News Mornings</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="CW LV US">
-    <title>Maury - I Need a Family for the Holidays: Give Me the DNA Results!</title>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="CBS LA US">
+    <title>CBS News Mornings</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="CW LV US">
-    <title>Karamo - DNA: 2 Daughters, Same Father?</title>
+  <programme start="20261127063500 +0000" stop="20261127070500 +0000" channel="CW LV US">
+    <title>Seinfeld - The Alternate Side</title>
   </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="CW LV US">
-    <title>Karamo - DNA: Dad Denied You on His Deathbed</title>
+  <programme start="20261127070500 +0000" stop="20261127073500 +0000" channel="CW LV US">
+    <title>Seinfeld - The Switch</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="CW LV US">
-    <title>The Jennifer Hudson Show</title>
+  <programme start="20261127073500 +0000" stop="20261127080500 +0000" channel="CW LV US">
+    <title>Last Man Standing - Thanksgiving</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="CW LV US">
-    <title>America's Funniest Home Videos</title>
+  <programme start="20261127080500 +0000" stop="20261127083500 +0000" channel="CW LV US">
+    <title>Last Man Standing - Attractive Architect</title>
   </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="CW LV US">
-    <title>America's Funniest Home Videos</title>
+  <programme start="20261127083500 +0000" stop="20261127090500 +0000" channel="CW LV US">
+    <title>The Neighborhood - Welcome to the New Normals</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="CW LV US">
-    <title>Two and a Half Men - Merry Thanksgiving</title>
+  <programme start="20261127090500 +0000" stop="20261127093500 +0000" channel="CW LV US">
+    <title>Bob Hearts Abishola - A Little Slap and Tickle</title>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="CW LV US">
-    <title>Two and a Half Men - She'll Still Be Dead at Halftime</title>
+  <programme start="20261127093500 +0000" stop="20261127100500 +0000" channel="CW LV US">
+    <title>Modern Family - The Last Thanksgiving</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="CW LV US">
-    <title>The Big Bang Theory - The Thanksgiving Decoupling</title>
+  <programme start="20261127100500 +0000" stop="20261127103500 +0000" channel="CW LV US">
+    <title>Paid Programming</title>
   </programme>
-  <programme start="20261126183000 +0000" stop="20261126213000 +0000" channel="FOX NY US">
-    <title>NFL Football - Philadelphia Eagles at Dallas Cowboys</title>
+  <programme start="20261127103500 +0000" stop="20261127110500 +0000" channel="CW LV US">
+    <title>Paid Programming</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="FOX NY US">
-    <title>NFL on FOX Postgame</title>
+  <programme start="20261127110500 +0000" stop="20261127120000 +0000" channel="CW LV US">
+    <title>The National News Desk</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230200 +0000" channel="FOX NY US">
-    <title>The Floor - The Second Coming</title>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="CW LV US">
+    <title>The National News Desk</title>
   </programme>
-  <programme start="20261126230200 +0000" stop="20261127000000 +0000" channel="FOX NY US">
-    <title>Next Level Baker - Jam Packed With Joy</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="FOX NY US">
-    <title>The 10 O'Clock News</title>
-  </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="FOX NY US">
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="FOX NY US">
     <title>FOX5 Special: Best of Newsroom Live</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="FOX NY US">
-    <title>Good Night New York</title>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="FOX NY US">
+    <title>Good Day Wake Up</title>
   </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="FOX NY US">
-    <title>Front Office Sports Tonight</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="FOX NY US">
+    <title>Good Day Wake Up 2</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="FOX NY US">
-    <title>Extra</title>
+  <programme start="20261127090000 +0000" stop="20261127110000 +0000" channel="FOX NY US">
+    <title>Good Day New York</title>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="FOX NY US">
-    <title>TMZ</title>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="FOX NY US">
+    <title>FOX5 Special: FOX5 Faves Pt. 1</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="FOX NY US">
-    <title>25 Words or Less - This Word Had Everyone Blushing</title>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="FOX NY US">
+    <title>FOX5 Special: FOX5 Faves Pt. 2</title>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="NBC LA US">
-    <title>The National Dog Show</title>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="FOX NY US">
+    <title>Newsroom Live</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127010000 +0000" channel="NBC LA US">
-    <title>100th Macy's Thanksgiving Day Parade</title>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="FOX NY US">
+    <title>FOX5 Special: Holiday Flashback</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127011500 +0000" channel="NBC LA US">
-    <title>Football Night in America</title>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="NBC LA US">
+    <title>Dateline NBC - The Knock at the Door</title>
   </programme>
-  <programme start="20261127011500 +0000" stop="20261127043000 +0000" channel="NBC LA US">
-    <title>NFL Football - Kansas City Chiefs at Buffalo Bills</title>
+  <programme start="20261127070000 +0000" stop="20261127073400 +0000" channel="NBC LA US">
+    <title>NBC4 News at 11pm</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="NBC NY US">
-    <title>News 4 NY at 7</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="NBC NY US">
-    <title>New York Live Tonight</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126221500 +0000" channel="NBC NY US">
-    <title>Football Night in America</title>
-  </programme>
-  <programme start="20261126221500 +0000" stop="20261127013000 +0000" channel="NBC NY US">
-    <title>NFL Football - Kansas City Chiefs at Buffalo Bills</title>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127020500 +0000" channel="NBC NY US">
-    <title>News 4 NY at 11</title>
-  </programme>
-  <programme start="20261127020500 +0000" stop="20261127030600 +0000" channel="NBC NY US">
+  <programme start="20261127073400 +0000" stop="20261127083500 +0000" channel="NBC LA US">
     <title>The Tonight Show Starring Jimmy Fallon - Justin Timberlake</title>
   </programme>
-  <programme start="20261127030600 +0000" stop="20261127040500 +0000" channel="NBC NY US">
+  <programme start="20261127083500 +0000" stop="20261127093400 +0000" channel="NBC LA US">
     <title>Late Night With Seth Meyers - The Meyers Family; Tina Fey; Amy Poehler</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="Newsmax US">
-    <title>Rob Schmitt Tonight</title>
+  <programme start="20261127093400 +0000" stop="20261127100900 +0000" channel="NBC LA US">
+    <title>NBC4 News at 11pm</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Newsmax US">
-    <title>Finnerty</title>
+  <programme start="20261127100900 +0000" stop="20261127103900 +0000" channel="NBC LA US">
+    <title>NBC Nightly News With Tom Llamas</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Newsmax US">
-    <title>Greg Kelly Reports</title>
+  <programme start="20261127103900 +0000" stop="20261127113000 +0000" channel="NBC LA US">
+    <title>Nightly News -- Great Americans</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="Newsmax US">
-    <title>The Right Squad</title>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="NBC LA US">
+    <title>Early Today</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="Newsmax US">
-    <title>Rob Schmitt Tonight</title>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="NBC LA US">
+    <title>Early Today</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Newsmax US">
-    <title>Finnerty</title>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="NBC LA US">
+    <title>Early Today</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="Newsmax US">
-    <title>Carl Higbie's Unfiltered Thanksgiving</title>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="NBC NY US">
+    <title>Today in New York</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="Telemundo 52 LA US">
-    <title>En casa con Telemundo</title>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="NBC NY US">
+    <title>Today in New York</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Telemundo 52 LA US">
-    <title>En casa con Telemundo</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="NBC NY US">
+    <title>Today in New York @ 6AM</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Telemundo 52 LA US">
-    <title>La mesa caliente</title>
+  <programme start="20261127090000 +0000" stop="20261127110000 +0000" channel="NBC NY US">
+    <title>Today</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="Telemundo 52 LA US">
-    <title>Noticiero Telemundo 52 a las 5:00 pm</title>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="NBC NY US">
+    <title>Today 3rd Hour</title>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="Telemundo 52 LA US">
-    <title>Noticias Telemundo</title>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="NBC NY US">
+    <title>Today With Jenna And Sheinelle</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127012000 +0000" channel="Telemundo 52 LA US">
-    <title>Sunday Night Football en Telemundo</title>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="Newsmax US">
+    <title>Ed Henry The Big Take</title>
   </programme>
-  <programme start="20261127012000 +0000" stop="20261127043000 +0000" channel="Telemundo 52 LA US">
-    <title>Fútbol Americano NFL - Kansas City Chiefs vs. Buffalo Bills</title>
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="Newsmax US">
+    <title>Caught on Bodycam - Parking Lot Problems</title>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126220000 +0000" channel="Telemundo Puerto Rico">
-    <title>Abrazo navideño</title>
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="Newsmax US">
+    <title>Caught on Bodycam - Eyes On the Prize</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Telemundo Puerto Rico">
-    <title>Juego de villanos</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="Newsmax US">
+    <title>Wake Up America Early</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127010000 +0000" channel="Telemundo Puerto Rico">
-    <title>Fifty Shades of Grey</title>
+  <programme start="20261127090000 +0000" stop="20261127110000 +0000" channel="Newsmax US">
+    <title>Wake Up America</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127030000 +0000" channel="Telemundo Puerto Rico">
-    <title>Pitch Perfect</title>
+  <programme start="20261127110000 +0000" stop="20261127140000 +0000" channel="Newsmax US">
+    <title>National Report</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127043000 +0000" channel="Telemundo Puerto Rico">
-    <title>The Flintstones</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126212000 +0000" channel="Telemundo 51 Miami US">
-    <title>Sunday Night Football en Telemundo</title>
-  </programme>
-  <programme start="20261126212000 +0000" stop="20261127003000 +0000" channel="Telemundo 51 Miami US">
-    <title>Fútbol Americano NFL - Kansas City Chiefs vs. Buffalo Bills</title>
-  </programme>
-  <programme start="20261127003000 +0000" stop="20261127010500 +0000" channel="Telemundo 51 Miami US">
-    <title>De compras con Más con Masihy</title>
-  </programme>
-  <programme start="20261127010500 +0000" stop="20261127013000 +0000" channel="Telemundo 51 Miami US">
-    <title>Noticias Telemundo en la noche</title>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="Telemundo 51 Miami US">
-    <title>El pelotazo</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Telemundo 51 Miami US">
-    <title>Juego de villanos - Nadie juega limpio</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="Telemundo 51 Miami US">
-    <title>La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="travelxp US">
-    <title>Off the Grid - Tsomoriri, Ladakh, India</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="travelxp US">
-    <title>City Breaks - Udaipur</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="travelxp US">
-    <title>Travel Diaries Of Rohan And Healer - Almora</title>
-  </programme>
-  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="travelxp US">
-    <title>Backpack - Lisbon, Portgual</title>
-  </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="travelxp US">
-    <title>World Spas</title>
-  </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="travelxp US">
-    <title>Xplore Bulgaria - Sunny Beach</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="travelxp US">
-    <title>Off the Grid - Leh, India</title>
-  </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="travelxp US">
-    <title>City Breaks - Narlai And Jawai</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="travelxp US">
-    <title>Travel Diaries Of Rohan And Healer - Landour</title>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="travelxp US">
-    <title>Backpack - Sintra, Portgual</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="travelxp US">
-    <title>World Class Travel -- Canada in Sketches</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="travelxp US">
-    <title>Off the Grid - Nubra Valley, Ladakh, India</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="CNN International">
-    <title>Quest Means Business</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="CNN International">
-    <title>Amanpour</title>
-  </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="CNN International">
-    <title>Global Perspectives</title>
-  </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="CNN International">
-    <title>To Be Announced</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="CNN International">
-    <title>The Trials of Lindsay Clancy</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="CNN International">
-    <title>Zuckerberg: Facebook and the Cost of Connection</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="CNN International">
-    <title>The Whole Story With Anderson Cooper</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="CNN International">
-    <title>The Whole Story With Anderson Cooper</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="Game Show Network East US">
-    <title>Paid Programming</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="Game Show Network East US">
-    <title>Paid Programming</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="Game Show Network East US">
-    <title>Match Game</title>
-  </programme>
-  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="Game Show Network East US">
-    <title>Match Game</title>
-  </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="Game Show Network East US">
-    <title>Chain Reaction</title>
-  </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="Game Show Network East US">
-    <title>Chain Reaction</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="Game Show Network East US">
-    <title>Catch 21</title>
-  </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="Game Show Network East US">
-    <title>Catch 21</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="Game Show Network East US">
-    <title>Cash Cab</title>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="Game Show Network East US">
-    <title>Wheel of Fortune</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="Game Show Network East US">
-    <title>Chain Reaction</title>
-  </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="Game Show Network East US">
-    <title>Chain Reaction</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="Game Show Network East US">
-    <title>Deal or No Deal</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="Telemundo East US">
-    <title>Caso Cerrado</title>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="Telemundo East US">
-    <title>Noticias Telemundo en la Noche</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Telemundo East US">
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="Telemundo 52 LA US">
     <title>Al rojo vivo</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Telemundo East US">
-    <title>Noticias Telemundo Ahora</title>
+  <programme start="20261127070000 +0000" stop="20261127073500 +0000" channel="Telemundo 52 LA US">
+    <title>Noticiero Telemundo 52 a las 11:00 pm</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127033000 +0000" channel="Telemundo East US">
-    <title>Hoy día</title>
+  <programme start="20261127073500 +0000" stop="20261127080000 +0000" channel="Telemundo 52 LA US">
+    <title>Noticias Telemundo en la noche</title>
   </programme>
-  <programme start="20261126203500 +0000" stop="20261127002000 +0000" channel="TVE Internacional America 2">
-    <title>Mañaneros 360</title>
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="Telemundo 52 LA US">
+    <title>El pelotazo</title>
   </programme>
-  <programme start="20261127002000 +0000" stop="20261127005500 +0000" channel="TVE Internacional America 2">
-    <title>Mañaneros 360</title>
+  <programme start="20261127083000 +0000" stop="20261127093000 +0000" channel="Telemundo 52 LA US">
+    <title>Juego de villanos - Nadie juega limpio</title>
   </programme>
-  <programme start="20261127005500 +0000" stop="20261127013000 +0000" channel="TVE Internacional America 2">
-    <title>Telediario 1º edición</title>
-  </programme>
-  <programme start="20261127013000 +0000" stop="20261127035500 +0000" channel="TVE Internacional America 2">
-    <title>Teledeporte 1</title>
-  </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="Universo East US">
-    <title>12 Corazones</title>
-  </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Universo East US">
-    <title>12 Corazones</title>
-  </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Universo East US">
-    <title>Escape perfecto</title>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="Universo East US">
-    <title>Escape perfecto</title>
-  </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="Universo East US">
-    <title>Caso Cerrado</title>
-  </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Universo East US">
-    <title>Caso Cerrado</title>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="Universo East US">
+  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="Telemundo 52 LA US">
     <title>Caso cerrado</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="USA Network East US">
-    <title>Everything on the Menu with Braun Strowman</title>
+  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="Telemundo 52 LA US">
+    <title>¿Herido? Descubra Cuánto Vale Su Caso</title>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="USA Network East US">
-    <title>Everything on the Menu with Braun Strowman</title>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="Telemundo 52 LA US">
+    <title>La Dr. Polo vida sin límites</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="USA Network East US">
-    <title>Chicago Fire</title>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="Telemundo 52 LA US">
+    <title>Programa pagado</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="USA Network East US">
-    <title>Chicago Fire</title>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="Telemundo 52 LA US">
+    <title>Programa pagado</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="USA Network East US">
-    <title>Chicago Fire</title>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="Telemundo 52 LA US">
+    <title>Programa pagado</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="USA Network East US">
-    <title>Chicago Fire</title>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="Telemundo 52 LA US">
+    <title>Programa pagado</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="USA Network East US">
-    <title>Chicago Fire</title>
+  <programme start="20261127060000 +0000" stop="20261127093000 +0000" channel="Telemundo Puerto Rico">
+    <title>Macy's Thanksgiving Day Parade</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="USA Network East US">
-    <title>Chicago Fire</title>
+  <programme start="20261127093000 +0000" stop="20261127110000 +0000" channel="Telemundo Puerto Rico">
+    <title>Bring It On</title>
   </programme>
-  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="Telemundo Puerto Rico">
+    <title>Telenoticias</title>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261127113000 +0000" stop="20261127130000 +0000" channel="Telemundo Puerto Rico">
+    <title>Balls of Fury</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="Telemundo 51 Miami US">
+    <title>Noticiero 51 at 6am</title>
   </programme>
-  <programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="Tastemade US">
-    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="Telemundo 51 Miami US">
+    <title>Noticiero 51 at 6am</title>
   </programme>
-  <programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="Tastemade US">
-    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="Telemundo 51 Miami US">
+    <title>Noticias Telemundo AHORA</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="Tastemade US">
+  <programme start="20261127090000 +0000" stop="20261127123000 +0000" channel="Telemundo 51 Miami US">
+    <title>Hoy día</title>
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="Telemundo 51 Miami US">
+    <title>Acceso total</title>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="travelxp US">
+    <title>World Spas - Evason Ma'In, Jordan</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="travelxp US">
+    <title>The Moroccan Chronicles - Eternal Love in Chefchaouen</title>
+  </programme>
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="travelxp US">
+    <title>Backpack - Porto, Portugal</title>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="travelxp US">
+    <title>10 Days Korea - Jeju Island</title>
+  </programme>
+  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="travelxp US">
+    <title>72 Hours Unplugged - Perth</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127103000 +0000" channel="travelxp US">
+    <title>World Class Travel -- Canada in Sketches</title>
+  </programme>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="travelxp US">
+    <title>DANCE</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="travelxp US">
+    <title>Route 66 - Illinois</title>
+  </programme>
+  <programme start="20261127113000 +0000" stop="20261127114500 +0000" channel="travelxp US">
+    <title>Heritage - Bryggen</title>
+  </programme>
+  <programme start="20261127114500 +0000" stop="20261127120000 +0000" channel="travelxp US">
+    <title>Landmarks - Seychelles</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="travelxp US">
+    <title>Unwind</title>
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="travelxp US">
+    <title>Off the Grid - Zanskar, India</title>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="CNN International">
+    <title>The Story Is With Elex Michaelson</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="CNN International">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="CNN International">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="CNN International">
+    <title>CNN Newsroom</title>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="CNN International">
+    <title>CNN This Morning</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="CNN International">
+    <title>CNN This Morning</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="CNN International">
+    <title>CNN News Central</title>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="Game Show Network East US">
+    <title>Wheel of Fortune</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="Game Show Network East US">
+    <title>Jeopardy!</title>
+  </programme>
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="Game Show Network East US">
+    <title>Jeopardy!</title>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="Game Show Network East US">
+    <title>Master Minds</title>
+  </programme>
+  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="Game Show Network East US">
+    <title>The Perfect Line</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="Game Show Network East US">
+    <title>Flip Side</title>
+  </programme>
+  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="Game Show Network East US">
+    <title>Family Feud</title>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="Game Show Network East US">
+    <title>America Says</title>
+  </programme>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="Game Show Network East US">
+    <title>America Says</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="Game Show Network East US">
+    <title>The Chase</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Game Show Network East US">
+    <title>The Wall</title>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="Telemundo East US">
+    <title>En casa con Telemundo</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="Telemundo East US">
+    <title>La mesa caliente</title>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="Telemundo East US">
+    <title>Al rojo vivo</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="Telemundo East US">
+    <title>En casa con Telemundo</title>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="Telemundo East US">
+    <title>Noticias Telemundo mediodía</title>
+  </programme>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="Telemundo East US">
+    <title>Noticias Telemundo</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127130000 +0000" channel="Telemundo East US">
+    <title>Juego de Villanos</title>
+  </programme>
+  <programme start="20261127065500 +0000" stop="20261127075000 +0000" channel="TVE Internacional America 2">
+    <title>Telediario 2</title>
+  </programme>
+  <programme start="20261127075000 +0000" stop="20261127082500 +0000" channel="TVE Internacional America 2">
+    <title>Teledeporte 1</title>
+  </programme>
+  <programme start="20261127082500 +0000" stop="20261127085500 +0000" channel="TVE Internacional America 2">
+    <title>Cifras y letras</title>
+  </programme>
+  <programme start="20261127085500 +0000" stop="20261127094500 +0000" channel="TVE Internacional America 2">
+    <title>Valle Salvaje</title>
+  </programme>
+  <programme start="20261127094500 +0000" stop="20261127104000 +0000" channel="TVE Internacional America 2">
+    <title>La promesa</title>
+  </programme>
+  <programme start="20261127104000 +0000" stop="20261127113000 +0000" channel="TVE Internacional America 2">
+    <title>Sukha</title>
+  </programme>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="TVE Internacional America 2">
+    <title>Aquí la tierra</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="TVE Internacional America 2">
+    <title>Noticias 24 Horas Telediario Internacional</title>
+  </programme>
+  <programme start="20261127123000 +0000" stop="20261127133500 +0000" channel="TVE Internacional America 2">
+    <title>La suerte en tus manos</title>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127090000 +0000" channel="Universo East US">
+    <title>Fútbol estelar</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="Universo East US">
+    <title>Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="Universo East US">
+    <title>Acércate a Rocío</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="Universo East US">
+    <title>Acércate a Rocío</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Universo East US">
+    <title>Caso cerrado</title>
+  </programme>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="USA Network East US">
+    <title>Premier League Live</title>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127090000 +0000" channel="USA Network East US">
+    <title>English Premier League Soccer</title>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="USA Network East US">
+    <title>Premier League Goal Zone</title>
+  </programme>
+  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="USA Network East US">
+    <title>Forensic Files</title>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="USA Network East US">
+    <title>The Rainmaker</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="USA Network East US">
+    <title>The Rainmaker</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127140000 +0000" channel="USA Network East US">
+    <title>WWE Friday Night SmackDown</title>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="Tastemade US">
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="Tastemade US">
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="Tastemade US">
+  <programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="Tastemade US">
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="Tastemade US">
+  <programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="Tastemade US">
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="Tastemade US">
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="Tastemade US">
+  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="Tastemade US">
+  <programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="Tastemade US">
+  <programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="Tastemade US">
+  <programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="Tastemade US">
+  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="Tastemade US">
     <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="Tastemade US">
+  <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="Tastemade US">
     <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261127000000 +0200" stop="20261127003000 +0200">
-    <title lang="zh">Noticias Telemundo mediodía</title>
+  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261127003000 +0200" stop="20261127010000 +0200">
-    <title lang="zh">Noticias Telemundo</title>
+  <programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261127010000 +0200" stop="20261127020000 +0200">
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="Tastemade US">
+    <title lang="en">Jamie Oliver Cooks Italy</title>
+  </programme>
+  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="Tastemade US">
+    <title>Jamie Oliver Cooks Italy</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261127063000 +0200" stop="20261127070000 +0200">
+    <title lang="zh">El pelotazo</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261127070000 +0200" stop="20261127080000 +0200">
     <title lang="zh">Juego de villanos</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261127020000 +0200" stop="20261127022000 +0200">
-    <title lang="zh">Live: Sunday Night Football en Telemundo</title>
+  <programme channel="Telemundo East US EPGpw" start="20261127080000 +0200" stop="20261127090000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261127022000 +0200" stop="20261127053000 +0200">
-    <title lang="zh">Live: Fútbol Americano NFL</title>
+  <programme channel="Telemundo East US EPGpw" start="20261127090000 +0200" stop="20261127100000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261127000000 +0200" stop="20261127010000 +0200">
+  <programme channel="Telemundo East US EPGpw" start="20261127100000 +0200" stop="20261127110000 +0200">
     <title lang="zh">La mesa caliente</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261127010000 +0200" stop="20261127013000 +0200">
-    <title lang="zh">Noticias Telemundo mediodía</title>
+  <programme channel="Telemundo East US EPGpw" start="20261127110000 +0200" stop="20261127113000 +0200">
+    <title lang="zh">Caso cerrado</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261127013000 +0200" stop="20261127020000 +0200">
+  <programme channel="Telemundo East US EPGpw" start="20261127113000 +0200" stop="20261127120000 +0200">
+    <title lang="zh">Noticias Telemundo en la noche</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261127120000 +0200" stop="20261127130000 +0200">
+    <title lang="zh">Al rojo vivo</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127063000 +0200" stop="20261127070000 +0200">
+    <title lang="zh">Al rojo vivo</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127070000 +0200" stop="20261127080000 +0200">
+    <title lang="zh">Al rojo vivo</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127080000 +0200" stop="20261127083000 +0200">
     <title lang="zh">Noticias Telemundo</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261127020000 +0200" stop="20261127022000 +0200">
-    <title lang="zh">Live: Sunday Night Football en Telemundo</title>
+  <programme channel="Telemundo West US EPGpw" start="20261127083000 +0200" stop="20261127090000 +0200">
+    <title lang="zh">Noticias Telemundo en la noche</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261127022000 +0200" stop="20261127053000 +0200">
-    <title lang="zh">Live: Fútbol Americano NFL</title>
+  <programme channel="Telemundo West US EPGpw" start="20261127090000 +0200" stop="20261127093000 +0200">
+    <title lang="zh">El pelotazo</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127093000 +0200" stop="20261127103000 +0200">
+    <title lang="zh">Juego de villanos</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127103000 +0200" stop="20261127110000 +0200">
+    <title lang="zh">Caso cerrado</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127110000 +0200" stop="20261127120000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261127120000 +0200" stop="20261127130000 +0200">
+    <title lang="zh">En casa con Telemundo</title>
   </programme>
 </tv>
