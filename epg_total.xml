@@ -279,1252 +279,988 @@
   <channel id="Telemundo West US EPGpw">
     <display-name>Telemundo West US EPGpw</display-name>
   </channel>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="GuadaTV OpM">
-    <title>Guadalajara</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="GuadaTV OpM">
-    <title>Guadalajara</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Alcarria TV OpM">
     <title>Guadalajara</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Alcarria TV OpM">
     <title>Guadalajara</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Imas TV OpM">
-    <title>Ciudad Real</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Imas TV OpM">
     <title>Ciudad Real</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Miguelturra TV OpM">
-    <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Miguelturra TV OpM">
     <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal 2000 OpM">
-    <title>La Solana (Ciudad Real)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal 2000 OpM">
     <title>La Solana (Ciudad Real)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Teletoledo OpM">
-    <title>Toledo</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Teletoledo OpM">
     <title>Toledo</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Vision 6 OpM">
-    <title>Albacete</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Vision 6 OpM">
     <title>Albacete</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal 4 Mancha Centro OpM">
-    <title>Villarrobledo (Albacete)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal 4 Mancha Centro OpM">
     <title>Villarrobledo (Albacete)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="TV Hellin OpM">
-    <title>Hellín (Albacete)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="TV Hellin OpM">
     <title>Hellín (Albacete)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="MiBit Almansa TV OpM">
-    <title>Almansa (Albacete)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="MiBit Almansa TV OpM">
     <title>Almansa (Albacete)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Andalucia OpM">
-    <title>Andalucía</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Andalucia OpM">
     <title>Andalucía</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Sevilla OpM">
-    <title>Sevilla</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Sevilla OpM">
-    <title>Sevilla</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="PTV Sevilla OpM">
     <title>Sevilla</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="PTV Sevilla OpM">
     <title>Sevilla</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Aljarafe OpM">
-    <title>Aljarafe (Sevilla)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Aljarafe OpM">
     <title>Aljarafe (Sevilla)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal Malaga OpM">
-    <title>Málaga capital</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal Malaga OpM">
     <title>Málaga capital</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Malaga OpM">
-    <title>Málaga</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Malaga OpM">
-    <title>Málaga</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="PTV Malaga OpM">
     <title>Málaga</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="PTV Malaga OpM">
     <title>Málaga</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Marbella TV OpM">
-    <title>Marbella (Málaga)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Marbella TV OpM">
-    <title>Marbella (Málaga)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="M95 OpM">
     <title>Marbella (Málaga)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="M95 OpM">
     <title>Marbella (Málaga)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Torremolinos TV OpM">
-    <title>Torremolinos (Málaga)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Torremolinos TV OpM">
     <title>Torremolinos (Málaga)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Fuengirola TV OpM">
-    <title>Fuengirola TV (Málaga)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Fuengirola TV OpM">
     <title>Fuengirola TV (Málaga)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Estepona TV OpM">
-    <title>Estepona (Málaga)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Estepona TV OpM">
     <title>Estepona (Málaga)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Mijas TV OpM">
-    <title>Mijas (Málaga)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Mijas TV OpM">
     <title>Mijas (Málaga)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Alhaurin TV OpM">
-    <title>Alhaurín el Grande (Málaga)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Alhaurin TV OpM">
     <title>Alhaurín el Grande (Málaga)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal Coin OpM">
-    <title>Coín (Málaga)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal Coin OpM">
     <title>Coín (Málaga)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="TVM Cordoba OpM">
-    <title>Córdoba capital</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="TVM Cordoba OpM">
     <title>Córdoba capital</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Cordoba OpM">
-    <title>Córdoba</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Cordoba OpM">
-    <title>Córdoba</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="PTV Cordoba OpM">
     <title>Córdoba</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="PTV Cordoba OpM">
     <title>Córdoba</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Jaen OpM">
-    <title>Jaén</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Jaen OpM">
-    <title>Jaén</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal 45 Jaen OpM">
     <title>Jaén</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal 45 Jaen OpM">
     <title>Jaén</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Diez TV Ubeda OpM">
-    <title>Úbeda (Jaén)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Diez TV Ubeda OpM">
     <title>Úbeda (Jaén)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Diez TV Andujar OpM">
-    <title>Andújar (Jaén)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Diez TV Andujar OpM">
     <title>Andújar (Jaén)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Diez TV Las Villas OpM">
-    <title>Las Villas (Jaén)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Diez TV Las Villas OpM">
     <title>Las Villas (Jaén)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Linares OpM">
-    <title>Linares (Jaén)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Linares OpM">
-    <title>Linares (Jaén)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="PTV Linares OpM">
     <title>Linares (Jaén)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="PTV Linares OpM">
     <title>Linares (Jaén)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="9 La Loma OpM">
-    <title>La Loma (Jaén)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="9 La Loma OpM">
     <title>La Loma (Jaén)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Interalmeria OpM">
-    <title>Almería capital</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Interalmeria OpM">
     <title>Almería capital</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Almeria OpM">
-    <title>Almería</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Almeria OpM">
-    <title>Almería</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="PTV Almeria OpM">
     <title>Almería</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="PTV Almeria OpM">
     <title>Almería</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Almeria 24h TV OpM">
-    <title>Almería</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Almeria 24h TV OpM">
     <title>Almería</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Almeria TV OpM">
-    <title>Almería capital</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Almeria TV OpM">
     <title>Almería capital</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Cadiz OpM">
-    <title>Cádiz</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Cadiz OpM">
     <title>Cádiz</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Jerez OpM">
-    <title>Jerez de la Frontera (Cádiz)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Jerez OpM">
     <title>Jerez de la Frontera (Cádiz)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Arcos OpM">
-    <title>Arcos de la Frontera (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Arcos OpM">
     <title>Arcos de la Frontera (Cádiz)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Onda Algeciras OpM">
-    <title>Algeciras (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Onda Algeciras OpM">
-    <title>Algeciras (Cádiz)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Algeciras OpM">
     <title>Algeciras (Cádiz)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Algeciras OpM">
     <title>Algeciras (Cádiz)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal San Roque OpM">
-    <title>San Roque (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal San Roque OpM">
     <title>San Roque (Cádiz)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Canal Costa Noroeste OpM">
-    <title>Costa Noroeste de Cádiz</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Canal Costa Noroeste OpM">
     <title>Costa Noroeste de Cádiz</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV San Fernando OpM">
-    <title>San Fernando (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV San Fernando OpM">
-    <title>San Fernando (Cádiz)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="SalTV OpM">
     <title>San Fernando (Cádiz)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="SalTV OpM">
     <title>San Fernando (Cádiz)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Rota OpM">
-    <title>Rota (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Rota OpM">
     <title>Rota (Cádiz)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="8 Sierra de Cadiz OpM">
-    <title>Sierra de Cádiz</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="8 Sierra de Cadiz OpM">
     <title>Sierra de Cádiz</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="8 Chiclana OpM">
-    <title>Chiclana de la Frontera (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="8 Chiclana OpM">
     <title>Chiclana de la Frontera (Cádiz)</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="8 La Janda OpM">
-    <title>La Janda de Cádiz</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="8 La Janda OpM">
     <title>La Janda de Cádiz</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Tuya La Janda TV OpM">
-    <title>Chiclana de la Frontera y La Janda (Cádiz)</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Tuya La Janda TV OpM">
     <title>Chiclana de la Frontera y La Janda (Cádiz)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Teleonuba OpM">
-    <title>Huelva</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Teleonuba OpM">
-    <title>Huelva</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="CanalCosta OpM">
     <title>Huelva</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="CanalCosta OpM">
     <title>Huelva</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Condavision OpM">
-    <title>Condado de Huelva</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Condavision OpM">
     <title>Condado de Huelva</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Cartaya TV OpM">
-    <title>Cartaya (Huelva)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Cartaya TV OpM">
     <title>Cartaya (Huelva)</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="TG7 Granada OpM">
-    <title>Granada capital</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="TG7 Granada OpM">
     <title>Granada capital</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="7TV Granada OpM">
-    <title>Granada</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="7TV Granada OpM">
-    <title>Granada</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="PTV Granada OpM">
     <title>Granada</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="PTV Granada OpM">
     <title>Granada</title>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="TeleGranada OpM">
-    <title>Granada capital</title>
-  </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="TeleGranada OpM">
     <title>Granada capital</title>
-  </programme>
-  <programme start="20261127060000 +0100" stop="20261128060000 +0100" channel="Telemotril OpM">
-    <title>Motril (Granada)</title>
   </programme>
   <programme start="20261128060000 +0100" stop="20261129060000 +0100" channel="Telemotril OpM">
     <title>Motril (Granada)</title>
   </programme>
-  <programme start="20261128023500 +0000" stop="20261128033000 +0000" channel="TVE Internacional America">
-    <title>Los archivos secretos del No-Do</title>
+  <programme start="20261128150000 +0000" stop="20261128152500 +0000" channel="TVE Internacional America">
+    <title>Página dos</title>
   </programme>
-  <programme start="20261128033000 +0000" stop="20261128041000 +0000" channel="TVE Internacional America">
-    <title>En portada</title>
+  <programme start="20261128152500 +0000" stop="20261128155500 +0000" channel="TVE Internacional America">
+    <title>El escarabajo verde</title>
   </programme>
-  <programme start="20261128041000 +0000" stop="20261128060500 +0000" channel="TVE Internacional America">
-    <title>No estás loca: La verdad sobre la violencia vicaria</title>
+  <programme start="20261128155500 +0000" stop="20261128164500 +0000" channel="TVE Internacional America">
+    <title>De tapas por España</title>
   </programme>
-  <programme start="20261128060500 +0000" stop="20261128070000 +0000" channel="TVE Internacional America">
-    <title>Sukha</title>
+  <programme start="20261128164500 +0000" stop="20261128171500 +0000" channel="TVE Internacional America">
+    <title>Audiencia Abierta</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128111000 +0000" channel="TVE Internacional America">
-    <title>Noticias 24h</title>
+  <programme start="20261128171500 +0000" stop="20261128191000 +0000" channel="TVE Internacional America">
+    <title>D corazón</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128191000 +0000" stop="20261128195500 +0000" channel="TVE Internacional America">
+    <title>Saber y ganar - Fin de semana</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128195500 +0000" stop="20261128202500 +0000" channel="TVE Internacional America">
+    <title>Telediario 2a. edición</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128202500 +0000" stop="20261128203000 +0000" channel="TVE Internacional America">
+    <title>Deportes</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="TVE Internacional America">
+    <title>Informe semanal</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128210000 +0000" stop="20261128221500 +0000" channel="TVE Internacional America">
+    <title>La cena de los idiotas</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Marianne Dimain</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="CBC News Network CA">
-    <title>The National</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Marianne Dimain</title>
   </programme>
-  <programme start="20261128000000 +0000" stop="20261128040000 +0000" channel="CityNews Toronto">
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom With Natasha Fatah</title>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="CBC News Network CA">
+    <title>CBC Newsroom with Deana Sumanac-Johnson</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128230000 +0000" channel="CityNews Toronto">
     <title>CityNews 24/7</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043500 +0000" channel="CityNews Toronto">
-    <title>CityNews Tonight</title>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="Global News CA">
+    <title>Global News Morning</title>
   </programme>
-  <programme start="20261128043500 +0000" stop="20261128100000 +0000" channel="CityNews Toronto">
-    <title>CityNews 24/7 Overnight</title>
+  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="Global News CA">
+    <title>Global News Morning</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="Global News CA">
-    <title>BC1 News Evening</title>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Global News CA">
+    <title>Global News at Noon</title>
   </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="Global News CA">
-    <title>Global National</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="Global News CA">
+    <title>Global News at Noon</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="Global News CA">
-    <title>BC1 News Evening</title>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="Global News CA">
+    <title>BC 1 News</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="Global News CA">
-    <title>Global News on BC1</title>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="Global News CA">
-    <title>BC1 News Evening</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="Global News CA">
-    <title>Global National</title>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Ici RDI">
+    <title>Les décrypteurs</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070500 +0000" channel="Global News CA">
-    <title>Global News at 11</title>
+  <programme start="20261128170000 +0000" stop="20261128173100 +0000" channel="Ici RDI">
+    <title>Le téléjournal midi</title>
   </programme>
-  <programme start="20261128070500 +0000" stop="20261128080000 +0000" channel="Global News CA">
-    <title>Global News at 11</title>
+  <programme start="20261128173100 +0000" stop="20261128180000 +0000" channel="Ici RDI">
+    <title>Le téléjournal midi</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="Global News CA">
-    <title>Global News at 11</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="Ici RDI">
+    <title>Le national hebdo en direct de Toronto</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Global News CA">
-    <title>Global News at 11</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="Ici RDI">
-    <title>Le téléjournal avec Claudine Bourbonnais</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="Ici RDI">
-    <title>Le national</title>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="Ici RDI">
-    <title>Le national</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="Ici RDI">
-    <title>24/60</title>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="Ici RDI">
-    <title>Le téléjournal 18h30</title>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="Ici RDI">
+    <title>L'info maintenant</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128073000 +0000" channel="Ici RDI">
-    <title>Pendant que la Terre tourne</title>
+  <programme start="20261128130000 +0000" stop="20261128151500 +0000" channel="AMC US">
+    <title>John Wick</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128083000 +0000" channel="Ici RDI">
-    <title>Le téléjournal avec Claudine Bourbonnais</title>
+  <programme start="20261128130000 +0000" stop="20261128170000 +0000" channel="AMC US">
+    <title lang="en">The Green Mile</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="Ici RDI">
-    <title>Le national</title>
+  <programme start="20261128151500 +0000" stop="20261128180000 +0000" channel="AMC US">
+    <title>John Wick: Chapter 2</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Ici RDI">
-    <title>Zone économie</title>
-  </programme>
-  <programme start="20261128023000 +0000" stop="20261128060000 +0000" channel="AMC US">
-    <title>The Da Vinci Code</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128060000 +0000" channel="AMC US">
-    <title lang="en">A League of Their Own</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128100000 +0000" channel="AMC US">
-    <title>The Green Mile</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128090000 +0000" channel="AMC US">
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="AMC US">
     <title lang="en">Apollo 13</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="AMC US">
-    <title lang="en">The Three Stooges</title>
+  <programme start="20261128180000 +0000" stop="20261128211500 +0000" channel="AMC US">
+    <title>Jurassic World Dominion</title>
   </programme>
-  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="QVC US">
+  <programme start="20261128200000 +0000" stop="20261128221500 +0000" channel="AMC US">
+    <title lang="en">John Wick</title>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128160000 +0000" channel="QVC US">
+    <title>Black Friday Sale</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128190000 +0000" channel="QVC US">
+    <title lang="en">Saturday Morning Gifts</title>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="QVC US">
+    <title>Powerful Innovations by HALO</title>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="QVC US">
     <title>Belle by Kim Gravel -- Fashion</title>
   </programme>
-  <programme start="20261128020000 +0000" stop="20261128050000 +0000" channel="QVC US">
-    <title lang="en">Naughty &amp; Nice With Rick &amp; Shawn - Gift Series</title>
+  <programme start="20261128190000 +0000" stop="20261128220000 +0000" channel="QVC US">
+    <title>Shawn Saves Christmas</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="QVC US">
-    <title>Powerful Innovations by HALO</title>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="QVC US">
+    <title lang="en">VeeFriends Collectibles by Gary Vaynerchuk</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128070000 +0000" channel="QVC US">
-    <title>AM Style With Leah Williams</title>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="QVC US">
-    <title lang="en">Powerful Innovations by HALO</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128080000 +0000" channel="QVC US">
+  <programme start="20261128200000 +0000" stop="20261128230000 +0000" channel="QVC US">
     <title lang="en">Black Friday Sale</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="QVC US">
-    <title>Powerful Innovations by HALO</title>
+  <programme start="20261128150000 +0000" stop="20261128160000 +0000" channel="QVC 2 US">
+    <title>Temp-tations Presentable Kitchen</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128120000 +0000" channel="QVC US">
-    <title>Saturday Morning Gifts</title>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="QVC 2 US">
+    <title>Black Friday Sale</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="QVC US">
-    <title lang="en">Powerful Innovations by HALO</title>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="QVC 2 US">
+    <title>Black Friday Sale</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="QVC US">
-    <title lang="en">Belle by Kim Gravel -- Fashion</title>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="QVC 2 US">
+    <title>Tech the Halls Gifts</title>
   </programme>
-  <programme start="20261127220000 +0000" stop="20261128060000 +0000" channel="QVC 2 US">
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="QVC 2 US">
+    <title>Sandra's Gift Favorites</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128160000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128090000 +0000" channel="QVC 2 US">
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128120000 +0000" channel="QVC 2 US">
-    <title>In the Kitchen With Julia</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="QVC 3 US">
+  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="QVC 3 US">
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="QVC 3 US">
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="QVC 3 US">
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="QVC 3 US">
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="QVC 3 US">
     <title>Shopping</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="QVC 3 US">
-    <title>Shopping</title>
+  <programme start="20261128120000 +0000" stop="20261128153000 +0000" channel="TNT US">
+    <title>College Football</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="QVC 3 US">
-    <title>Shopping</title>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="TNT US">
+    <title lang="en">The Polar Express</title>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261128040000 +0000" channel="TNT US">
-    <title lang="en">NHL Hockey</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="TNT US">
+    <title>Big 12 Football Postgame</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="TNT US">
+    <title>A Christmas Story</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261128160000 +0000" stop="20261128183000 +0000" channel="TNT US">
+    <title lang="en">Miracle on 34th Street</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="TNT US">
-    <title lang="en">NHL Post-Game on TNT</title>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="TNT US">
+    <title>National Lampoon's Christmas Vacation</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128070000 +0000" channel="TNT US">
-    <title lang="en">Coming 2 America</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="TNT US">
+    <title lang="en">Big 12 Football Pregame</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261128190000 +0000" stop="20261128223000 +0000" channel="TNT US">
+    <title lang="en">College Football</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="TNT US">
-    <title>FBI</title>
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="TNT US">
+    <title>National Lampoon's Christmas Vacation</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128090000 +0000" channel="TNT US">
-    <title>The Polar Express</title>
+  <programme start="20261128150000 +0000" stop="20261128160000 +0000" channel="ABC LA US">
+    <title>Good Morning America</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128113000 +0000" channel="TNT US">
-    <title>Miracle on 34th Street</title>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="ABC LA US">
+    <title>Eyewitness News 8AM</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="TNT US">
-    <title lang="en">FBI</title>
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="ABC LA US">
+    <title>College Football - Notre Dame at Syracuse</title>
   </programme>
-  <programme start="20261128003000 +0000" stop="20261128040000 +0000" channel="ABC LA US">
-    <title>College Football - Texas at Texas AAndM</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="ABC LA US">
+    <title>College Football Scoreboard</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="ABC LA US">
-    <title>Eyewitness News</title>
+  <programme start="20261128203000 +0000" stop="20261128233000 +0000" channel="ABC LA US">
+    <title>College Football - Georgia Tech at Georgia</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="ABC LA US">
-    <title>ABC Secret Savings</title>
+  <programme start="20261128140000 +0000" stop="20261128170000 +0000" channel="ABC6 US">
+    <title>College Football - Notre Dame at Syracuse</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="ABC LA US">
-    <title>Jeopardy!</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="ABC6 US">
+    <title>College Football Scoreboard</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="ABC LA US">
-    <title>Wheel of Fortune - Gathered in Gratitude</title>
+  <programme start="20261128173000 +0000" stop="20261128203000 +0000" channel="ABC6 US">
+    <title>College Football - Georgia Tech at Georgia</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="ABC LA US">
-    <title>On The Red Carpet Icons: Jaclyn Smith</title>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="ABC6 US">
+    <title>College Football Scoreboard</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073500 +0000" channel="ABC LA US">
-    <title>Eyewitness News 11PM</title>
-  </programme>
-  <programme start="20261128073500 +0000" stop="20261128083700 +0000" channel="ABC LA US">
-    <title>Jimmy Kimmel Live! - Chris Pratt; Gordon Ramsay; Stephen Wilson Jr.; Sara Niemietz</title>
-  </programme>
-  <programme start="20261128083700 +0000" stop="20261128090600 +0000" channel="ABC LA US">
-    <title>Nightline</title>
-  </programme>
-  <programme start="20261128090600 +0000" stop="20261128093600 +0000" channel="ABC LA US">
-    <title>ABC Secret Savings</title>
-  </programme>
-  <programme start="20261128030600 +0000" stop="20261128040600 +0000" channel="ABC6 US">
-    <title>Live with Kelly and Mark</title>
-  </programme>
-  <programme start="20261128040600 +0000" stop="20261128043600 +0000" channel="ABC6 US">
-    <title>Jeopardy!</title>
-  </programme>
-  <programme start="20261128043600 +0000" stop="20261128050600 +0000" channel="ABC6 US">
-    <title>Wheel of Fortune - Gathered in Gratitude</title>
-  </programme>
-  <programme start="20261128050600 +0000" stop="20261128053000 +0000" channel="ABC6 US">
-    <title>Localish Life</title>
-  </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="ABC6 US">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="ABC6 US">
-    <title>Hope for Pain Sufferers</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="ABC6 US">
-    <title>Sports Stars of Tomorrow</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="ABC6 US">
-    <title>Action News 5:00 AM</title>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="ABC6 US">
-    <title>Action News 5:30 AM</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="ABC6 US">
-    <title>Action News Weekend 6AM</title>
-  </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="ABC6 US">
-    <title>Action News Weekend 7AM</title>
-  </programme>
-  <programme start="20261128020000 +0000" stop="20261128090000 +0000" channel="AccuWeather US">
-    <title>AccuWeather All Night</title>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="ABC6 US">
+    <title>College Football Scoreboard</title>
   </programme>
   <programme start="20261128090000 +0000" stop="20261128170000 +0000" channel="AccuWeather US">
     <title>AccuWeather Weekend</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="AWE US">
-    <title>A Taste of Travel - Singapore</title>
+  <programme start="20261128170000 +0000" stop="20261128210000 +0000" channel="AccuWeather US">
+    <title>Ask the Experts</title>
   </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="AWE US">
-    <title>Most Amazing Homes - Dana Point Luxury</title>
+  <programme start="20261128210000 +0000" stop="20261129020000 +0000" channel="AccuWeather US">
+    <title>AccuWeather Weekend</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="AWE US">
-    <title>Life on the Road - A Long Day on the Road</title>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="AWE US">
+    <title>Selling Mega Mansions - Spanish Revival In Big D</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="AWE US">
-    <title>Distant Shores - Grenadines</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="AWE US">
+    <title>Top Million Dollar Agent - Holiday Dream Home</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="AWE US">
-    <title>Takeoff - Thailand</title>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="AWE US">
+    <title>Find Me a Luxury Home - Ron and Shirley</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="AWE US">
-    <title>Selling Jets - Fear of Flying 2</title>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="AWE US">
+    <title>Top Million Dollar Agent - Open Concept: Part 2</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="AWE US">
-    <title>Road Less Traveled - Philippines Part II</title>
+  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="AWE US">
+    <title>Dream Cruises - Vasco da Gama</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="AWE US">
-    <title>Selling Yachts - Worth It</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="AWE US">
+    <title>Distant Shores - Turks And Caicos</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="AWE US">
-    <title>Vicarious Escapes - Las Vegas</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="AWE US">
+    <title>Takeoff - Vancouver</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="AWE US">
-    <title>Facing Waves - The Great Family Adventure</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="AWE US">
+    <title>Selling Jets - Pilots And Puppies</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="AWE US">
-    <title>Life on the Road</title>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="AWE US">
+    <title>Selling Yachts - Father Knows Best</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="AWE US">
-    <title>Road Less Traveled - Malaysia</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="AWE US">
+    <title>Find Me a Vacation Home - America's Riviera</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="Bloomberg US">
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="AWE US">
+    <title>Jet Set - Chiang Mai and Venice</title>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="AWE US">
+    <title>Behind the Gates - Dynamic Duo</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="Bloomberg US">
+    <title>LEADERS With Francine Lacqua - Inside Google's AI Race with Ruth Porat</title>
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Bloomberg US">
+    <title>The David Rubenstein Show: Peer to Peer Conversations - Nir Bar Dea, Bridgewater Associates CEO</title>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="Bloomberg US">
+    <title>World's Greatest</title>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="Bloomberg US">
+    <title>43 Rare Silver Coins</title>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="Bloomberg US">
+    <title>43 Rare Silver Coins</title>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="Bloomberg US">
+    <title>Rare 1920's Silver</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="Bloomberg US">
+    <title>Rare 1920's Silver</title>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="Bloomberg US">
     <title>Rare WWII Silver Set</title>
   </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="Bloomberg US">
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="Bloomberg US">
+    <title>Rare WWII Silver Set</title>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="Bloomberg US">
+    <title>Rare Limited Silver</title>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="Bloomberg US">
     <title>Paid Programming</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="Bloomberg US">
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Bloomberg US">
+    <title>New to the Street</title>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="Bloomberg US">
+    <title>Small Stocks Big Money</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="CBS LA US">
+    <title>Hope in the Wild - Owl Around Town</title>
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="CBS LA US">
+    <title>The Visioneers With Zay Harding - Restoring the Elements From Land to Sea</title>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="CBS LA US">
+    <title>CBS LA Mornings at 8am</title>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="CBS LA US">
+    <title>CBS LA Mornings at 9am</title>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="CBS LA US">
+    <title>Sports Central: College Countdown</title>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="CBS LA US">
+    <title>Celebration of Service to America Awards</title>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="CBS LA US">
+    <title>2026 NWSL Skills Challenge</title>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="CBS LA US">
+    <title>College Football Today</title>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261129000000 +0000" channel="CBS LA US">
+    <title>College Football - USC at UCLA</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="CW LV US">
+    <title>Jack Hanna's Into the Wild - Race for Survival</title>
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="CW LV US">
+    <title>Jack Hanna's Into the Wild - Crocs, Snakes And Caves</title>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="CW LV US">
+    <title>Jack Hanna's Into the Wild - Snakes Alive</title>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="CW LV US">
+    <title>Jack Hanna's Into the Wild - Discovery Singapore</title>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="CW LV US">
     <title>Paid Programming</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="Bloomberg US">
-    <title>Rare Diamond Silver</title>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="Bloomberg US">
-    <title>Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="Bloomberg US">
-    <title>Quantum Marketing - How AI Could Change the Advertising Business</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="Bloomberg US">
-    <title>Quantum Marketing - How an Underdog Sports League Got Millions Watching</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="Bloomberg US">
-    <title>Bloomberg Originals</title>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="Bloomberg US">
-    <title>The Mishal Husain Show - Marina Litvinenko</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="Bloomberg US">
-    <title>Bloomberg Wall Street Week</title>
-  </programme>
-  <programme start="20261128090000 +0000" stop="20261128120000 +0000" channel="Bloomberg US">
-    <title>Bloomberg This Weekend</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="CBS LA US">
-    <title>Inside Edition - The Perfect Tree</title>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="CBS LA US">
-    <title>Entertainment Tonight</title>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128060000 +0000" channel="CBS LA US">
-    <title>Soul Train Awards</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="CBS LA US">
-    <title>Boston Blue - St. Patrick's Day</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073500 +0000" channel="CBS LA US">
-    <title>CBS LA at 11pm</title>
-  </programme>
-  <programme start="20261128073500 +0000" stop="20261128080500 +0000" channel="CBS LA US">
-    <title>Comics Unleashed With Byron Allen - Kristen Toomey; Gary Michael Anderson; Adam Pasi; Hormoz Rashidi</title>
-  </programme>
-  <programme start="20261128080500 +0000" stop="20261128083500 +0000" channel="CBS LA US">
-    <title>Comics Unleashed With Byron Allen - Jessica Keenan; Nick Hoff; Amir K; Tony Roberts</title>
-  </programme>
-  <programme start="20261128083500 +0000" stop="20261128090500 +0000" channel="CBS LA US">
-    <title>Funny You Should Ask - Jamie Kennedy; Loni Love; Adam Carolla; Byron Allen; Michelle Collins; Gary Owen</title>
-  </programme>
-  <programme start="20261128090500 +0000" stop="20261128093500 +0000" channel="CBS LA US">
-    <title>Funny You Should Ask</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="CW LV US">
-    <title>The Big Bang Theory - The Nerdvana Annihilation</title>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="CW LV US">
-    <title>The Big Bang Theory - The Cruciferous Vegetable Amplification</title>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="CW LV US">
-    <title>Grandma Got Run Over by a Reindeer</title>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="CW LV US">
-    <title>A Flintstone Christmas</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="CW LV US">
-    <title>The CW News at 10</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="CW LV US">
-    <title>Seinfeld - The Red Dot</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="CW LV US">
-    <title>Seinfeld - The Label Maker</title>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="CW LV US">
-    <title>Last Man Standing - The Help</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="CW LV US">
-    <title>Last Man Standing - Mike's Pole</title>
-  </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="CW LV US">
-    <title>The Neighborhood - Welcome to the Downsizing</title>
-  </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="CW LV US">
-    <title>Bob Hearts Abishola - Beard in Her Pulpit</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="FOX NY US">
-    <title>Front Office Sports Tonight</title>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="FOX NY US">
-    <title>TMZ</title>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="FOX NY US">
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="CW LV US">
     <title>Paid Programming</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="FOX NY US">
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="CW LV US">
     <title>Paid Programming</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="FOX NY US">
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="CW LV US">
     <title>Paid Programming</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="FOX NY US">
-    <title>Paid Programming</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="CW LV US">
+    <title>Bathroom Makeover</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="FOX NY US">
-    <title>Paid Programming</title>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="CW LV US">
+    <title>CW College Football Countdown</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="FOX NY US">
-    <title>Paid Programming</title>
+  <programme start="20261128200000 +0000" stop="20261128233000 +0000" channel="CW LV US">
+    <title>College Football - Virginia at Virginia Tech</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="FOX NY US">
-    <title>Coffee With America</title>
+  <programme start="20261128140000 +0000" stop="20261128173000 +0000" channel="FOX NY US">
+    <title>College Football - Michigan at Ohio State</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="FOX NY US">
-    <title>Paid Programming</title>
+  <programme start="20261128173000 +0000" stop="20261128210000 +0000" channel="FOX NY US">
+    <title>College Football - Cincinnati at BYU</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="FOX NY US">
-    <title>Good Day Street Talk</title>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="FOX NY US">
+    <title>Women's College Basketball - Duke vs. UConn</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="FOX NY US">
-    <title>Paid Programming</title>
+  <programme start="20261128150000 +0000" stop="20261128160000 +0000" channel="NBC LA US">
+    <title>Today in LA Weekend</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="FOX NY US">
-    <title>Xploration Awesome Planet - Slovenia</title>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="NBC LA US">
+    <title>Mutual of Omaha's Wild Kingdom Protecting the Wild - Giving Mountain Lions Room to Roam</title>
   </programme>
-  <programme start="20261128003000 +0000" stop="20261128040000 +0000" channel="NBC LA US">
-    <title>College Football - Minnesota at Wisconsin</title>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="NBC LA US">
+    <title>Earth Odyssey With Dylan Dreyer - Freestyling in the Forest</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128053000 +0000" channel="NBC LA US">
-    <title>NBC4 News</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="NBC LA US">
+    <title>The Great American Journey - New Frontiers</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="NBC LA US">
-    <title>Hollywood ReelTime</title>
+  <programme start="20261128173000 +0000" stop="20261128190000 +0000" channel="NBC LA US">
+    <title>FIS Alpine Skiing - Killington Cup: Women's Giant Slalom</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="NBC LA US">
-    <title>Dateline NBC - Black Friday</title>
+  <programme start="20261128190000 +0000" stop="20261128230000 +0000" channel="NBC LA US">
+    <title>College Football - Bayou Classic: Grambling State vs. Southern</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073400 +0000" channel="NBC LA US">
-    <title>NBC4 News at 11pm</title>
+  <programme start="20261128143000 +0000" stop="20261128160000 +0000" channel="NBC NY US">
+    <title>FIS Alpine Skiing - Killington Cup: Women's Giant Slalom</title>
   </programme>
-  <programme start="20261128073400 +0000" stop="20261128083500 +0000" channel="NBC LA US">
-    <title>The Tonight Show Starring Jimmy Fallon - Amy Poehler; Tom Blyth; Vanna White; Milo J</title>
+  <programme start="20261128160000 +0000" stop="20261128200000 +0000" channel="NBC NY US">
+    <title>College Football - Bayou Classic: Grambling State vs. Southern</title>
   </programme>
-  <programme start="20261128083500 +0000" stop="20261128093400 +0000" channel="NBC LA US">
-    <title>Late Night With Seth Meyers - Dustin Hoffman; James Acaster</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="NBC NY US">
+    <title>News4 NY at 6 Weekend</title>
   </programme>
-  <programme start="20261128023500 +0000" stop="20261128033400 +0000" channel="NBC NY US">
-    <title>Late Night With Seth Meyers - Dustin Hoffman; James Acaster</title>
-  </programme>
-  <programme start="20261128033400 +0000" stop="20261128040900 +0000" channel="NBC NY US">
-    <title>News 4 NY at 11</title>
-  </programme>
-  <programme start="20261128040900 +0000" stop="20261128043900 +0000" channel="NBC NY US">
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="NBC NY US">
     <title>NBC Nightly News With Tom Llamas</title>
   </programme>
-  <programme start="20261128043900 +0000" stop="20261128053000 +0000" channel="NBC NY US">
-    <title>Top Story With Tom Llamas</title>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="NBC NY US">
+    <title>Big Ten Countdown</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="NBC NY US">
-    <title>New York Live Tonight</title>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="Newsmax US">
+    <title>Saturday Agenda</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="NBC NY US">
-    <title>1st Look - Extra Mile Club: Scotland Pt. 2</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="Newsmax US">
+    <title>Rob Carson's What in the World?</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="NBC NY US">
-    <title>Paid Programming</title>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="Newsmax US">
+    <title>Israel Now</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="NBC NY US">
-    <title>Open House Outrageous</title>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="Newsmax US">
+    <title>Greg Kelly This Week</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="NBC NY US">
-    <title>Open House NYC</title>
+  <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="Newsmax US">
+    <title>The Count</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="NBC NY US">
-    <title>Saturday Today in New York</title>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="Newsmax US">
+    <title>Carl Higbie's Unfiltered Thanksgiving</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128103000 +0000" channel="NBC NY US">
-    <title>Saturday Today</title>
+  <programme start="20261128142500 +0000" stop="20261128163000 +0000" channel="Telemundo 52 LA US">
+    <title>Fútbol Bundesliga - Hamburgo SV vs. Bayern Munich</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="Newsmax US">
-    <title>Carl Higbie Frontline</title>
+  <programme start="20261128163000 +0000" stop="20261128172500 +0000" channel="Telemundo 52 LA US">
+    <title>Fútbol estelar</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Newsmax US">
-    <title>Greg Kelly Reports</title>
+  <programme start="20261128172500 +0000" stop="20261128193000 +0000" channel="Telemundo 52 LA US">
+    <title>Fútbol Premier League - Ipswich Town vs. Aston Villa</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="Newsmax US">
-    <title>David Harris Jr. The Pulse</title>
+  <programme start="20261128193000 +0000" stop="20261128220000 +0000" channel="Telemundo 52 LA US">
+    <title>Fútbol Serie A - Inter de Milán vs. Genoa</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="Newsmax US">
-    <title>Ed Henry The Big Take</title>
+  <programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="Telemundo Puerto Rico">
+    <title>Raymond y sus amigos</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="Newsmax US">
-    <title>Caught on Bodycam - Risky Business</title>
+  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="Telemundo Puerto Rico">
+    <title>Telenoticias</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="Newsmax US">
-    <title>Caught on Bodycam - Cop Chaos</title>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="Telemundo Puerto Rico">
+    <title>La tormenta</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="Newsmax US">
-    <title>Road Rage Raw - Fueled by Rage</title>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Telemundo Puerto Rico">
+    <title>Objetivo Fama</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="Newsmax US">
-    <title>The World Seen From the Vatican</title>
+  <programme start="20261128200000 +0000" stop="20261128220000 +0000" channel="Telemundo Puerto Rico">
+    <title>Baloncesto Superior Nacional Femenino</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128110000 +0000" channel="Newsmax US">
-    <title>Wake Up America Weekend</title>
+  <programme start="20261128142500 +0000" stop="20261128163000 +0000" channel="Telemundo 51 Miami US">
+    <title>Fútbol Premier League - Ipswich Town vs. Aston Villa</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128050000 +0000" channel="Telemundo 52 LA US">
-    <title>Juego de villanos - El precio de la maldad</title>
+  <programme start="20261128163000 +0000" stop="20261128190000 +0000" channel="Telemundo 51 Miami US">
+    <title>Fútbol Serie A - Inter de Milán vs. Genoa</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="Telemundo 52 LA US">
-    <title>Sin senos sí hay paraíso - El rey fantasma</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="Telemundo 52 LA US">
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Telemundo 51 Miami US">
     <title>Lejos de ti - El día más esperado</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073500 +0000" channel="Telemundo 52 LA US">
-    <title>Noticiero Telemundo 52 a las 11:00 pm</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="Telemundo 51 Miami US">
+    <title>Noticiero 51 at 6PM</title>
   </programme>
-  <programme start="20261128073500 +0000" stop="20261128080000 +0000" channel="Telemundo 52 LA US">
-    <title>Noticias Telemundo en la noche</title>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Telemundo 51 Miami US">
+    <title>Noticias Telemundo fin de semana</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="Telemundo 52 LA US">
-    <title>El pelotazo</title>
+  <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="Telemundo 51 Miami US">
+    <title>The Devil Wears Prada</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128093000 +0000" channel="Telemundo 52 LA US">
-    <title>Lejos de ti - El día más esperado</title>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="travelxp US">
+    <title>Unwind - Park Hyatt, Maldives</title>
   </programme>
-  <programme start="20261128023000 +0000" stop="20261128040000 +0000" channel="Telemundo Puerto Rico">
-    <title>Bring It On</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="travelxp US">
+    <title>Off the Grid - Srinagar, India</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Telemundo Puerto Rico">
-    <title>Caso cerrado</title>
+  <programme start="20261128160000 +0000" stop="20261128161500 +0000" channel="travelxp US">
+    <title>Best From the Rest - Maldives - Top 5 Things to Do</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128161500 +0000" stop="20261128163000 +0000" channel="travelxp US">
+    <title>Landmarks - London Eye</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="travelxp US">
+    <title>Route 66 - Kansas</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="travelxp US">
+    <title>The Moroccan Chronicles - Uncharted Marrakech</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="travelxp US">
+    <title>Backpack - Alexandria, Egypt</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="travelxp US">
+    <title>Boarding Pass - Tromso, Norway</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="travelxp US">
+    <title>City Breaks - Bikaner</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="travelxp US">
+    <title>Off the Grid - Monts De Cristal, Gabon</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="travelxp US">
+    <title>Route 66 - New Mexico</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="Telemundo Puerto Rico">
-    <title>Programa pagado</title>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="travelxp US">
+    <title>Mount Kailash: The Journey Within - Mount Kailash 2</title>
   </programme>
-  <programme start="20261128023000 +0000" stop="20261128033000 +0000" channel="Telemundo 51 Miami US">
-    <title>Lejos de ti - El día más esperado</title>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="travelxp US">
+    <title>Backpack - Aswan, Egypt</title>
   </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="Telemundo 51 Miami US">
-    <title>Caso cerrado - Flores anónimas</title>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="travelxp US">
+    <title>Boarding Pass - Polar Park, Norway</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="Telemundo 51 Miami US">
-    <title>La Dr. Polo vida sin límites</title>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="CNN International">
+    <title>CNN Creators: The Intro</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="Telemundo 51 Miami US">
-    <title>Pain Relief Revealed</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="CNN International">
+    <title>Inside Africa</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="Telemundo 51 Miami US">
-    <title>Programa pagado</title>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="CNN International">
+    <title>The Amanpour Hour</title>
   </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="Telemundo 51 Miami US">
-    <title>La Dr. Polo vida sin límites</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="CNN International">
+    <title>World Sport</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="Telemundo 51 Miami US">
-    <title>La mesa caliente</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="Telemundo 51 Miami US">
-    <title>La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="Telemundo 51 Miami US">
-    <title>Pain Relief Revealed</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="Telemundo 51 Miami US">
-    <title>La Dr. Polo vida sin límites</title>
-  </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="Telemundo 51 Miami US">
-    <title>Programa pagado</title>
-  </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="Telemundo 51 Miami US">
-    <title>Pequeños en la naturaleza - Los animales más influyentes</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="travelxp US">
-    <title>Backpack - Porto, Portugal</title>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="travelxp US">
-    <title>72 Hours Unplugged - Prague</title>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="travelxp US">
-    <title>Off the Grid - Kargil, India</title>
-  </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="travelxp US">
-    <title>World Spas - Evason Ma'In, Jordan</title>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="travelxp US">
-    <title>10 Days Korea - Jeju Island</title>
-  </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="travelxp US">
-    <title>The Moroccan Chronicles - The Ballad of Fes</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="travelxp US">
-    <title>Backpack - Douro Valley, Portugal</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="travelxp US">
-    <title>72 Hours Unplugged - Perth</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="travelxp US">
-    <title>Off the Grid - Suru Valley, India</title>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="travelxp US">
-    <title>World Spas</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="travelxp US">
-    <title>Route 66 - Illinois</title>
-  </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="travelxp US">
-    <title>The Moroccan Chronicles - One Flew Over Casablanca</title>
-  </programme>
-  <programme start="20261128090000 +0000" stop="20261128103000 +0000" channel="travelxp US">
-    <title>World Class Travel -- Canada in Sketches</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="CNN International">
-    <title>CNN NewsNight With Abby Phillip</title>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="CNN International">
-    <title>Laura Coates Live</title>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="CNN International">
-    <title>The Story Is With Elex Michaelson</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="CNN International">
-    <title>The Story Is With Elex Michaelson</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="CNN International">
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="CNN International">
     <title>Quest's World of Wonder</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="CNN International">
-    <title>CNN Newsroom</title>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="CNN International">
+    <title>CNN Newsroom Saturday</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="CNN International">
-    <title>African Voices</title>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="CNN International">
+    <title>CNN Newsroom Saturday</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="CNN International">
-    <title>CNN Newsroom</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="CNN International">
+    <title>CNN Newsroom Saturday</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="CNN International">
-    <title>Seasons</title>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="CNN International">
+    <title>CNN Newsroom Saturday</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="CNN International">
-    <title>CNN Newsroom</title>
-  </programme>
-  <programme start="20261128030000 +0000" stop="20261128033000 +0000" channel="Game Show Network East US">
-    <title>Cash Cab</title>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="Game Show Network East US">
-    <title>Cash Cab</title>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="Game Show Network East US">
-    <title>Wheel of Fortune</title>
-  </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="Game Show Network East US">
-    <title>Wheel of Fortune</title>
-  </programme>
-  <programme start="20261128050000 +0000" stop="20261128053000 +0000" channel="Game Show Network East US">
-    <title>Switch</title>
-  </programme>
-  <programme start="20261128053000 +0000" stop="20261128060000 +0000" channel="Game Show Network East US">
-    <title>Split Second</title>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128063000 +0000" channel="Game Show Network East US">
-    <title>Chain Reaction</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="Game Show Network East US">
-    <title>Chain Reaction</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128073000 +0000" channel="Game Show Network East US">
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="Game Show Network East US">
     <title>Family Feud</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="Game Show Network East US">
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Game Show Network East US">
     <title>Family Feud</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="Game Show Network East US">
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="Game Show Network East US">
     <title>Family Feud</title>
   </programme>
-  <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="Game Show Network East US">
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="Game Show Network East US">
     <title>Family Feud</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128093000 +0000" channel="Game Show Network East US">
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="Game Show Network East US">
     <title>Family Feud</title>
   </programme>
-  <programme start="20261128003000 +0000" stop="20261128040000 +0000" channel="Telemundo East US">
-    <title>Macy's Thanksgiving Day Parade</title>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="Game Show Network East US">
+    <title>Family Feud</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="Telemundo East US">
-    <title>Explorando Estados Unidos</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="Game Show Network East US">
+    <title>Family Feud</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128063000 +0000" channel="Telemundo East US">
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="Game Show Network East US">
+    <title>Family Feud</title>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="Game Show Network East US">
+    <title>Family Feud</title>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="Game Show Network East US">
+    <title>Family Feud</title>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="Game Show Network East US">
+    <title>Joint Relief Revolution</title>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Game Show Network East US">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="Game Show Network East US">
+    <title>Looking for a Medicare Plan? Tune in Now!</title>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="Telemundo East US">
+    <title>Noticias Telemundo fin de semana</title>
+  </programme>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Telemundo East US">
+    <title>Noticias Telemundo fin de semana</title>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="Telemundo East US">
+    <title>El Pelotazo</title>
+  </programme>
+  <programme start="20261128163000 +0000" stop="20261128183000 +0000" channel="Telemundo East US">
     <title>Fast and Furious</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128090000 +0000" channel="Telemundo East US">
-    <title>Fútbol italiano: Serie A</title>
+  <programme start="20261128183000 +0000" stop="20261128203000 +0000" channel="Telemundo East US">
+    <title>Vivo</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Telemundo East US">
-    <title>Lejos de ti</title>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Telemundo East US">
+    <title>Noticias Telemundo fin de semana</title>
   </programme>
-  <programme start="20261128025500 +0000" stop="20261128034500 +0000" channel="TVE Internacional America 2">
-    <title>De Tapas Por España</title>
-  </programme>
-  <programme start="20261128034500 +0000" stop="20261128061000 +0000" channel="TVE Internacional America 2">
-    <title>Audiencia abierta</title>
-  </programme>
-  <programme start="20261128061000 +0000" stop="20261128065500 +0000" channel="TVE Internacional America 2">
-    <title>Saber y ganar: Fin de semana</title>
-  </programme>
-  <programme start="20261128065500 +0000" stop="20261128072500 +0000" channel="TVE Internacional America 2">
-    <title>Telediario 2</title>
-  </programme>
-  <programme start="20261128072500 +0000" stop="20261128073000 +0000" channel="TVE Internacional America 2">
-    <title>Teledeporte 1</title>
-  </programme>
-  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="TVE Internacional America 2">
-    <title>Informe semanal</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128091500 +0000" channel="TVE Internacional America 2">
-    <title>La Cena de los Idiotas</title>
-  </programme>
-  <programme start="20261128010000 +0000" stop="20261128033000 +0000" channel="Universo East US">
-    <title>Fútbol estelar</title>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128063000 +0000" channel="Universo East US">
-    <title>Fútbol estelar</title>
-  </programme>
-  <programme start="20261128063000 +0000" stop="20261128070000 +0000" channel="Universo East US">
-    <title>Caso Cerrado</title>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="Universo East US">
-    <title>Escape perfecto</title>
-  </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="Universo East US">
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="Telemundo East US">
     <title>Caso cerrado</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Universo East US">
+  <programme start="20261128123000 +0000" stop="20261128151000 +0000" channel="TVE Internacional America 2">
+    <title>La suerte en tus manos</title>
+  </programme>
+  <programme start="20261128151000 +0000" stop="20261128164000 +0000" channel="TVE Internacional America 2">
+    <title>Días de cine</title>
+  </programme>
+  <programme start="20261128164000 +0000" stop="20261128173000 +0000" channel="TVE Internacional America 2">
+    <title>Sukha</title>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128183000 +0000" channel="TVE Internacional America 2">
+    <title>Tendido cero</title>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128213000 +0000" channel="TVE Internacional America 2">
+    <title>Noticias 24 Horas</title>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128160000 +0000" channel="Universo East US">
+    <title>Por Tu Maldito Amor</title>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Universo East US">
     <title>Caso cerrado</title>
   </programme>
-  <programme start="20261128020000 +0000" stop="20261128040000 +0000" channel="USA Network East US">
-    <title>English Premier League Soccer</title>
+  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="Universo East US">
+    <title>Caso cerrado</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="USA Network East US">
-    <title>Premier League Mornings</title>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="Universo East US">
+    <title>12 Corazones</title>
   </programme>
-  <programme start="20261128043000 +0000" stop="20261128063000 +0000" channel="USA Network East US">
-    <title>English Premier League Soccer</title>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Universo East US">
+    <title>12 corazones</title>
   </programme>
-  <programme start="20261128063000 +0000" stop="20261128073000 +0000" channel="USA Network East US">
-    <title>Premier League Goal Zone</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="Universo East US">
+    <title>12 corazones</title>
   </programme>
-  <programme start="20261128073000 +0000" stop="20261128100000 +0000" channel="USA Network East US">
-    <title>Men's College Basketball</title>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="Universo East US">
+    <title>12 Corazones</title>
   </programme>
-  <programme start="20261128030000 +0000" stop="20261128040000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128150400 +0000" stop="20261128170000 +0000" channel="USA Network East US">
+    <title>Law And Order: Special Victims Unit</title>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="USA Network East US">
+    <title>Two and a Half Men</title>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="USA Network East US">
+    <title>Two and a Half Men</title>
   </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="USA Network East US">
+    <title>Two and a Half Men</title>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="USA Network East US">
+    <title>Two and a Half Men</title>
   </programme>
-  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="USA Network East US">
+    <title>Two and a Half Men</title>
   </programme>
-  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Tastemade US">
-    <title>Jamie Oliver: Seasons</title>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="USA Network East US">
+    <title>Two and a Half Men</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128030000 +0200" stop="20261128040000 +0200">
-    <title lang="zh">Sin senos sí hay paraíso</title>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="USA Network East US">
+    <title>Law And Order: Special Victims Unit</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128040000 +0200" stop="20261128050000 +0200">
-    <title lang="zh">Lejos de ti</title>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="USA Network East US">
+    <title>Law And Order: Special Victims Unit</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128050000 +0200" stop="20261128053500 +0200">
-    <title lang="zh">Noticias Telemundo</title>
+  <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="Tastemade US">
+    <title>Hardcore Carnivore</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128053500 +0200" stop="20261128060000 +0200">
-    <title lang="zh">Noticias Telemundo en la noche</title>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="Tastemade US">
+    <title>Hardcore Carnivore</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128060000 +0200" stop="20261128063000 +0200">
-    <title lang="zh">El pelotazo</title>
+  <programme start="20261128160000 +0000" stop="20261128163000 +0000" channel="Tastemade US">
+    <title>Hardcore Carnivore</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128063000 +0200" stop="20261128073000 +0200">
-    <title lang="zh">Lejos de ti</title>
+  <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="Tastemade US">
+    <title>Hardcore Carnivore</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128073000 +0200" stop="20261128080000 +0200">
-    <title lang="zh">Caso cerrado</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="Tastemade US">
+    <title>Hardcore Carnivore</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128080000 +0200" stop="20261128090000 +0200">
-    <title lang="zh">En casa con Telemundo</title>
+  <programme start="20261128170000 +0000" stop="20261128173000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo East US EPGpw" start="20261128090000 +0200" stop="20261128100000 +0200">
-    <title lang="zh">En casa con Telemundo</title>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="Tastemade US">
+    <title>Hardcore Carnivore</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128030000 +0200" stop="20261128033000 +0200">
-    <title lang="zh">Noticias Telemundo mediodía</title>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128033000 +0200" stop="20261128040000 +0200">
-    <title lang="zh">Noticias Telemundo</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128040000 +0200" stop="20261128060000 +0200">
-    <title lang="zh">Juego de villanos</title>
+  <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128060000 +0200" stop="20261128070000 +0200">
-    <title lang="zh">Sin senos sí hay paraíso</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128070000 +0200" stop="20261128080000 +0200">
-    <title lang="zh">Lejos de ti</title>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128080000 +0200" stop="20261128083500 +0200">
-    <title lang="zh">Noticias Telemundo</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128083500 +0200" stop="20261128090000 +0200">
-    <title lang="zh">Noticias Telemundo en la noche</title>
+  <programme start="20261128190000 +0000" stop="20261128193000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
   </programme>
-  <programme channel="Telemundo West US EPGpw" start="20261128090000 +0200" stop="20261128093000 +0200">
-    <title lang="zh">El pelotazo</title>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128200000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128210000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="Tastemade US">
+    <title>Andrew Zimmern’s Wild Game Kitchen</title>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128213000 +0000" channel="Tastemade US">
+    <title lang="en">Andrew Zimmern's Wild Game Kitchen</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261128150000 +0200" stop="20261128152500 +0200">
+    <title lang="zh">Live: Fútbol estelar</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261128152500 +0200" stop="20261128173000 +0200">
+    <title lang="zh">Live: Fútbol Bundesliga</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261128173000 +0200" stop="20261128182500 +0200">
+    <title lang="zh">Live: Fútbol estelar</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261128182500 +0200" stop="20261128203000 +0200">
+    <title lang="zh">Live: Fútbol Premier League</title>
+  </programme>
+  <programme channel="Telemundo East US EPGpw" start="20261128203000 +0200" stop="20261128230000 +0200">
+    <title lang="zh">Live: Fútbol Serie A</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261128150000 +0200" stop="20261128152500 +0200">
+    <title lang="zh">Live: Fútbol estelar</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261128152500 +0200" stop="20261128173000 +0200">
+    <title lang="zh">Live: Fútbol Bundesliga</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261128173000 +0200" stop="20261128182500 +0200">
+    <title lang="zh">Live: Fútbol estelar</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261128182500 +0200" stop="20261128203000 +0200">
+    <title lang="zh">Live: Fútbol Premier League</title>
+  </programme>
+  <programme channel="Telemundo West US EPGpw" start="20261128203000 +0200" stop="20261128230000 +0200">
+    <title lang="zh">Live: Fútbol Serie A</title>
   </programme>
 </tv>
